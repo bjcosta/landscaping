@@ -63,14 +63,15 @@ To model my house + yard, I did a few things:
 
 After this I had a fairly accurate model of the existing property including landscape contour and house. It took a while to get the contour correct and I think contour and elevation controls are probably the worst parts of the Realtime Landscaping pro software. 
 
-Perspective View                                                   |  Topdown View
-:-----------------------------------------------------------------:|:-----------------------------------------------------------------:
-![existing.perspective.png](existing/perspective.png | width=512)  |  ![existing.topdown_full.png](existing/topdown_full.png | width=512)
+
+Perspective View  |  Topdown View
+:---:|:---:
+![existing.perspective.png](existing/perspective.png =512x)  |  ![existing.topdown_full.png](existing/topdown_full.png =512x)
 
 
-Slope viewed from north                                                                               |  Slope viewed from east
-:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:
-width=512)  |  ![existing.slope_view_from_north.png](existing/slope_view_from_north.png | width=512)  |  ![existing.slope_view_from_east.png](existing/slope_view_from_east.png
+Slope viewed from north  |  Slope viewed from east
+:---:|:---:
+![existing.slope_view_from_north.png](existing/slope_view_from_north.png =512x)  |  ![existing.slope_view_from_east.png](existing/slope_view_from_east.png =512x)
 
 
 
