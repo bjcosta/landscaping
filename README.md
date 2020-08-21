@@ -66,12 +66,12 @@ After this I had a fairly accurate model of the existing property including land
 
 Perspective View  |  Topdown View
 :---:|:---:
-![existing.perspective.png](existing/perspective.png =512x)  |  ![existing.topdown_full.png](existing/topdown_full.png =512x)
+![existing.perspective.png](existing/perspective.png)  |  ![existing.topdown_full.png](existing/topdown_full.png)
 
 
 Slope viewed from north  |  Slope viewed from east
 :---:|:---:
-![existing.slope_view_from_north.png](existing/slope_view_from_north.png =512x)  |  ![existing.slope_view_from_east.png](existing/slope_view_from_east.png =512x)
+![existing.slope_view_from_north.png](existing/slope_view_from_north.png)  |  ![existing.slope_view_from_east.png](existing/slope_view_from_east.png)
 
 
 
