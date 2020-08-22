@@ -14,34 +14,34 @@ Over time I expect I will add many different sub-pages to this document.
 These are some stand-out places for information and inspiration for pond design:
 
 * Bama Bass pond
-** The best pond I have seen for asthetics and diversity
-** A great example: https://youtu.be/ddzmDF7Ds78
-** Youtube Channel: https://www.youtube.com/channel/UCSTueQfft5yfjNuRu2DZsHw
+  * The best pond I have seen for asthetics and diversity
+  * A great example: https://youtu.be/ddzmDF7Ds78
+  * Youtube Channel: https://www.youtube.com/channel/UCSTueQfft5yfjNuRu2DZsHw
 
 * Melbourne Aquaponics
-** Great example using an asthetically pleasing pond for Aquaponics: https://www.youtube.com/watch?v=p4Saas9WRws
-** Youtube Channel: https://www.youtube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ
+  * Great example using an asthetically pleasing pond for Aquaponics: https://www.youtube.com/watch?v=p4Saas9WRws
+  * Youtube Channel: https://www.youtube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ
 
 * The Pond Digger
-** Youtube Channel: https://www.youtube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA
-** Has LOTS of informative tutorials, how to build ponds, ponds gone wrong etc.
-** Not just a sinle style of pond byt covers multiple different use cases
-** How to build a fish pond: https://www.youtube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG-
-** How to build a koi pond: https://www.youtube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD
+  * Youtube Channel: https://www.youtube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA
+  * Has LOTS of informative tutorials, how to build ponds, ponds gone wrong etc.
+  * Not just a sinle style of pond byt covers multiple different use cases
+  * How to build a fish pond: https://www.youtube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG-
+  * How to build a koi pond: https://www.youtube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD
 
 * Team Aquascape
-** Youtube Channel: https://www.youtube.com/channel/UCbOyl13WDs8xYECSKZgoYsw
-** Very strong on the advertisment but they do have some amazing ponds that they showcase
-** One amazing example in Australia: https://www.youtube.com/watch?v=Rm-V0n-76UI&t=448s
+  * Youtube Channel: https://www.youtube.com/channel/UCbOyl13WDs8xYECSKZgoYsw
+  * Very strong on the advertisment but they do have some amazing ponds that they showcase
+  * One amazing example in Australia: https://www.youtube.com/watch?v=Rm-V0n-76UI&t=448s
 
 * Rob Bob's Aquaponics & Backyard Farm
-** Lots of great information on Aquaponics (not using ponds though but IBCs)
-** Youtube Channel: https://www.youtube.com/user/bnbob01
+  * Lots of great information on Aquaponics (not using ponds though but IBCs)
+  * Youtube Channel: https://www.youtube.com/user/bnbob01
 
 * Any Ponds (Also was Mark the Pond Advisor)
-** Youtube Channel: https://www.youtube.com/c/AnyPondTV/featured
-** A good example: https://www.youtube.com/watch?v=8X2mjw3cfzE
-** Does some nice maller ponds. I saw a few of these early on that inspired me
+  * Youtube Channel: https://www.youtube.com/c/AnyPondTV/featured
+  * A good example: https://www.youtube.com/watch?v=8X2mjw3cfzE
+  * Does some nice maller ponds. I saw a few of these early on that inspired me
 
 
 ## Overview of pond styles
