@@ -190,10 +190,28 @@ Expert tip: If you do go with a rubber liner, Leidner recommends buying a few ba
 
 ## Topup
 
+## Rocks on bottom or not
+
+Most ecosystem ponds have rocks on the bottom they look great and it is beneficial for smaller fish, insects and other aquatic animals like frogs. Most koi ponds have bare liner all the way and are deep from the start as the koi produce huge amounts of waste and this prevents the yearly maintantence of emptying the pond by maintaining cleaner water all the time. 
+
+Using the pond for aquaponics we would probably be mor elike a koi pond, however I want to try and acheive the best of both worlds. 
+
+The rocks + planting pockets make the ecosystem pond more suitable for other aquatic creatures, insects and small fish, and also serve as a way for trapped animals to escape if necessary. I am actually considering rocked bottom + planting pockets in the shallows and bare exposed liner + erated bottom drain for the deeper shelves. 
+
+My idea of using the pond for aquaponics means it is much more like a koi pond and the regular evacuation of fish waste is important. This will permit me the ability to not have to drain the pond every year I think to clean out the sludge forming under the rocks. We will see though. if all else fails I will then just do big rocks (not small) in the shallows with planted pots. But I think this isnt as good for other creatures.
+
+I have also considered adding under-gravel suction grid for the shallows to help. The goal would be every day to reverse this to ensure no detritus is lodged inbetween the rocks and flush it out. Not sure if this will work. I know if you dont do it regulary you should never do it as it will cause real issues dislodging the waste but doing it each day might be helpful and cause it to flush to the bottom drain.
+
+However I also want it to be suitable for frogs, for small fish, insects and other aquatic creatures. To achieve this I need planting and gradual slopes near the edges with protected coves. For frogs my understanding is they want basically still shallow warm water with planted cover. So I may have a section like that which is effectively separated off from the rest of the pond with no real current flow to it. More detail later.
+
+My thinking is the larger fish will not spend much time in the shallows and it will accumulate very little waste as a result. 
+
+* https://www.koiphen.com/forums/showthread.php?70879-Why-Most-Koiphen-Members-Discourage-Rocks-In-Ponds!
+
+
 ## Rock choice
 Rock types, and toxicisity and suitability
 
-* https://www.koiphen.com/forums/showthread.php?70879-Why-Most-Koiphen-Members-Discourage-Rocks-In-Ponds!
 
 ## Planting
 Planting pockets, types of plans and shelf depth etc

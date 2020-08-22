@@ -124,6 +124,7 @@ This change was significant and ideally would reduce the cost and complexity sig
 * Main access now easier to get to (not up on retaining but level with house)
 
 ![stage_5.perspective.png](stage_5/perspective.png)
+![stage_5.topdown.png](stage_5/topdown.png)
 
 
 ## Shaded pond and more balance 2020/08
@@ -144,6 +145,7 @@ This is where I am up to at the moment, and I have a lot of things to consider s
 TODO Need to update all the above with useful
 
 ![stage_6.perspective.png](stage_6/perspective.png)
+![stage_6.topdown.png](stage_6/topdown.png)
 
 
 
