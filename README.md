@@ -1,22 +1,25 @@
 # Asthectically pleasing, productive backyard landscaping
 
-This project will be used as a place to document my learnings and decisions made for a landscaping project in my backyard.
+This is the challange:
 
-If others are interested in designing an asthectically pleasing yet productive landscape in their suburban back yards, then maybe they can learn from my mistakes.
+> Can I turn a my typical surburban backyard into something that is both beautiful and productive?
 
-Overall we are trying to achieve a few things in this design:
-* Asthetically pleasing (Most permaculture, aquaponic systems I see are ugly, with a bit of planning I think there is no need for them to be)
-* Efficient/Sustainable (Setting up as many natural cycles as possible, working with nature instead of against it)
+This document will catalog the key areas considered in part of a design for my backyard to try and meet this challange. I want my backyard to be:
+* Asthetically pleasing (Most permaculture, aquaponic systems I see are ugly, with a bit of planning and cost I think there is no need for them to be)
 * Productive (Fruit, vegetables, eggs, fish)
-* Reduced maintainence (through automation and good up-front design)
+* Efficient/Sustainable (Setting up as many natural cycles as possible, working with nature instead of against it)
+* Low maintainence (through automation and good up-front design)
+
+On this page I will highlight aspects of the garden design I am considering and why with a brief overview. For each item, I plan to later provide a lot more detail including experiments, detailed designs and information. 
 
 ![photos.overview.png](photos/overview.png)
+
 
 ## Goal statement
 
 I used this as guide to create the goal statement: https://www.milkwood.net/2015/10/26/permaculture-design-process-1-writing-a-goal-statement/
 
-The purpose of the goal statement is to help us imagine what it is like and ensure that decisions I make along the way contribute to the high level outcome instead of getting lost in the details of specific technologies (I cant help myself though I MUST have a pond).
+The purpose of the goal statement is to help us imagine what it is like and ensure that decisions made along the way contribute to the high level outcome instead of getting lost in the details of specific technologies (I can't help myself though I MUST have a pond).
 
 > Our small suburban back yard is productive and beautiful. With a focus on sustainable closed loop ecosystems, it provides us with some edible food and a habitat for local wildlife while reducing our detrimental impact on the environment.
 > 
@@ -25,11 +28,31 @@ The purpose of the goal statement is to help us imagine what it is like and ensu
 
 # Key technologies
 
-I will document a few of the key technologies I plan to use in this design and why I want to add them.
+## Poly-culture/Diversity
 
-## Fowl
+The idea here is that a diverse ecosystem is typically more resiliant. This includes diversity in plants animals and insects and many of the technologies listed on this page contribute to this diversity. 
 
-Using fowl as part of a suburban eco-system is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
+We plan to plant various different species and types of plants. This includes flowers, fruit, vegetables and other possily non-edible support plants that help define the eco-system. 
+
+We will have a bias towards plants for human consumption which may cause some inbalance in the system, however I will adjust this as necessary after identifying specific issues.
+
+## Creating artificial ecosystems
+
+In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant. However this design, although learning where possible from local ecosystems I will instead attempt to artificially create non-native natural ecosystems in my backyard that better meet the goals.
+
+I have written more about my thinking on this [ecosystems.ecosystems.md](ecosystems/ecosystems.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce some of what we consume. 
+
+Tow good examples of this in the design are:
+### Adding a pond
+A pond is not natural in my backyard, and will require maintainence and some electricity. However its my personal opinion that the benefits far outweigh these drawbacks.
+
+### Tree selection
+A good choice here would likely be some kind of Eucalypt. It is a consideration, but in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees.
+
+
+## Fowl (Chickens)
+
+Using fowl as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
 
 Most likely we will include some bantham chickens, however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
 * Recycling human waste converting to manure good for the garden
@@ -37,24 +60,13 @@ Most likely we will include some bantham chickens, however if we are unable to d
 * Scratching around and aerating the soil
 * Providing meat and eggs
 
-## Poly-culture/Diversity
+Issues to consider:
+* Space requirements for happy chooks
+* Nutrient run-off into pond
+* Asthetics (chooks decimate landscape in runs and pens)
 
-The overall idea here is that a diverse ecosystem is typically more stable. This includes diversity in plants animals and insects and may of the other points help address this idea. 
 
-We plan to plant various different species and types of plants. This includes flowers, fruit, vegetables and other possily non-edible support plants that help define the eco-system. 
-
-We will have a bias towards plants for human production which may cause us some issues, however I will adjust this as necessary after identifying specific issues.
-
-## Multi-purpose features
-
-For each thing I add to the garden, I would like it to have more than one purpose. An example is that trees in this design will provide:
-* Shade and protection from the wind (Most trees are good for this)
-* Edible food (Fruit and nut trees are good for this)
-* Light regulation to define different micro-climates (Deciduous trees near house for light, evergreen near back to create a shady area)
-* Pollinator and bird attractants
-* Asthetics (Some trees like cherries have beautify flower displays, 
-
-## Ecosystem pond
+## Pond / water feature
 
 Adding running water into an ecosystem can introduce a huge diversity of wildlife to your back yard. This include birds, insects, frogs and lizzards. 
 
@@ -62,7 +74,7 @@ A diverse ecosystem is often naturally more robust, helping to improve its stabi
 
 Additionally, having a body of water in the back-yard will affect the micro-climate. Adding humidity and a bit more thermal stability. Especially if it is enclosed by structure such as trees/shrubs to hold the humidity in a little.
 
-And ponds/water features are just plain amazing and beautiful.
+Finally ponds/water features are just plain amazing and beautiful!
 
 Some issues with adding a pond might be unwanted guests like mosquitos, however if the pond is stocked correctly by say adding rainbowfish (again not a mono-culture of fish) we can minimise the impact of this. 
 
@@ -77,6 +89,7 @@ I know that some of these may eat each other, however if we design it correctly 
 The biggest issue with a pond is its complexity and potentially power usage. Designing to include it is taking more time than the rest of the garden. Hopefully with the right design, the maintainence can be minimised. 
 
 I expect to use a small 45W pump to run it 24/7, but automate a larger pump during the day when the solar panels are generating excess power to permit suficient water flow for the filtering. Additionally the pump is a critical part of the system and we should account for redundancy by having two pumps installed (or a backup aerator) and a backup battery with automatic failover.
+
 
 ## Insect larvae
 
@@ -106,6 +119,7 @@ One goal is to try and automate as much as possible to reduce maintainence, this
 
 
 ## Mulching
+TODO
 
 ## Retaining wall
 
@@ -129,6 +143,9 @@ Issues:
 ## Symbiotic mycelium
 TODO Layer wood mulch on top of soil and innocuate with edible mushroom mycelium
 
+## Bees
+Honey/Native
+
 ## Aquaponics
 
 This is something I am super interested in. I will plan to try it in my garden and if it fails that is ok. 
@@ -138,14 +155,17 @@ TODO
 
 TODO lots of individual ideas/technologies in the aquaponics section
 
-
-
-
 # Observations
 
 ## Soil
 
+TODO add page showing photos of process of soil testing, results analysis and details on what to do
+
 ## Sunlight
+
+TODO add page showing analysis of sun progress ove rtime (time-lapse)
+Show video of modeled sun/shadows from landscaping software and compare to real collected
+Show design shadows
 
 ## Drainage and water flow
 
@@ -173,6 +193,19 @@ TODO:
 # Inspirations
 
 Many things have provided inspiration in this design. Two areas in particular though stand out; Permaculture and Aquaponics.
+TODO
+
+# Achieving density
+
+For each thing I add to the garden, I would like it to have more than one purpose. An example is that trees in this design will provide:
+* Shade and protection from the wind (Most trees are good for this)
+* Edible food (Fruit and nut trees are good for this)
+* Light regulation to define different micro-climates (Deciduous trees near house for light, evergreen near back to create a shady area)
+* Pollinator and bird attractants
+* Asthetics (Some trees like cherries have beautify flower displays, 
+
+# Design Zones
+TODO Identify zones in design and key points of the micro-climates / ecosystems in those zones
 
 
 # Old Designs

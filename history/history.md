@@ -121,6 +121,7 @@ This change was significant and ideally would reduce the cost and complexity sig
 * Retaining wall height reduced to 600mm
 * Retaining wall goes no where near boundary fence (it is not retaining wher it approaches but just a garden border)
 * Pond is now visible from kitchen, and potential future deck
+* Main access now easier to get to (not up on retaining but level with house)
 
 ![stage_5.perspective.png](stage_5/perspective.png)
 
