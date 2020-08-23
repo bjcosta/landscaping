@@ -12,7 +12,7 @@ This document will catalog the key areas considered in part of a design for my b
 
 On this page I will highlight aspects of the garden design I am considering and why with a brief overview. For each item, I plan to later provide a lot more detail including experiments, detailed designs and information. 
 
-![photos.overview.png](photos/overview.png)
+![photos/overview.png](photos/overview.png)
 
 ## Big question to answer early
 
@@ -20,7 +20,7 @@ I have narrowed down to two main design options that have a big impact on the st
 
 You can find more info here: 
 
-[pond.ponds.md](pond/ponds.md)
+[pond/ponds.md](pond/ponds.md)
 
 ## Goal statement
 
@@ -47,7 +47,7 @@ We will have a bias towards plants for human consumption which may cause some in
 
 In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant. However this design, although learning where possible from local ecosystems I will instead attempt to artificially create non-native natural ecosystems in my backyard that better meet the goals.
 
-I have written more about my thinking on this [ecosystems.ecosystems.md](ecosystems/ecosystems.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce some of what we consume. 
+I have written more about my thinking on this [ecosystems/ecosystems.md](ecosystems/ecosystems.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce some of what we consume. 
 
 Tow good examples of this in the design are:
 ### Adding a pond
@@ -219,7 +219,7 @@ TODO Identify zones in design and key points of the micro-climates / ecosystems 
 
 This is a list of previous designs I made to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process tha has happened over the last few years:
 
-[history.history.md](history/history.md)
+[history/history.md](history/history.md)
 
 
 # References

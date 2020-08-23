@@ -15,7 +15,7 @@ I have narrowed down to two main design options that have a big impact on the st
 The two designs I am looking at are below. 
 
 ## Pond near house
-![stage_5.topdown.png](stage_5/topdown.png)
+![../history/stage_5/topdown.png](../history/stage_5/topdown.png)
 
 * 8.5 m^2 area, 1.7 m ^ 3 (Straight 70cm walls is 4 m ^3) volume, 12 m perimeter (Can probably extend length a bit but not width)
 + Has access to full sun
@@ -33,7 +33,7 @@ The two designs I am looking at are below.
 - Less space available for planting trees
 
 ## Pond near back of property
-![stage_6.topdown.png](stage_6/topdown.png)
+![../history/stage_6/topdown.png](../history/stage_6/topdown.png)
 
 * 9.3 m^2 area, 2 m ^ 3 (Straight 70cm walls is 5 m ^3) volume, 12 m perimeter
 + Larger pond
