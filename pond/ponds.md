@@ -8,8 +8,50 @@ Designing and building a pond is a huge amount of work compared to other parts o
 
 Over time I expect I will add many different sub-pages to this document.
 
+# Big question to answer early (Pond position)
 
-## Inspiration
+I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
+
+The two designs I am looking at are below. 
+
+## Pond near house
+![stage_5.topdown.png](stage_5/topdown.png)
+
+* 8.5 m^2 area, 1.7 m ^ 3 (Straight 70cm walls is 4 m ^3) volume, 12 m perimeter (Can probably extend length a bit but not width)
++ Has access to full sun
++ Is visible from the kitchen
++ Looks good for larger deck build
++ Little or no impact by run-off from chickens
++ Retaining wall very low height around pond better for structural support
++ No issues with pool fence regulations
++ Extra retaining should be unnecessary
+- Smaller pond (A little narrower)
+- Difficult to control shading (naturally or artificially)
+	* I may be able to use a small over pond bridge to create some shade (and a cool path to thinking rock on other side of pond)
+	* I can probably work something out here with planting shrubs on north/west edge
+- More difficult plumbing of the hydrostatic release drain (Needs to pipe further under grass down to pool retaining wall)
+- Less space available for planting trees
+
+## Pond near back of property
+![stage_6.topdown.png](stage_6/topdown.png)
+
+* 9.3 m^2 area, 2 m ^ 3 (Straight 70cm walls is 5 m ^3) volume, 12 m perimeter
++ Larger pond
++ Easy to control shading (naturally or artificially)
++ More space available for planting trees
++ Simpler plumbing of the hydrostatic release drain
++ Simple to plumb future radial flow filter if desired
+- No access to full sun there is forced part shading
+- Not visible from the kitchen
+- Blocks access back of property/glasshouse
+- Looks cramped if we do larger deck extension one day
+- Potentially impacted by run-off water from chickens unless suitable drainage is sufficent
+- Nearer to steep section of retaining wall may have issues with structural support
+- Maybe issues with pool fence regulations
+- May need extra retaining
+
+
+# Inspiration
 
 These are some stand-out places for information and inspiration for pond design:
 
@@ -44,11 +86,11 @@ These are some stand-out places for information and inspiration for pond design:
   * Does some nice maller ponds. I saw a few of these early on that inspired me
 
 
-## Overview of pond styles
+# Overview of pond styles
 
 There are a few major pond building styles I have seen. Many of the "best practices" between these styles also seem to contradict and it is important to understand what the reasons are and why to make good decisions unless you pond fits into one of the existing molds (which mine does not). 
 
-### Koi Ponds
+## Koi Ponds
 * Steep tall walls, deep pond, few if any planting shelves, often using concrete to prevent wall collapse
 * No loose rocks on the bottom
 * Use a bottom drain + some form of mechanical filtration often a seive
@@ -57,7 +99,7 @@ There are a few major pond building styles I have seen. Many of the "best practi
 * Sometimes more complex filtration and extra pumps (Including UV, bead, tumblers etc)
 
 
-### Ecosystem Ponds
+## Ecosystem Ponds
 
 In contrast to koi builds, there appears to be a more recent movement of what I am calling Aquascape ponds (largely fulled by the company making many of the components for these ponds, though not the only group doing so). These ponds seem to have quite a different style on builds:
 

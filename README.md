@@ -14,6 +14,13 @@ On this page I will highlight aspects of the garden design I am considering and 
 
 ![photos.overview.png](photos/overview.png)
 
+## Big question to answer early
+
+I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
+
+You can find more info here: 
+
+[pond.ponds.md](pond/ponds.md)
 
 ## Goal statement
 
@@ -28,7 +35,7 @@ The purpose of the goal statement is to help us imagine what it is like and ensu
 
 # Key technologies
 
-## Poly-culture/Diversity
+## Polyculture/Diversity
 
 The idea here is that a diverse ecosystem is typically more resiliant. This includes diversity in plants animals and insects and many of the technologies listed on this page contribute to this diversity. 
 
