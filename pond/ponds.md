@@ -12,43 +12,74 @@ Over time I expect I will add many different sub-pages to this document.
 
 I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
 
+I may also need more iterations on this when I get feedback about regulations from my local council about any requirements.
+
+The one I am most worried about is wether a pond deeper than 300 mm is considered a pool and will require a fence. In which case I dont thinkt a pond is feasible. 
+
+Pool regulations define a pool according to: https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/swimming-pools-and-spas
+
+> The law applies to any excavation, structure or vessel including swimming pools and spa pools that are:
+> 
+> * capable of being filled with water to a depth greater than 30cm, and
+> * used, designed, manufactured or adapted for swimming, wading, paddling or any other human aquatic activity.
+
+There are many extra docs since that one changing different aspects of pool and fencing regulations, though I didn't see any changes in the definition of swimming pool:
+https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/pool-fencing-requirements
+
+
+Another useful bit of information, is I think I will need a DA to approve a pond deeper than 300 mm though. According to which defines "Exempt and Complying Development Codes": https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40
+
+> (1)  The standards specified for that development are that the development must—
+>      (a)  not have a water depth of more than 300mm, and
+>      (a1)  not have a surface area of more than 10m2, and
+>      (b)  if it is constructed or installed in a heritage conservation area or a draft heritage conservation area—be located in the rear yard.
+> (2)  Despite subclause 1(a), a pond sump may be placed in a water feature or pond below a water depth of 300mm if the sump is covered with a bolted or anchored grate that is capable of supporting a weight of 150kg.
+
+I believe this means if the pond was < 300 mm deep and surface area < 10 m ^2 then no approval is required.
+
+One other reference about pond fencing and depth requirements is not official but helpful: https://ozponds.com/do-ponds-need-a-fence/
+
+
+
 The two designs I am looking at are below. 
 
 ## Pond near house
 ![../history/stage_5/topdown.png](../history/stage_5/topdown.png)
 
 * 8.5 m^2 area, 1.7 m ^ 3 (Straight 70cm walls is 4 m ^3) volume, 12 m perimeter (Can probably extend length a bit but not width)
-+ Has access to full sun
-+ Is visible from the kitchen
-+ Looks good for larger deck build
-+ Little or no impact by run-off from chickens
-+ Retaining wall very low height around pond better for structural support
-+ No issues with pool fence regulations
-+ Extra retaining should be unnecessary
-- Smaller pond (A little narrower)
-- Difficult to control shading (naturally or artificially)
++ Positive: Has access to full sun
++ Positive: Is visible from the kitchen
++ Positive: Looks good for larger deck build
++ Positive: Little or no impact by run-off from chickens
++ Positive: Retaining wall very low height around pond better for structural support
++ Positive: No issues with pool fence regulations
++ Positive: Extra retaining for the pond itself should be unnecessary
+- Negative: Smaller pond (A little narrower)
+- Negative: Difficult to control shading (naturally or artificially)
 	* I may be able to use a small over pond bridge to create some shade (and a cool path to thinking rock on other side of pond)
 	* I can probably work something out here with planting shrubs on north/west edge
-- More difficult plumbing of the hydrostatic release drain (Needs to pipe further under grass down to pool retaining wall)
-- Less space available for planting trees
+- Negative: More difficult plumbing of the hydrostatic release drain (Needs to pipe further under grass down to pool retaining wall)
+- Negative: Less space available for planting trees
 
 ## Pond near back of property
 ![../history/stage_6/topdown.png](../history/stage_6/topdown.png)
 
 * 9.3 m^2 area, 2 m ^ 3 (Straight 70cm walls is 5 m ^3) volume, 12 m perimeter
-+ Larger pond
-+ Easy to control shading (naturally or artificially)
-+ More space available for planting trees
-+ Simpler plumbing of the hydrostatic release drain
-+ Simple to plumb future radial flow filter if desired
-- No access to full sun there is forced part shading
-- Not visible from the kitchen
-- Blocks access back of property/glasshouse
-- Looks cramped if we do larger deck extension one day
-- Potentially impacted by run-off water from chickens unless suitable drainage is sufficent
-- Nearer to steep section of retaining wall may have issues with structural support
-- Maybe issues with pool fence regulations
-- May need extra retaining
++ Positive: My wife prefers this one
++ Positive: Larger pond
++ Positive: Easy to control shading (naturally or artificially)
++ Positive: More space available for planting trees
++ Positive: Simpler plumbing of the hydrostatic release drain
++ Positive: Simple to plumb future radial flow filter if desired
++ Positive: Maybe able to work some kind of fencing into design if necessary but will still be ugly
+- Negative: No access to full sun there is forced part shading
+- Negative: Not visible from the kitchen
+- Negative: Blocks access back of property/glasshouse
+- Negative: Looks cramped if we do larger deck extension one day
+- Negative: Potentially impacted by run-off water from chickens unless suitable drainage is sufficent
+- Negative: Nearer to steep section of retaining wall may have issues with structural support
+- Negative: Maybe issues with pool fence regulations
+- Negative: May need extra retaining for pond itself as land still sloped there without significant retaiing wall above
 
 
 # Inspiration
@@ -88,15 +119,16 @@ These are some stand-out places for information and inspiration for pond design:
 
 # Overview of pond styles
 
-There are a few major pond building styles I have seen. Many of the "best practices" between these styles also seem to contradict and it is important to understand what the reasons are and why to make good decisions unless you pond fits into one of the existing molds (which mine does not). 
+There are a few major pond building styles I have seen. Many of the "best practices" between these styles also seem to contradict and it is important to understand what the reasons are for the differences to make good decisions unless your pond fits into one of the existing molds (which mine does not). 
 
 ## Koi Ponds
-* Steep tall walls, deep pond, few if any planting shelves, often using concrete to prevent wall collapse
+* Optimized for pond volume and filtration
+* Steep tall walls, deep pond, few if any planting shelves, often using concrete (walls or collar) to prevent wall collapse
 * No loose rocks on the bottom
-* Use a bottom drain + some form of mechanical filtration often a seive
-* Use a skimmer for surface filtration
+* Use a bottom drain + some form of mechanical filtration often a seive and/or settling tank like swirl, radial flow etc
+* Use a skimmer for surface filtration almost exclusively
 * Often external bio-filtration
-* Sometimes more complex filtration and extra pumps (Including UV, bead, tumblers etc)
+* Sometimes extra complex filtration and pumps (Including UV, bead, tumblers etc)
 
 
 ## Ecosystem Ponds

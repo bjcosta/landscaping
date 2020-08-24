@@ -14,6 +14,9 @@ On this page I will highlight aspects of the garden design I am considering and 
 
 ![photos/overview.png](photos/overview.png)
 
+
+TODO: Add an image for each section makes it simpler to read and separate/find what we are after
+
 ## Big question to answer early
 
 I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
@@ -50,18 +53,18 @@ In an ideal world, I would base this entire design on local native ecosystems fo
 I have written more about my thinking on this [ecosystems/ecosystems.md](ecosystems/ecosystems.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce some of what we consume. 
 
 Tow good examples of this in the design are:
-### Adding a pond
+**Adding a pond**
 A pond is not natural in my backyard, and will require maintainence and some electricity. However its my personal opinion that the benefits far outweigh these drawbacks.
 
-### Tree selection
+**Tree selection**
 A good choice here would likely be some kind of Eucalypt. It is a consideration, but in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees.
 
 
 ## Fowl (Chickens)
 
-Using fowl as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
+Using chickens or pheasants as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
 
-Most likely we will include some bantham chickens, however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
+Most likely we will include some bantam chickens, however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
 * Recycling human waste converting to manure good for the garden
 * Cleaning bugs from lower storey plants
 * Scratching around and aerating the soil
@@ -95,18 +98,18 @@ I know that some of these may eat each other, however if we design it correctly 
 
 The biggest issue with a pond is its complexity and potentially power usage. Designing to include it is taking more time than the rest of the garden. Hopefully with the right design, the maintainence can be minimised. 
 
-I expect to use a small 45W pump to run it 24/7, but automate a larger pump during the day when the solar panels are generating excess power to permit suficient water flow for the filtering. Additionally the pump is a critical part of the system and we should account for redundancy by having two pumps installed (or a backup aerator) and a backup battery with automatic failover.
+I expect to use a small 45W pump to run it 24/7 to keep the water oxygenated and flowing and bacteria alive, but automate a larger pump during the day when the solar panels are generating excess power to permit suficient water flow for additional filtering. The pump is a critical part of the system and we should account for redundancy by having two pumps installed (or a backup aerator) and a battery with automatic failover.
 
 
 ## Insect larvae
 
-One of the more common used for this is Black soldier fly larvae. I have also seen someone in Melbourne using native flies which maybe preferrable for the climate we have.
+Insect larvae are becoming more popular as a means to efficiently convert human food waste into protien/fat for feeding chikens and fish (and occasionally the brave human).
 
-The idea is that larvae are very efficient at converting edible waste into protien and fat. The larvae themselves are good food for the chickens and fish.
+One of the more common species used for this is Black soldier fly larvae. I have also seen occasional use of native flies which maybe preferrable for the local climate but pose a few extra challenges.
 
-With black soldier fly larvae, apparently when they are getting ready to pupate they will crawl upwards, so a ramp can be made in the holding container and they will automatically crawl up when big enough and drop into say a bucket which we can then use.
+With black soldier fly larvae, when they are getting ready to pupate they will crawl upwards, so a ramp can be made in the holding container and they will automatically crawl up when big enough and drop into a bucket which we can then use for feeding the chickens and fish.
 
-The other thing about these flies is that they do not bother people too much and will return to the same container to lay eggs.
+There are other benefits specifically of the black soldier fly. They do not bother people much and will return to the same container to lay eggs so can sustain a continual production of eggs.
 
 Issues we need to overcome are:
 * Smell
