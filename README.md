@@ -59,22 +59,6 @@ Two good examples of this in the design are:
 **Tree selection** : A good choice here would likely be some kind of Eucalypt. It is a consideration, but in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees.
 
 
-## Fowl (Chickens)
-
-Using chickens or pheasants as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
-
-Most likely we will include some bantam chickens, however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
-* Recycling human waste converting to manure good for the garden
-* Cleaning bugs from lower storey plants
-* Scratching around and aerating the soil
-* Providing meat and eggs
-
-Issues to consider:
-* Space requirements for happy chooks
-* Nutrient run-off into pond
-* Asthetics (chooks decimate landscape in runs and pens)
-
-
 ## Pond / water feature
 
 Adding running water into an ecosystem can introduce a huge diversity of wildlife to your back yard. This include birds, insects, frogs and lizzards. 
@@ -100,36 +84,6 @@ The biggest issue with a pond is its complexity and potentially power usage. Des
 I expect to use a small 45W pump to run it 24/7 to keep the water oxygenated and flowing and bacteria alive, but automate a larger pump during the day when the solar panels are generating excess power to permit suficient water flow for additional filtering. The pump is a critical part of the system and we should account for redundancy by having two pumps installed (or a backup aerator) and a battery with automatic failover.
 
 
-## Insect larvae
-
-Insect larvae are becoming more popular as a means to efficiently convert human food waste into protien/fat for feeding chikens and fish (and occasionally the brave human).
-
-One of the more common species used for this is Black soldier fly larvae. I have also seen occasional use of native flies which maybe preferrable for the local climate but pose a few extra challenges.
-
-With black soldier fly larvae, when they are getting ready to pupate they will crawl upwards, so a ramp can be made in the holding container and they will automatically crawl up when big enough and drop into a bucket which we can then use for feeding the chickens and fish.
-
-There are other benefits specifically of the black soldier fly. They do not bother people much and will return to the same container to lay eggs so can sustain a continual production of eggs.
-
-Issues we need to overcome are:
-* Smell
-* Are native flies suitable for this
-* Which scraps to feed the larvae and which to feed the chickens
-
-## Composting
-
-TODO
-
-
-## Water retention
-TODO Passive water retention using swales, berms, mulch and shade
-Water tanks, positioning usage
-One goal is to try and automate as much as possible to reduce maintainence, this includes:
-* Water/irrigation
-
-
-## Mulching
-TODO
-
 ## Retaining wall
 
 Originally was going to be added just to level off a grassy area for the kids to play. 
@@ -148,6 +102,79 @@ Issues:
 * Possible tree root issues
 * Possible issues with structural soundness of the pond so close to foot of retaining wall
 
+## Water management
+
+There is a lot of literature on this and it is a big focus in many permaculture designs. The idea is to consider the flow of water through the property and how you can slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
+
+Common tools used in this include:
+* Create swales (depressions/trenches) to hold water so it can infiltrate the soil better instead of running off the top
+* Create berms to direct the water often into the swales
+
+There are a lot of considerations here. For example, in my design I have deliberatly added:
+* Chickens at top of slope
+* Swales in circular pattern going down the slope
+* Collection of water into tanks from hard surfaces (again at top of slope so there is natural gravity feed to garden from tank)
+* Protection of pond from run-off using berms and drainage
+
+If you look at the image, you can see the swales and water flow direction sown on the diagram. A key point to note about the chickens is that as water flows from the chickens at the top of the slope it will take nutrient rich water down with it, not just watering but also providing nourishment to the plants. 
+
+As the water hits a swale, it is kind of a dam, forcing the water to puddle a little and sink into the ground.
+
+![photos/swales.png](photos/swales.png)
+
+Also when adding swales I need to be sure that the height is such that the top of the swale is lower than the natural land level on my southern boundary fence to ensure no impact on the surrounding properties water drainage.
+
+### Irrigation
+
+I have a water tank and will be using that for irrigation occasionally during dry periods. The irrigation lines should aim to make use of the swales by irrigating from the upper area of the slope.
+
+TODO Not really fleshed this out
+
+
+## Fowl (Chickens)
+
+Using chickens or pheasants as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
+
+Most likely we will include some bantam chickens, however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
+* Recycling human waste converting to manure good for the garden
+* Cleaning bugs from lower storey plants
+* Scratching around and aerating the soil
+* Providing meat and eggs
+
+Issues to consider:
+* Space requirements for happy chooks
+* Nutrient run-off into pond
+* Asthetics (chooks decimate landscape in runs and pens)
+
+## Insect larvae
+
+Insect larvae are becoming more popular as a means to efficiently convert human food waste into protien/fat for feeding chikens and fish (and occasionally the brave human).
+
+One of the more common species used for this is Black soldier fly larvae. I have also seen occasional use of native flies which maybe preferrable for the local climate but pose a few extra challenges.
+
+With black soldier fly larvae, when they are getting ready to pupate they will crawl upwards, so a ramp can be made in the holding container and they will automatically crawl up when big enough and drop into a bucket which we can then use for feeding the chickens and fish.
+
+There are other benefits specifically of the black soldier fly. They do not bother people much and will return to the same container to lay eggs so can sustain a continual production of eggs.
+
+Issues we need to overcome are:
+* Smell
+* Are native flies suitable for this
+* Which scraps to feed the larvae and which to feed the chickens
+
+## Sunlight
+
+TODO add page showing analysis of sun progress over time (time-lapse)
+Show video of modeled sun/shadows from landscaping software
+Describe aspect of block, slope, retaining wall design, plant layout etc all playing a part in the passive use of sunlight on the block in summer/winter
+
+
+## Composting
+
+TODO
+
+## Mulching
+TODO
+
 
 ## Symbiotic mycelium
 TODO Layer wood mulch on top of soil and innocuate with edible mushroom mycelium
@@ -157,11 +184,14 @@ Honey/Native
 
 ## Aquaponics
 
-This is something I am super interested in. I will plan to try it in my garden and if it fails that is ok. 
+This is something I am super interested in. I will plan to try it in my garden unless the upkeep becomes too much.
 TODO
 
-### Red wriggler worms
+### Radio flow filter cleaning/fertalizer
 
+### Design of grow beds
+
+### Red wriggler worms
 TODO lots of individual ideas/technologies in the aquaponics section
 
 # Observations
@@ -170,13 +200,6 @@ TODO lots of individual ideas/technologies in the aquaponics section
 
 TODO add page showing photos of process of soil testing, results analysis and details on what to do
 
-## Sunlight
-
-TODO add page showing analysis of sun progress ove rtime (time-lapse)
-Show video of modeled sun/shadows from landscaping software and compare to real collected
-Show design shadows
-
-## Drainage and water flow
 
 ## Walking Paths
 
