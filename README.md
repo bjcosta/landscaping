@@ -52,12 +52,11 @@ In an ideal world, I would base this entire design on local native ecosystems fo
 
 I have written more about my thinking on this [ecosystems/ecosystems.md](ecosystems/ecosystems.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce some of what we consume. 
 
-Tow good examples of this in the design are:
-**Adding a pond**
-A pond is not natural in my backyard, and will require maintainence and some electricity. However its my personal opinion that the benefits far outweigh these drawbacks.
+Two good examples of this in the design are:
 
-**Tree selection**
-A good choice here would likely be some kind of Eucalypt. It is a consideration, but in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees.
+**Adding a pond** : A pond is not natural in my backyard, and will require maintainence and some electricity. However its my personal opinion that the benefits far outweigh these drawbacks.
+
+**Tree selection** : A good choice here would likely be some kind of Eucalypt. It is a consideration, but in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees.
 
 
 ## Fowl (Chickens)

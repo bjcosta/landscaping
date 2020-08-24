@@ -14,20 +14,27 @@ I have narrowed down to two main design options that have a big impact on the st
 
 I may also need more iterations on this when I get feedback about regulations from my local council about any requirements.
 
-The one I am most worried about is wether a pond deeper than 300 mm is considered a pool and will require a fence. In which case I dont thinkt a pond is feasible. 
+These regulations will be different everywhere, but where I live in NSW Australia, I need to find out if a pond deeper than 300 mm is considered a pool and will require a fence. In which case I dont think a pond is feasible to put into my design (well not one that is incapable of sustaining a small ecosystem with fish and not just a bowl full of algae). 
 
-Pool regulations define a pool according to: https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/swimming-pools-and-spas
+NSW Pool regulations define a pool according to: https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/swimming-pools-and-spas
 
 > The law applies to any excavation, structure or vessel including swimming pools and spa pools that are:
 > 
 > * capable of being filled with water to a depth greater than 30cm, and
 > * used, designed, manufactured or adapted for swimming, wading, paddling or any other human aquatic activity.
 
-There are many extra docs since that one changing different aspects of pool and fencing regulations, though I didn't see any changes in the definition of swimming pool:
+There are however many extra documents since the original definition changing different aspects of pool and fencing regulations, though I didn't see any changes in the definition of swimming pool:
 https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/pool-fencing-requirements
 
 
-Another useful bit of information, is I think I will need a DA to approve a pond deeper than 300 mm though. According to which defines "Exempt and Complying Development Codes": https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40
+This document is very clear, though is it current and official? It looks to be so: https://www.swimmingpoolregister.nsw.gov.au/inspection/Inspection%20Page%20FAQ.pdf
+
+> **Question:**  Do I need to fence (install a childresistance barrier for) my fish pond?
+> 
+> **Answer:** No. If a fish pond has been designed and, manufactured to be solely used as a fish pond, then no child-resistant barrier is required.
+
+
+Another useful bit of information, is I think I will need a DA to approve a pond deeper than 300 mm. According to this document which defines "Exempt and Complying Development Codes": https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40
 
 > (1)  The standards specified for that development are that the development must—
 >      (a)  not have a water depth of more than 300mm, and
@@ -35,11 +42,11 @@ Another useful bit of information, is I think I will need a DA to approve a pond
 >      (b)  if it is constructed or installed in a heritage conservation area or a draft heritage conservation area—be located in the rear yard.
 > (2)  Despite subclause 1(a), a pond sump may be placed in a water feature or pond below a water depth of 300mm if the sump is covered with a bolted or anchored grate that is capable of supporting a weight of 150kg.
 
-I believe this means if the pond was < 300 mm deep and surface area < 10 m ^2 then no approval is required.
+I believe this means if the pond was < 300 mm deep and surface area < 10 m ^2 then no approval is required. 
 
-One other reference about pond fencing and depth requirements is not official but helpful: https://ozponds.com/do-ponds-need-a-fence/
+One other reference about pond fencing and depth requirements is not official but helpful (and helped me locate the FAQ with a clear answer is): https://ozponds.com/do-ponds-need-a-fence/
 
-
+With that said, I plan to address the safety aspect of the pond in the design as well though position selection, bottom contour and planting choices.
 
 The two designs I am looking at are below. 
 
@@ -250,6 +257,16 @@ I would like to clarify and expand on this previous post of mine.
 This angle of slope will suffice providing pond depth does not exceed 4 feet. As depth increases this angle should also increase. OSHA stipulates that for depths up to 8 feet this angle should be at least 30 degrees from vertical.
 These aforementioned angles also assume that this excavation is in fairly compacted and undisturbed soil. All other soils will likely require a larger angle.
 
+## Safety
+
+It is important that the design considers safety of children and also animals (You dont want an animal getting stuck and drowned in your pond).  A typical ecosystem pond is usually designed with various levels of shallow shelves giving a gradual change to depth than say a typical Koi pond. 
+
+Additionally lining the bottom with rocks also makes it easier to purchase and get back out of the pond if an accident does happen than a bare exposed slippery liner. 
+
+Nothing is child proof, but this needs to be considered. 
+
+
+There are things you can do with pond positioning, edge treatment and planting choices to help make it a little safer. Having the main approaches to the pond be shallow with a rocked in bottom is probably a key item to consider here along with planting higher barriers in areas it would be less safe to approach from.
 
 
 ## Underlay + Concrete:
