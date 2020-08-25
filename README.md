@@ -4,13 +4,15 @@ This is the challange:
 
 > Can I turn a my typical surburban backyard into something that is both beautiful and productive?
 
-This document will catalog the key areas considered in part of a design for my backyard to try and meet this challange. I want my backyard to be:
+I plan to keep track of all the key areas considered as part of the design to meet this challange. I want my backyard to be:
 * Asthetically pleasing (Most permaculture, aquaponic systems I see are ugly, with a bit of planning and cost I think there is no need for them to be)
 * Productive (Fruit, vegetables, eggs, fish)
 * Efficient/Sustainable (Setting up as many natural cycles as possible, working with nature instead of against it)
 * Low maintainence (through automation and good up-front design)
 
-On this page I will highlight aspects of the garden design I am considering and why with a brief overview. For each item, I plan to later provide a lot more detail including experiments, detailed designs and information. 
+**Why am I doing this?**
+
+I love gardening, love eating food I have grown, married to a marine scientist (who likes conservation and understanding of ecosystems), want to make my yard look good and want to make a difference on my impact in the world. Finally my approach may be very design oriented and well as an engineer thats just how I like to do things (regulary to the rolling eyes of my wife) :-) 
 
 ![photos/overview.png](photos/overview.png)
 
