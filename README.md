@@ -118,6 +118,8 @@ There are a lot of considerations here. For example, in my design I have deliber
 
 You will notice that the water flow is linked across various aspects of the entire system to try and retain and get as much use from it as possible.
 
+I think these swales are probably a little bit small, and I will consider changing this a bit. But it gives the general idea.
+
 ![photos/water_flow.png](photos/water_flow.png)
 
 

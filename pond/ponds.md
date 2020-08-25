@@ -8,6 +8,9 @@ Designing and building a pond is a huge amount of work compared to other parts o
 
 Over time I expect I will add many different sub-pages to this document.
 
+
+![version_3/topdown.png](version_3/topdown.png)
+
 # Big question to answer early (Pond position)
 
 I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
@@ -23,7 +26,7 @@ NSW Pool regulations define a pool according to: https://www.fairtrading.nsw.gov
 > * capable of being filled with water to a depth greater than 30cm, and
 > * used, designed, manufactured or adapted for swimming, wading, paddling or any other human aquatic activity.
 
-There are however many extra documents since the original definition changing different aspects of pool and fencing regulations, though I didn't see any changes in the definition of swimming pool:
+There are however many extra documents since the original definition changing different aspects of pool and fencing regulations, I didn't see any changes in the definition of swimming pool. Also I spoke with a Duty Planner from Wollongong Council and they said yes we will need a DA as it is deeper than 300 mm, but they also confirmed that it is not classified as a pool and thus will not require boundary fencing. The DA will need to outline this information.
 https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/pool-fencing-requirements
 
 
@@ -35,6 +38,7 @@ This document is very clear, though is it current and official? It looks to be s
 
 
 Another useful bit of information, is I think I will need a DA to approve a pond deeper than 300 mm. According to this document which defines "Exempt and Complying Development Codes": https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40
+
 
 > (1)  The standards specified for that development are that the development must—
 >      (a)  not have a water depth of more than 300mm, and
