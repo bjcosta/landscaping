@@ -104,31 +104,46 @@ Issues:
 
 ## Water management
 
-There is a lot of literature on this and it is a big focus in many permaculture designs. The idea is to consider the flow of water through the property and how you can slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
-
-Common tools used in this include:
-* Create swales (depressions/trenches) to hold water so it can infiltrate the soil better instead of running off the top
-* Create berms to direct the water often into the swales
+There is a lot of literature on this and it is a big focus in many permaculture designs and important to think about in the current Australian climate when we regulary have water restrictions. The idea is to consider the flow of water through the property and how you can slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
 
 There are a lot of considerations here. For example, in my design I have deliberatly added:
-* Chickens at top of slope
-* Swales in circular pattern going down the slope
-* Collection of water into tanks from hard surfaces (again at top of slope so there is natural gravity feed to garden from tank)
+* Chickens at top of slope (nutrient rich run-off to plants)
+* Swales in circular pattern going down the slope to slow water down
 * Protection of pond from run-off using berms and drainage
+* Collection of water into tanks from hard surfaces
+* Overflow from roof collection tank into the pond
+* Overflow from pond to another swale
 
-If you look at the image, you can see the swales and water flow direction sown on the diagram. A key point to note about the chickens is that as water flows from the chickens at the top of the slope it will take nutrient rich water down with it, not just watering but also providing nourishment to the plants. 
+You will notice that the water flow is linked across various aspects of the entire system to try and retain and get as much use from it as possible.
 
-As the water hits a swale, it is kind of a dam, forcing the water to puddle a little and sink into the ground.
+![photos/water_flow.png](photos/water_flow.png)
+
+
+### Swales 
+
+A common tool to help water retention are swales. These are usually depressions/trenches dug to hold water so it can infiltrate the soil better instead of running off the top.
+
+If you look at the image, you can see the swales and water flow direction on the diagram. A key point to note is that as water flows from the chickens at the top of the slope it will take nutrient rich water down with it, not just watering but also providing nourishment to the plants. Also, the pond is further away to try and prevent this nutrient rich run off entering the pond.
+
+As the water hits a swale it dams up, forcing the water to puddle a little and sink into the ground.
+
+Swales can be "hidden" by digging a trench and filling it with something like blue-metal, or can be above ground using berms or a combination of both. Currently I have designed using berms to create little dams, but its likely I will use a combination of both to increase the volume and reduce the unsightly impact. 
+
+Berms also have the issue of eroding away and need to be constructed of a suitable material like clay. An important consideration when adding raised berms is to be sure that the height is such that the top of the berm is lower than the natural land level on my up-hill boundary fence to ensure there is no impact on the surrounding properties water drainage.
 
 ![photos/swales.png](photos/swales.png)
 
-Also when adding swales I need to be sure that the height is such that the top of the swale is lower than the natural land level on my southern boundary fence to ensure no impact on the surrounding properties water drainage.
+
+### Evaporation
+
+By completely mulching the garden area and adding trees to provide a shade canopy with layered shrubs etc, we are planning to design such that the property does its best to retain water where it is needed and has no directly exposed soil. 
 
 ### Irrigation
 
 I have a water tank and will be using that for irrigation occasionally during dry periods. The irrigation lines should aim to make use of the swales by irrigating from the upper area of the slope.
 
 TODO Not really fleshed this out
+
 
 
 ## Fowl (Chickens)
