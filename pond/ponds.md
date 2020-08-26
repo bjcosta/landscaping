@@ -11,6 +11,7 @@ Over time I expect I will add many different sub-pages to this document.
 
 ![version_3/topdown.png](version_3/topdown.png)
 
+
 # Big question to answer early (Pond position)
 
 I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
@@ -157,9 +158,12 @@ In contrast to koi builds, there appears to be a more recent movement of what I 
 
 ## Mehanical surface filtration
 
-My choice: Intake bay
+The most common option by far is installing a skimmer box and is on most pond builds I have seen.
 
-The most common option by far is installing skimmer box and is on most pond builds I have seen.
+My first choice would be an intake-bay because it reduces risk of killing animals in the pond, but also my initial thought is that they are simpler to clean/maintain evey week. However there are some significant complexities with installing a intake bay in my pond. As a result I am going to start with a typical skimmer box. 
+
+I also have an idea I plan to try to convert a skimmer box into a intake bay using a 3D printed adapter to replace the flapper that insteads draws the gravity fed intake from an aquablock under the rocks just in front of the skimmer. This may have some issues (like limited flow of water causing the pump to run dry), but I will give it a shot sometime after getting a working pond and see how it turns out.
+
 
 Options include:
 
@@ -171,9 +175,10 @@ Options include:
 	- Can suck in small animals and kill them (not great for ecosystem ponds with frogs, turtles etc)
 	
 * Intake bay (Seen only a few of these)
-	+ Look amazing, they looks very natural
+	+ Look amazing, they look very natural you cant see them at all
 	+ Regular maintainence (maybe weekly) uses a rake to take out debri instead of pulling out baskets (Yearly maybe cleaning out rocks?)
 	- Not seen a lot on these, I like the concept, do they work well I dont see much information on these after installed?
+	- Takes up a significant portion of the pond volume/area (Skimmers ar eusually installed on the side, so less liner required)
 	? Are they as effective as skimmer boxes? I assume the water flow is the same but no flapper so velocity of water lower
 	? Can probably install same water level maintainence in pump vault with hidden auto-water level topup using float valve + overflow / drain
 	
@@ -181,6 +186,9 @@ Options include:
 	In aquaponics usually they just cover the pond with a lid to prevent external debri getting in the first place. Not feasible in most ponds.
 	
 * Manual netting and rely on bottom drain (for people with nothing better to do)
+
+
+
 
 ## Mechanical bottom filtration
 
@@ -250,16 +258,62 @@ Key points here that I have been considering:
 	https://www.woodvalefishandlilyfarm.com.au/products/plants/water-plants/shade-tolerant-water-plants/
 
 
-## Pond bottom contour
-Tiered vs deep 
+## Pond bottom contour and shelves
+
+For an ecosystem pond we usually want to create a tiered set of shelves usually of different heights, based on planting zones. This is different for a koi or fish pond where often we want fairly steep walls and fewer shelves.
+
+When deciding on if you want to place shelves in a pond consider:
+* Aquatic plants require different depths of water, most prefer shallow water
+* Steeper walls have higher chance of collapse
+  * Shelves are often cheaper/simpler to construct than steep walled ponds because of this
+* Shelves provide locations for predatory birds to stand an stalk fish
+* Adding shelves reduces the volume of water in the pond (more temperature fluctuation etc)
+* Many insects and other wildlife require shallow and/or still water to thrive
+* Shelves are less effective for koi ponds that use a bottom drain as they often trap waste
+
+For these reasons, koi and fish ponds often dont have shelves and are steep walled but ecosystem ponds usually do. For my pond I plan to try using shelves. I have future plans to try different things to improve the issue of accumulated waste in the shelves but not to worry about to start with (regular cyclic suction/pushing unger-gravel grid).
 
 
-wall slope (not straight)
-https://www.gardenpondforum.com/threads/do-pond-walls-need-reinforcing.20670/
-I am assuming that you are referring to the use of just liner. In that case, i wold not recommend that any wall of any height be vertical. An angle of 15 - 20 degrees from the vertical will offer satisfactory protection from any structural collapse
-I would like to clarify and expand on this previous post of mine.
-This angle of slope will suffice providing pond depth does not exceed 4 feet. As depth increases this angle should also increase. OSHA stipulates that for depths up to 8 feet this angle should be at least 30 degrees from vertical.
-These aforementioned angles also assume that this excavation is in fairly compacted and undisturbed soil. All other soils will likely require a larger angle.
+When using shelves in a pond there are a few guidelines (that vary a bit depending on who you ask). Following is a list of things to consider (and more detail about specific depths etc that seems to vary between person below):
+
+* Shelve widths smaller than 30cm are difficult to seat rocks on, may collapse (depending on depth) and do not provide much space for planting
+* Shelves near waterfall need larger width to support the weight and size of large character boulders (45cm+ width)
+* Shelf widths should vary for a natural look, consistent widths look more formal
+* Often wider shelves at far end of pond for lots of planting and fewer/narrower shelves near approach to pond to get out of the way of seeing fish
+* Avoid sheer steep shelves to prevent wall collapse : https://www.gardenpondforum.com/threads/do-pond-walls-need-reinforcing.20670/
+  * "An angle of 15 - 20 degrees from the vertical will offer satisfactory protection from any structural collapse", "providing pond depth does not exceed 4 feet"
+* Avoid shelf depth changes larger than 30cm (12 ") to make rock selection easier: https://cepontzsons.com/pond-ledges/
+  * Usually a larger rock sits at the back of a shelf and rises above the level of the shelf above
+  * This creates lips on the shelves to hold back pebbles and prevent them falling further into the pond
+* Shelf depths should vary, a pond usually has shelves defining a few different planting "zones"
+  * Good guidelines: https://www.watersidenursery.co.uk/tips-advice/planting-the-pond-shelves-shelf-0-shelf-1-shelf-2/
+    * Shelf 0 : 13-15cm (5-6")
+    * Shelf 1 : 15-22cm (6-9")
+    * Shelf 2 : 23-44cm (10-17") OPTIONAL
+    * Shelf 3 : 75cm + (45" +)
+  * http://www.ozwatergardens.com.au/zone-map
+    * ZONE 1 : Pond floaters and drifters such as Duckweed.
+    * ZONE 2 : For pond edges or bog areas. eg. Tassel Rushes, Pennyworts, Sweet Flags, Irises and plants that like wet feet.
+    * ZONE 3 : 0-20cm plant depth. Suitable for marginal or bog plants like Water Irises, Milfoils and some grasses.
+    * ZONE 4 : 20-40cm plant depth. Ideal for smaller water plants such as Miniature Waterlilies, Water Poppies, Water Fringes and large marginal plants such as Rushes, Reeds and Sedges.
+    * ZONE 5 : 40cm or more in depth. Recommended for Waterlilies, Lotuses and underwater plants.
+  * Pond digger example: https://youtu.be/1Ak2wa28nE4?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG-
+    * Also same as pond digger : https://www.everything-ponds.com/water-garden-shelves-and-plants.html
+    * First Shelf : 20cm (8")
+    * Second shelf: 50cm (20")
+    * Bottom: 76cm (30")
+
+Given all the above variations, I decided that I would like to do the following:
+* Shelf 0 : 15 cm
+* Shelf 1 : 30 cm
+* Bottom  : 85? cm (As deep as feasible ideally, gives a 55cm wall which is large)
+* Around entire edge of pond is mostly 15cm but occasionally 30cm, meaning I can place rocks on shelf next to pond and not require stacking at the edge requiring a few 30 cm+ rocks but mostly 15cm with some smaller for variation
+* Minimal shelf width of 30cm, with 15-20cm rocks (even round) gives 10-15cm planting space
+* Shelf under waterfall >= 45cm
+* 2x planting pockets >= 45cm
+* Drop to 30cm at both approach points (not full bottom depth)
+
+
 
 ## Safety
 
