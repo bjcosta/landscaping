@@ -217,7 +217,10 @@ TODO lots of individual ideas/technologies in the aquaponics section
 
 ## Soil
 
-TODO add page showing photos of process of soil testing, results analysis and details on what to do
+TODO: Add details about what is important here generally and why (not speifically for my garden)
+
+TODO: This page will document the details about my soil test.
+[soil/soil.md](soil/soil.md)
 
 
 ## Walking Paths
