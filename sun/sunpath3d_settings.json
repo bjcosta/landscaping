@@ -1,0 +1,43 @@
+{
+    "Location": {
+        "latitude": -34.4,
+        "longitude": 150.8,
+        "timezone": 10,
+        "northOffset": 0
+    },
+    "DateTime": {
+        "clockTime": 10.5,
+        "dayOfMonth": 21,
+        "monthOfYear": 2,
+        "year": 2020
+    },
+    "SunPath": {
+        "showSunPos": true,
+        "showSunDirection": true,
+        "showSunAngles": false,
+        "showSunPath": true,
+        "showAnnualArea": true,
+        "showAnnualLines": true,
+        "showAxis": true,
+        "radius": 0.5691940588456252,
+        "solarChart": 0
+    },
+    "Display": {
+        "surfaceOpacity": 1,
+        "outlineOpacity": 0.5,
+        "surfaceShininess": 75,
+        "ambientFactor": 0.5
+    },
+    "Model": {
+        "shadowsShow": true,
+        "mapTiles": "Wikimedia"
+    },
+    "Animation": {
+        "animateTime": true,
+        "animateDate": true,
+        "animateLatitude": false,
+        "animateLongitude": false,
+        "daylightOnly": true,
+        "speed": 10
+    }
+}
