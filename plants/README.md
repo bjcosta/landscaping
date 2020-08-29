@@ -179,6 +179,11 @@ Template for each species:
 
 
 ### Mango R2E2 
+
+Photo of a local mango tree:
+
+![photos/mango.jpg](photos/mango.jpg)
+
 * Scientific Name: Mangifera indica
 * Category: Tree
 * Sun requirements: 80%-100% (https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm)
