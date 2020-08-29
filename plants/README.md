@@ -181,10 +181,7 @@ Template for each species:
 ### Mango R2E2 
 
 Photo of a local mango tree:
-
-<img src="photos/mango.jpg" width="48">
-
-![photos/mango.jpg](photos/mango.jpg)
+<img src="photos/mango.jpg" width="100">
 
 * Scientific Name: Mangifera indica
 * Category: Tree
