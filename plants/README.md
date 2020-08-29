@@ -49,10 +49,11 @@ References:
 There are a few key locations that have specific requirements, these are mostly trees and is why I needed to wait until design before selection.
 
 * 1x Large canopy evergreen tree : [Mango R2E2](#Mango-R2E2)
+
   We have planned for a single larger canopy evergreen tree. This is still not a huge tree but can grow a bit larger as it is not directly on the south boundary fence but planted a bit further into the yard and expected to provide shade in the south-western corner year-round.
   
   Considered species:
-  * Mango R2E2 [Mango R2E2](#Mango-R2E2)
+  * [Mango R2E2](#Mango-R2E2)
   * Maccadamia
   * Avacado
   
