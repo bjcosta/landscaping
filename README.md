@@ -119,6 +119,15 @@ I have a water tank and will be using that for irrigation occasionally during dr
 
 TODO Not really fleshed this out
 
+### Water tanks
+
+
+
+### Grey Water usage
+
+Interesting found a group to contact in the local area, but they have some decent info on greywater use: http://happyearth.com.au/greywater/
+
+
 ## Soil
 
 The type of soil available will have a large impact on the decisions made. In all cases soil can be built up and improved with a lot of effort. The two extremes are sandy soil and clay soil. Both can be improved through the ongoing addition of organic matter to the soil. 

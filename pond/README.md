@@ -46,6 +46,7 @@ I may also need more iterations on this when I get feedback about regulations fr
 + Positive: Simpler plumbing of the hydrostatic release drain
 + Positive: Simple to plumb future radial flow filter if desired
 + Positive: Maybe able to work some kind of fencing into design if necessary but will still be ugly
++ Positive: Can build decking for place to sit and dangle ferrt in pond
 - Negative: No access to full sun there is forced part shading
 - Negative: Not visible from the kitchen
 - Negative: Blocks access back of property/glasshouse
