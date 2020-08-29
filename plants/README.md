@@ -1,45 +1,62 @@
 # Plant Selection and Positioning
 
-TODO: This is very rough and just laying out my unorganized thoughts at the moment still to see if a useful structure appears.
+TODO: This is very rough and just laying out my unorganized thoughts at the moment still need to see if a useful structure appears.
 
-I have a lot more info elsewhere i need to bring into this page. I plan to get the specicies list sorted, then for each zone/required location specify explicit requirements (now just general requirements) and look at idea candidates and document what and why.
+I have a lot more info elsewhere i need to bring into this page. I plan to get the possible specicies list sorted, then for each zone/required location specify explicit requirements (now just general requirements) and look at idea candidates and document what and why.
 
 ## Requirements
 
-* No deciduous near southern neigbouring property
-* No trees that are poisonous to fish within the proximity of the pond
+* No deciduous trees near southern neigbouring property
+* No trees that are poisonous to fish within the proximity of the pond (prunus family, and others)
 * Max height of tree must not cause un-accounted for shading in the design (or tree should be feasible to prune and keep at the expected height)
 * Roots of trees near pool must not impact on its retaining wall and cause failure
 
 ## Goals
 
-* Each plant added should serve more than one purpose
-* Preferrable good for our hardiness zone
+* Each plant added should serve more than one purpose, and one of those should always be something we typically eat
+* Preferrably good for our hardiness zone
 * Avoid shading of neighbouring southern property (some is ok, but not a lot)
-* Use tall trees like bananas to block view on eastern boundary fence into our backyard
-* Avoid deciduous near pond and pool
-* Design so colour exists through most if not all the year (Ideally flowers or colourful leaves)
+* Avoid deciduous near pond and pool (likely not going to be possible)
+* Design so colour exists through most if not all the year (Ideally flowers or colourful leaves at different times of the year)
 * Avoid overhang of trees on any boundary fence
-* Roots of trees near south-eastern (highest point) of new (small) retaining wall should not impact it causing failure
+* Roots of trees near highest point (south-eastern) of new small retaining wall should not impact it causing failure (not a requirement like the pool retaining wall as I can easily repair it myself)
+* Use tall trees like bananas to block view on eastern boundary fence into our backyard
 
 ## Local environment
 
-We have different micro-climates in our design, however there is a macro overall environment that this lives in. 
-TODO: temperature, hardiness zone, rainfall, wind conditions??
-TODO: Show BOM statistics, frost possible I dont think so?
+* Frosts: Never observed (Nearby Albion park apparently 1.1 days mean a year, we maybe more protected)
+* Chill hours: 400-500 (Medium)
+* Soil PH: 5.1  : Acidic, need to improve using Calcitic lime (calcium carbonate), not dolomitic lime as high sodium content
+* Soil type: Clay, bad drainage (will attempt to improve using lime and adding organic matter)
+* Soil notes: Quite high salinity (Sodium, need to increase calcium)
+* Sun: 80-100%(Full)
+* Wind: Windy gusts in August and Feburary
+* Rainfall: 893mm per year, most in feb/mar fairly even through rest of year lowest month is sep
+* Slope aspect: Northerly
+* Hardiness Zone: 10b (1.7 - 4.4 degrees Celcius) (Or an aus specific zone 4 : https://www.anbg.gov.au/gardens/research/hort.research/zones.html)
+
+References: 
+* Soil report: [../soil/soil_report_2018_09_25_edited.pdf](../soil/soil_report_2018_09_25_edited.pdf)
+* Weather data: http://www.bom.gov.au/climate/averages/tables/cw_068241_All.shtml
+* Interractive Plant hardiness Zone: https://www.plantmaps.com/interactive-australia-plant-hardiness-zone-map-celsius.php
+* Chill calculations: https://blog.daleysfruit.com.au/2012/05/chill-hours-for-fruit-trees-calculation.html
 
 
 ## Designed in micro-climates
 
-TODO: Ver similar to the zones below. Maybe also consider the swales and water retention and chickens nutrient runoff
+TODO: Very similar to the zones below. Maybe also consider the swales and water retention and chickens nutrient runoff
 
 
 
 ## Considered Species List
 
 TODO: Earlier on I had a list of considered specicies I had details like below. I think having this would help me decide what to include/not
-* pH range
-* Light requirements
+
+TODO Tidy up this list and order, use data from mango example to inform what it might look like
+Maybe make it parsable so I can easily match to my requirements
+
+* pH range: 
+* Light requirements: 
 * Soil type
 * Temperature requirements (and hardiness zone)
 * Max height
@@ -52,6 +69,54 @@ TODO: Earlier on I had a list of considered specicies I had details like below. 
 * Ideally add info about fruiting/flowering times and colours so can evaluate asthetics
 * Water reuqirements
 * Also tried to kee list of maintainence requirements so I can see what needs to be done through the year
+
+### Mango 
+* Best variety selected: R2E2 Mango (Mangifera indica)
+* Frosts: Sometimes : https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
+* Soil pH: 
+	* Neutral (6.6-7.3pH) : https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
+	* 5.5 - 7.5 : https://www.gardenclinic.com.au/how-to-grow-article/mangoes
+	* 4.5-7.0 : https://homeguides.sfgate.com/soil-mango-tree-58272.html
+	* 6 - 7.2 : https://www.nda.agric.za/docs/Infopaks/mango.htm
+* Soil notes: Mango trees like moderately fertile soil but have a low tolerance for salty soil. : https://homeguides.sfgate.com/soil-mango-tree-58272.html
+* Chill hours: N/A
+* Sun location: Full (Sun:80%-100%) : https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
+* Soil type: Good Drainage : https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
+* Water requirements: Moderate : https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
+	* Withhold water for the three months prior to flowering, to encourage flowers, then water evenly until fruit ripens.
+* Height: 5-10m : https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
+* Width: 5m : https://www.daf.qld.gov.au/business-priorities/plants/fruit-and-vegetables/fruit-and-nuts/mangoes/mango-varieties/r2e2
+* Why I chose that variety: 
+	* Ok in cooler climates NSW (https://www.gardenclinic.com.au/how-to-grow-article/mangoes)
+	* Hardy/vigorous tree
+	* Good fruit
+* Requirements for choice:
+	* Evergreen not shedding leaves into neighbors pool or pond
+	* Tree to provide canopy shade
+	* I have seen some in our area they have almost mushroom shape I want for the tree
+* How/When to plant it:
+	* Best in Autumn apparently : https://www.gardenclinic.com.au/how-to-grow-article/mangoes
+	* All cases read indicate dig big hole put manure in the bottom of it
+* How/When to prune:
+	* Very good description and reasoning of pruning:
+	https://dpir.nt.gov.au/__data/assets/pdf_file/0018/232920/598.pdf
+* How/When to fertilize:
+	* Organic best suceptible to burn
+	* Similar to cirtus
+	* Do not fertilise after midsummer
+	* Young trees are particularly sensitive to over-fertilising, but respond well to seaweed and fish emulsion
+* What/When to spray:
+	* Very susceptible to anthracnose and other fungal problems
+	* Regularly spray anti-fungal alternate Mancozeb and copper oxychloride spray: during flowering then monthly until harvest : https://www.gardenclinic.com.au/how-to-grow-article/mangoes
+* RTL Model: Using "Cashew Tree" is too wide for height.
+* Useful information:
+	* Most useful calendar of things to do and when it grows etc: http://era.daf.qld.gov.au/id/eprint/1647/8/HG-1mango.pdf
+	* Very reliable and detailed commercial info for mangos and growing: https://www.daf.qld.gov.au/business-priorities/plants/fruit-and-vegetables/fruit-and-nuts/mangoes
+	* Simple to read succinct and informative: https://www.gardenclinic.com.au/how-to-grow-article/mangoes
+	* http://horticultureworld.net/botany-taxonomy.htm
+	* https://gardenerdy.com/mango-tree-care
+	* https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
+	* https://www.daf.qld.gov.au/business-priorities/plants/fruit-and-vegetables/fruit-and-nuts/mangoes/mango-varieties/r2e2
 
 
 ## Key locations with specific requirements
@@ -155,3 +220,10 @@ The goal is to layer the planting so get the most out of all the space.
   * Maybe some are edible? What can we do here with edible planting? 
   * Some specifically for the frog area
   * Take into account height, asthetics etc
+
+
+
+
+
+TODO:
+* ideas like 

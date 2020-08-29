@@ -9,7 +9,7 @@ They provided a professional service to to use. I did find out afterwards that v
 
 I obtained test results for both the top soil and sub-soil as they are quite different. 
 
-You can see the soil report: ![soil_report_2018_09_25_edited.pdf](soil_report_2018_09_25_edited.pdf)
+You can see the soil report: [soil_report_2018_09_25_edited.pdf](soil_report_2018_09_25_edited.pdf)
 
 Some photos showing the collection of the soil samples:
 
