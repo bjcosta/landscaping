@@ -55,6 +55,8 @@ There are a few key locations that have specific requirements, these are mostly 
 
 ### Large canopy evergreen tree : [Mango R2E2](#Mango-R2E2)
 
+<img src="photos/large_evergreen_tree.png" width="100">
+
   We have planned for a single larger canopy evergreen tree. This is still not a huge tree but can grow a bit larger as it is a reasonable distance from the south boundary fence and expected to provide shade in the south-western corner of our yard year-round creating a shady, cool micro-climate.
   
   I have already chosen an R2E2 Mango tree for this location, it has been planted and is doing well. I saw multiple mango trees in the area thriving and producing fruit. Of all the other specifies we might have planted here, the mago is maybe less suited but more useful to our consumption. 
@@ -74,6 +76,8 @@ There are a few key locations that have specific requirements, these are mostly 
   * Asthetics : Also considered a macadamia tree here, but macadamia trees do not look as good IMO
 
 ### Large canopy deciduous tree
+
+<img src="photos/large_deciduous_tree.png" width="100">
   
   We have planned for a single larger deciduous tree located near the pool (and the pond), which is undesirable for a deciduous tree, but unavoidable as I need something here on the northern side of the yard that permits light in during winter or the entire back yard is in shade. 
 
@@ -113,6 +117,8 @@ There are a few key locations that have specific requirements, these are mostly 
 
 ### Smaller evergreen trees
 
+<img src="photos/small_evergreen_trees.png" width="100">
+
   We have planned for multiple smaller evergreen trees along southern boundary fence. There is a bit more choice in this selection as it is not creating deliberate micro-cimates or structure in the yard. As long as the trees meet the requirements outlined below it should be fine for many choices. They should get reasonable amount of sunlight and ok drainage.
   
   Available space (for each plant):
@@ -136,6 +142,8 @@ There are a few key locations that have specific requirements, these are mostly 
 
 ### Dense evergreen bushes
 
+<img src="photos/dense_evergreen_bushes.png" width="100">
+
   The purpose of this is to hide the chicken run. It will be along the western boundary and we want to use it to make the chicken run and boundary fence hidden.
   
   We have space for multiple different varieties here. Ideally evergreen but not a requirement. We can also choose to add a single deciduous smaller tree and a few shrubs, so long as the shrubs can grow under the tree.
@@ -156,6 +164,8 @@ There are a few key locations that have specific requirements, these are mostly 
 
 
 ### Tall narrow trees for blocking eastern view into our back yard
+
+<img src="photos/privacy_screen_trees.png" width="100">
 
   We need a row of trees planted in the chicken run that ideally have a narrow base, are tall and have leaves high up. Some examples are plams or bananas. 
   
@@ -180,6 +190,8 @@ There are a few key locations that have specific requirements, these are mostly 
   * length to cover is about 5m long
  
 ### Smaller deciduous near glass house / pool fence
+
+<img src="photos/smaller_deciduous_corner.png" width="100">
 
   We have space in the corener and ideally to add balance to the yard for a single smaller deciduous tree/shrub like a fig. This is for asthetics adding balance and also some shade in the summer. Must be deciduous to permit light through in the winter.
 
