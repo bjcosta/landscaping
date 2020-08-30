@@ -6,7 +6,7 @@ I have a lot more info elsewhere I need to bring into this page. I plan to get t
 
 ## Requirements
 
-* No deciduous trees near southern neigbouring property
+* No deciduous trees near southern neighbouring property
 * No trees that are poisonous to fish within the proximity of the pond (prunus family, and others)
 * Max height of tree must not cause un-accounted for shading in the design (or tree should be feasible to prune and keep at the expected height)
 * Roots of trees near pool must not impact on its retaining wall and cause failure
@@ -43,79 +43,169 @@ References:
 * Interractive Plant hardiness Zone: https://www.plantmaps.com/interactive-australia-plant-hardiness-zone-map-celsius.php
 * Chill calculations made from: https://blog.daleysfruit.com.au/2012/05/chill-hours-for-fruit-trees-calculation.html
 
+## Good references
+
+* Growing fruit trees in the back-yard : https://www.davewilson.com/home-gardens/backyard-orchard-culture
+  * One key idea is groing multiple trees together in the one planting hole, to get a spread of fruit times.
+
 
 ## Key locations with specific requirements
 
 There are a few key locations that have specific requirements, these are mostly trees and is why I needed to wait until design before selection.
 
-* 1x Large canopy evergreen tree : [Mango R2E2](#Mango-R2E2)
+### Large canopy evergreen tree : [Mango R2E2](#Mango-R2E2)
 
-  We have planned for a single larger canopy evergreen tree. This is still not a huge tree but can grow a bit larger as it is not directly on the south boundary fence but planted a bit further into the yard and expected to provide shade in the south-western corner year-round.
+  We have planned for a single larger canopy evergreen tree. This is still not a huge tree but can grow a bit larger as it is a reasonable distance from the south boundary fence and expected to provide shade in the south-western corner of our yard year-round creating a shady, cool micro-climate.
+  
+  I have already chosen an R2E2 Mango tree for this location, it has been planted and is doing well. I saw multiple mango trees in the area thriving and producing fruit. Of all the other specifies we might have planted here, the mago is maybe less suited but more useful to our consumption. 
+
+  Available space:
+  * Ideally: 5m wide, 5m high
+  * Maximum: 6m wide (prevent overhang of fence), 6m high as well, though height is less important here
   
   Considered species:
   * [Mango R2E2](#Mango-R2E2)
   * Maccadamia
   * Avacado
   
-  This has already been chosen as a R2E2 Mango tree, it has been planted and is doing well. I saw multiple mango trees in the area thriving and producing fruit.
-  Purposes:
-  * Food (Highly rated we will always eat this if it fruits)
-  * Shade / structure
-  * Asthetics : Also considered a macadamia tree here, but macadamia trees do not look as good)
+  Purposes of tree at this location:
+  * Food
+  * Shade and structure to garden creating a shaded micro-climate
+  * Asthetics : Also considered a macadamia tree here, but macadamia trees do not look as good IMO
 
-* 1x Large canopy deciduous tree (Near pool, must drop leaves in winter to provide sunlight to others)
-
-  We have space allocated for a single large deciduous tree. From my calculations this tree can afford to be upto 6m high easily without an impact on shading for the pond and other areas of the garden. it may be able to be a bit larger
+### Large canopy deciduous tree
   
+  We have planned for a single larger deciduous tree located near the pool (and the pond), which is undesirable for a deciduous tree, but unavoidable as I need something here on the northern side of the yard that permits light in during winter or the entire back yard is in shade. 
+
+  Consider multiple species in a single planting hole or multipe species on single graft: https://www.davewilson.com/home-gardens/backyard-orchard-culture
+  
+  If this tree doesn't work out it isnt super important to the design. It just adds balance and shading for a seating area.
+
+  Available space:
+  * Ideally: 5m wide, 5m high
+  * Maximum: 6m wide (prevent shading of pond plants), 6m high as well, though height is less important here
+
   Considered species:
   * Apple
   * Pear
-  * Cherry (Looks lovely, but likely too close to pond and seeds from species prunus is toxic for fish)
   * Almond
+  * Fig
+  * Red Mulberry
+  * Hortulan Plum
+  * Persimmon (Dont eat much of)
+  * Little Walnut
+  * Cherry (Looks lovely, but likely too close to pond and seeds from species prunus is toxic for fish)
+  * Nectarine (Prunus)
+  * Peach (Prunus)
+  * Sweet Cherry
   * TODO Other nut trees might be suitable as well?
+
+  Purposes of tree at this location:
+  * Food
+  * Sunlight in winter, shade in summer
+  * Asthetics adding balance to the backyard design
 
   Issues to consider:
   * Root system and pool retaining wall
   * Proximity to pond and toxicity for fish
   * Shape and proximity of branches to pool fence (for pool safety, there are regulations, but probably far enough away)
+  * Size is important for impact on the sunlight to plants on south boundary fence
 
-* 3-5x Smaller/Medium evergreen tree(s) (Along southern boundary fence, dont overhang, dont overshade south, provide canopy)
-  * We have space for a number of smaller evergreen trees on the southern boundary fence. 
+### Smaller evergreen trees
+
+  We have planned for multiple smaller evergreen trees along southern boundary fence. There is a bit more choice in this selection as it is not creating deliberate micro-cimates or structure in the yard. As long as the trees meet the requirements outlined below it should be fine for many choices. They should get reasonable amount of sunlight and ok drainage.
   
+  Available space (for each plant):
+  * Ideally: 2m wide, 3m high
+  * Maximum: width variable depending on where located, 3.5m high
+
   Considered species:
   * Lemon (Eureka)
   * Orange (Dwarf)
 
-* Nx? Dense bush hiding chicken run
-  Ideally evergreen but not a requirement. It should be dense and height is unimportant. Will have partial sun (probably more than 50%)
-  The main purpose of this is to hide the chicken run and the fence behind it. 
-  
-  There can be multiple here there is space and the more dense it is the better.
-  
-  Considered species:
-  * Coffee (Not particulary dense but ok)
-  ?
+  Purposes of tree at this location:
+  * Food
+  * Fewer other considerations here so we have more choice
 
-* Tall narrow trees for blocking eastern view into our back yard
-
-  Want about 4-6m high
-  
-  Considered species:
-  * Banana
-  * Palm trees
-  
   Issues to consider:
-  * Is inside chook run and so must be narrow at base
+  * Must not be too tall and overly shade southern neighbouring property
+  * Unless very small (under fence-line) should not be deciduous as neighbouring property will not like extra leaves in his pool 
+  * Must not have branches overhanging neighbouring property
+  * Some of them are close to fish pond and cant be species that are toxic to fish
 
-* Smaller deciduous near glass house / pool fence. There is space for something like a fig here I think
+
+### Dense evergreen bushes
+
+  The purpose of this is to hide the chicken run. It will be along the western boundary and we want to use it to make the chicken run and boundary fence hidden.
+  
+  We have space for multiple different varieties here. Ideally evergreen but not a requirement. We can also choose to add a single deciduous smaller tree and a few shrubs, so long as the shrubs can grow under the tree.
+  
+  Available space (for each plant):
+  * Ideally: 2m wide, 3m high
+  * Maximum: 3m wide, 3.5m high
+
+  Considered species:
+  * Coffee (Not particulary dense but ok to mix with others)
+
+  Purposes of tree at this location:
+  * Food
+  * Density to hide chicken run
+
+  Issues to consider:
+  * Not full sun, probably >50% summer but less in winter
 
 
+### Tall narrow trees for blocking eastern view into our back yard
 
-## Planting Zones
+  We need a row of trees planted in the chicken run that ideally have a narrow base, are tall and have leaves high up. Some examples are plams or bananas. 
+  
+  The neighbouring property on the west have built a large deck that looks into our backyard. The goal of these is to provide some privacy. We shouldn't make trees too tall that will block their view, but ideally grow such that the leaves block to the top of our roof.
+  
+  Available space (for each plant):
+  * Ideally: ? wide, 5m high TODO need to model accuratly deck height and measure thi view.
+  * Maximum: ?m wide, 6m high
+
+  Considered species:
+  * Banana Cavendish
+  * Palm trees
+  * Date trees (wont work I dont think)
+  * Bamboo
+
+  Purposes of tree at this location:
+  * Food
+  * Privacy screen
+
+  Issues to consider:
+  * Narrow chicken run at base about 1.2m wide
+  * length to cover is about 5m long
+ 
+### Smaller deciduous near glass house / pool fence
+
+  We have space in the corener and ideally to add balance to the yard for a single smaller deciduous tree/shrub like a fig. This is for asthetics adding balance and also some shade in the summer. Must be deciduous to permit light through in the winter.
+
+  Available space (for each plant):
+  * Ideally: 3m wide, 4m high 
+  * Maximum: 4m wide, 5m high
+
+  Considered species:
+  * Fig
+  * Almond
+  * Peach etc
+
+  Purposes of tree at this location:
+  * Food
+  * Asthetic balance
+
+  Issues to consider:
+  * Must be deciduous
+  * Ideally mushroom shape, could be taller and overhang table.chairs area
+
+
+## Additionaly less specific planting zones
 
 In addition to the above specific locations, I have a few zones in which I expect to be able to plant a variety of smaller shrubs/ground covers that are not as specific for purposes as the ones above. Instead these have the luxury of being "fillers" and so can serve purposes other than shade/structure, hiding things etc.
 
-These can add colour/asthetics, and will likely include berries, herbs and other bushes and ground covers. I dont mind a few of these being exotic and occasional use as they dont take lots of space. 
+These can add colour/asthetics, and will likely include berries, herbs and other bushes and ground covers. I dont mind a few of these being exotic and occasional use as they dont take lots of space. Also, it is helpful to include flowers in these areas to attract bees and other insects.
 
 The goal is to layer the planting so get the most out of the vertical space.
 
@@ -154,30 +244,7 @@ The goal is to layer the planting so get the most out of the vertical space.
 
 ## Considered Species List
 
-Each item can have sub-points that identify varying values from different references in case there seems to be inconsistency. The main one will be what we use though
-
-Template for each species:
-* Scientific Name: Mangifera indica
-* Category: Tree/Shrub/Vine/Ground Cover
-* Sun requirements: X%-Y% (reference)
-* Water requirements: Low/Moderate/High (reference)
-* Height: 5-10m (reference)
-* Width: 5m (reference)
-* Flowering Months: August (reference)
-* Fruiting/Harvest Months: February, March, April (reference)
-* Soil pH range: X-Y (reference)
-* Soil type: Good Drainage (reference)
-* Chill hours: N/A
-* Frosts: Sometimes, Never, Yes, Required (reference)
-* Aus Climate Zones (Will use daleys ones): Sub Tropical, Tropical (See https://blog.daleysfruit.com.au/2014/02/climate-zones.html, https://www.gardenia.net/guide/australian-hardiness-zones and https://www.anbg.gov.au/gardens/research/hort.research/zones.html)
-* USDA Plant Hardiness Zones: (reference)
-* Diseases: (reference)
-* Maintanence: 
-  * Pruning: 
-  * Fertalizer:
-  * Spray:
-* Notes:
-
+Here I plan to document the species I have considered and the research I have done on them ordered in a way that helps me to make simpler decisions.
 
 ### Mango R2E2 
 
@@ -193,6 +260,7 @@ Photo of a local mango tree
 * Height: 5-10m (https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm)
   * 3-7m (https://www.gardenclinic.com.au/how-to-grow-article/mangoes)
 * Width: 5m (https://www.daf.qld.gov.au/business-priorities/plants/fruit-and-vegetables/fruit-and-nuts/mangoes/mango-varieties/r2e2)
+* Root system: 
 * Flowering Months: August (From observation)
   * May, June  (https://dpir.nt.gov.au/__data/assets/pdf_file/0018/232920/598.pdf)
 * Fruiting/Harvest Months: February, March, April (https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm)
@@ -238,6 +306,30 @@ Photo of a local mango tree
 TODO Not done anything below here needs to update and format like above
 
 
+Each item can have sub-points that identify varying values from different references in case there seems to be inconsistency. The main one will be what we use though
+
+Template for each species:
+* Scientific Name: Mangifera indica
+* Category: Tree/Shrub/Vine/Ground Cover
+* Sun requirements: X%-Y% (reference)
+* Water requirements: Low/Moderate/High (reference)
+* Height: 5-10m (reference)
+* Width: 5m (reference)
+* Root system: 
+* Flowering Months: August (reference)
+* Fruiting/Harvest Months: February, March, April (reference)
+* Soil pH range: X-Y (reference)
+* Soil type: Good Drainage (reference)
+* Chill hours: N/A
+* Frosts: Sometimes, Never, Yes, Required (reference)
+* Aus Climate Zones (Will use daleys ones): Sub Tropical, Tropical (See https://blog.daleysfruit.com.au/2014/02/climate-zones.html, https://www.gardenia.net/guide/australian-hardiness-zones and https://www.anbg.gov.au/gardens/research/hort.research/zones.html)
+* USDA Plant Hardiness Zones: (reference)
+* Diseases: (reference)
+* Maintanence: 
+  * Pruning: 
+  * Fertalizer:
+  * Spray:
+* Notes:
 
 
 
@@ -685,7 +777,6 @@ Trees available in application:
 Lemon 6.1m
 Loquot 9.14
 Little Walnut 9.14m decid
-Hortulan Plum
 Carob Tree 9.14m good shape
 Cashew Tree 9.14m good shape
 Guava 7.6m
@@ -695,7 +786,12 @@ Meyer Lemon 3.66
 Olive 7.62
 Orange 6.1
 Red Mulberry 12.19m decid
+Hortulan Plum
 Rio Red Grapefruit 6.1
 Sweet Cherry 18.29m decid
+Red Mulberry 12.19m decid
+Hortulan Plum
+
+
 Tamarind 15,24 decid
 
