@@ -20,9 +20,9 @@ Key additions:
 * Maybe a small shade tree for the pond alone, similar to overhanging maples in koi ponds etc
 * Maybe a small bridge over pond to a sitting rock (Not the best destination), but bridge will provide shade
 
-Table on Grass  |  Pond on Grass
+Perspective View  |  Topdown View
 :---:|:---:
-![stage_7/perspective.png](stage_7/perspective.png)  |  ![stage_7/perspective.png](stage_7/perspective.png)
+![stage_7/perspective.png](stage_7/perspective.png)  |  ![stage_7/topdown.png](stage_7/topdown.png)
 
 
 ## Shaded pond and more balance 2020/08
@@ -40,9 +40,9 @@ This is where I am up to at the moment, and I have a lot of things to consider s
 * Proximity to retained section of retaining wall is probably ok but a little worse than last location
 * Better location to install drainage to prevent hydro-static pressure raising the liner
 
-Table on Grass  |  Pond on Grass
+Perspective View  |  Topdown View
 :---:|:---:
-![stage_6/perspective.png](stage_6/perspective.png)  |  ![stage_6/perspective.png](stage_6/perspective.png)
+![stage_6/perspective.png](stage_6/perspective.png)  |  ![stage_6/topdown.png](stage_6/topdown.png)
 
 
 ## Pond below retention 2020/03
@@ -56,9 +56,9 @@ This change was significant and ideally would reduce the cost and complexity sig
 * Pond is now visible from kitchen, and potential future deck
 * Main access now easier to get to (not up on retaining but level with house)
 
-Table on Grass  |  Pond on Grass
+Perspective View  |  Topdown View
 :---:|:---:
-![stage_5/perspective.png](stage_5/perspective.png)  |  ![stage_5/perspective.png](stage_5/perspective.png)
+![stage_5/perspective.png](stage_5/perspective.png)  |  ![stage_5/topdown.png](stage_5/topdown.png)
 
 
 
