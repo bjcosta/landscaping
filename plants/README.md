@@ -1,6 +1,6 @@
 # Plant Selection and Positioning
 
-TODO: This is very rough and just laying out my unorganized thoughts at the moment still need to see if a useful structure appears.
+TODO: I now have a structure for this page, I need to fill out the details obtained from elsehwre
 
 I have a lot more info elsewhere I need to bring into this page. I plan to get the possible specicies list sorted, then for each zone/required location specify explicit requirements (now just general requirements) and look at idea candidates and document what and why.
 
@@ -34,8 +34,20 @@ I have a lot more info elsewhere I need to bring into this page. I plan to get t
 * Rainfall: 893mm per year, most in feb/mar fairly even through rest of year lowest month is sep
 * Slope aspect: Northerly
 * Hardiness Zone: 10b (1.7 - 4.4 degrees Celcius) (Or an aus specific zone 4 : https://www.anbg.gov.au/gardens/research/hort.research/zones.html)
+* Pests: Fruit fly, Cabbage moth, Aphids all the normal things
 
-I am going to have to do some work on improving the sil. The report says there is a high sodium content, and I should increase the calcium content and raise the pH the solution is to treat with calcitic lime which I plan to do reguary and re-test. Additionally other normal processes like mulching, composting and generally trying to improve the soil structure as well.
+I am going to have to do some work on improving the soil. The report says there is a high sodium content, and I should increase the calcium content and raise the pH the solution is to treat with calcitic lime which I plan to do reguary and re-test. Additionally other normal processes like mulching, composting and generally trying to improve the soil structure as well.
+
+One thing I have noticed with my currently small scale stuff is that there seem to be a lot more pests around Illawarra than I recall ever seeing up near Picton. Maybe it is the density of people, or thre warmer climate. Either way I have observed in everything we have planted to date significant pest issues. I am hopeful that the diverse ecosystem will help a little with this. I mention this here as plant selection can impact this a little too.
+
+Some pests I have observed:
+* Fruit fly on almost all nectarines from my tree
+* Larvae in many larger tomatoes grown
+* Cabbage moth caterpillars on many leafy plants especially liked broccoli
+* Aphids (and ants) really liked the kale
+* Ants I think burrowed into new into new prunings of young mango tree
+
+Some things we may be able to do is use thicker-skinned varieties etc.
 
 References: 
 * Soil report: [../soil/soil_report_2018_09_25_edited.pdf](../soil/soil_report_2018_09_25_edited.pdf)
@@ -176,9 +188,9 @@ There are a few key locations that have specific requirements, these are mostly 
   * Maximum: ?m wide, 6m high
 
   Considered species:
-  * Banana Cavendish
+  * [Banana Cavendish](#Banana-Cavendish)
   * Palm trees
-  * Date trees (wont work I dont think)
+  * Date trees (wont work I dont think in out climate)
   * Bamboo
 
   Purposes of tree at this location:
@@ -311,6 +323,41 @@ Photo of a local mango tree
   * https://www.daleysfruit.com.au/buy/mango-r2e2-grafted-tree.htm
   * https://www.daf.qld.gov.au/business-priorities/plants/fruit-and-vegetables/fruit-and-nuts/mangoes/mango-varieties/r2e2
 
+
+### Banana Cavendish
+
+<img src="photos/banana.jpg" width="100">
+
+Photo of a Banana tree I grew at our last property
+
+* Scientific Name: Musa acuminata
+* Category: Tree
+* Sun requirements: 80%-100% (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* Water requirements: Frequent (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* Height: 2-5mm (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* Width: 
+* Root system: 
+* Flowering Months: 
+* Fruiting/Harvest Months: All year (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* Soil pH range: 6.6-7.3 (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* Soil type: Good Drainage (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* Chill hours: N/A
+* Frosts: Likes Temps >5 degrees (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* Aus Climate Zones: Sub Tropical, Tropical (https://www.daleysfruit.com.au/Banana-DPM-25-Musa-acuminata.htm)
+* USDA Plant Hardiness Zones: 
+* Diseases: 
+* Maintanence: 
+  * Pruning: 
+  * Fertalizer:
+  * Spray:
+* Notes:
+  * Maybe try to get Ducasse good cold or PISANG CEYLON
+  * Was considering dwarf, but think for purpose will need full size
+  * https://www.diggers.com.au/shop/edibles/banana-dwarf-cavendish/wbac/
+  * https://www.gumtree.com.au/s-ad/taree/plants/banana-trees-for-sale-1-dwarf-banana-plant-1-available/1140246061
+  * May not be able to buy Cavendish in NSW as not permitted north of Taree (Is permitted here but people dont sell)
+  * Maybe preferrable variety is the Williams: https://www.daleysfruit.com.au/Banana-Williams-Musa-acuminata.htm
+  * https://www.daleysfruit.com.au/Banana-Pisang-Ceylan-Musa-acuminata.htm
 
 
 

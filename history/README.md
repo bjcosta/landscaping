@@ -1,6 +1,28 @@
 # Old Designs
 
-This is a list of previous designs I made to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process tha has happened over the last few years:
+This is a list of previous designs I made to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process that has happened over the last few years
+
+
+## Current design
+
+After looking at possibilities for the shaded pond, I am considering moving back to the non-shaded pond location, but adding options to provide shade and balance to the overall backyard view.
+
+The pond at the back of the property had a number of issues I didn't like in the design including:
+* Not easily visible from house
+* Looked "cramped" because of retaining wall changes required
+* Had likely more issues with nutrient rich run-off into pond
+* Closer proximity to higher retaining wall height is more likely for pond wall collapse
+* Maybe issues with pool fence regulations and placing items in the non-climb zone
+
+
+Key additions:
+* Ballance using tree next to pool fence like in the shaded design
+* Maybe a small shade tree for the pond alone, similar to overhanging maples in koi ponds etc
+* Maybe a small bridge over pond to a sitting rock (Not the best destination), but bridge will provide shade
+
+Table on Grass  |  Pond on Grass
+:---:|:---:
+![stage_7/perspective.png](stage_7/perspective.png)  |  ![stage_7/perspective.png](stage_7/perspective.png)
 
 
 ## Shaded pond and more balance 2020/08
@@ -18,19 +40,9 @@ This is where I am up to at the moment, and I have a lot of things to consider s
 * Proximity to retained section of retaining wall is probably ok but a little worse than last location
 * Better location to install drainage to prevent hydro-static pressure raising the liner
 
-TODO Need to update all the above with useful
-
-![stage_6.perspective.png](stage_6/perspective.png)
-![stage_6.topdown.png](stage_6/topdown.png)
-
-Issues:
-* Vegetable gardens are often ugly and near house
-* Vegetable gardens occasionally smell bad after digning in compost
-* I read the ponds in the shade were a bad idea
-* retaining wall was not feasible (too sharp angles, difficult to draw on ground not geometric shapes)
-* Retaining walls adjusted boundary fence level 
-* Deciduous and large trees overhang petes yard/pool and he wont like that
-* Pond was still on a slope, not feacible to build without more retaining
+Table on Grass  |  Pond on Grass
+:---:|:---:
+![stage_6/perspective.png](stage_6/perspective.png)  |  ![stage_6/perspective.png](stage_6/perspective.png)
 
 
 ## Pond below retention 2020/03
@@ -44,8 +56,10 @@ This change was significant and ideally would reduce the cost and complexity sig
 * Pond is now visible from kitchen, and potential future deck
 * Main access now easier to get to (not up on retaining but level with house)
 
-![stage_5.perspective.png](stage_5/perspective.png)
-![stage_5.topdown.png](stage_5/topdown.png)
+Table on Grass  |  Pond on Grass
+:---:|:---:
+![stage_5/perspective.png](stage_5/perspective.png)  |  ![stage_5/perspective.png](stage_5/perspective.png)
+
 
 
 ## Pond Leveling 2019/10
@@ -65,11 +79,11 @@ This revision was looking very promising for a while until I thought about the r
 
 Table on Grass  |  Pond on Grass
 :---:|:---:
-![stage_4.perspective_table_grass.png](stage_4/perspective_table_grass.png)  |  ![stage_4.perspective_pond_grass.png](stage_4/perspective_pond_grass.png)
+![stage_4/perspective_table_grass.png](stage_4/perspective_table_grass.png)  |  ![stage_4/perspective_pond_grass.png](stage_4/perspective_pond_grass.png)
 
 
 I finally settled on this idea:
-![stage_4.perspective.png](stage_4/perspective.png)
+![stage_4/perspective.png](stage_4/perspective.png)
 
 
 ## Flattened Grass using Retaining Wall 2019/09
@@ -86,7 +100,7 @@ Additionally, I thought the area near the house could have vegetable gardens as 
 
 Perspective View  |  Topdown View
 :---:|:---:
-![stage_3.perspective.png](stage_3/perspective.png)  |  ![stage_3.topdown_dimensions.png](stage_3/topdown_dimensions.png)
+![stage_3/perspective.png](stage_3/perspective.png)  |  ![stage_3/topdown_dimensions.png](stage_3/topdown_dimensions.png)
 
 
 
@@ -109,7 +123,7 @@ Some things I tried to achieve in this design were:
 * Include a fire-pit as we were using one regulary
 * Minimal work
 
-![stage_2.perspective.png](stage_2/perspective.png)
+![stage_2/perspective.png](stage_2/perspective.png)
 
 
 ## Existing Property Modeling 2019/01
@@ -132,7 +146,7 @@ After this I had a fairly accurate model of the existing property including land
 
 Perspective View  |  Topdown View
 :---:|:---:
-![existing.perspective.png](existing/perspective.png)  |  ![existing.topdown_full.png](existing/topdown_full.png)
+![existing/perspective.png](existing/perspective.png)  |  ![existing/topdown_full.png](existing/topdown_full.png)
 
 
 Slope viewed from north  |  Slope viewed from east
@@ -156,5 +170,5 @@ This included rough measurements of the yard, and identified a few key things I 
 
 I started to realize that I couldnt easily visualize what this would look like and how the sunlight would work etc, so I went looking for other software to model it better.
 
-![stage_1.topdown.png](stage_1/topdown.png)
+![stage_1/topdown.png](stage_1/topdown.png)
 

@@ -12,7 +12,7 @@ I plan to keep track of all the key areas considered as part of the design to me
 
 **Why am I doing this?**
 
-I love gardening, love eating food I have grown, married to a marine scientist (who likes conservation and understanding of ecosystems), want to make my yard look good and want to make a difference on my impact in the world. Finally my approach may be very design oriented and well as an engineer thats just how I like to do things (regulary to the rolling eyes of my wife) :-) 
+I love gardening, love eating food I have grown, married to a marine scientist (who likes conservation and understanding of ecosystems), want to make my yard look good and want to make a difference on my impact in the world. My approach is very design oriented, largely because as an engineer thats just how I like to do things (regulary to the rolling eyes of my wife) :-) 
 
 ![photos/overview.png](photos/overview.png)
 

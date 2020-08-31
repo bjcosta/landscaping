@@ -10,3 +10,10 @@ Decide if small pile idea was a bad one, likely to place more lateral pressure o
 Drainage and tree roots, also not wanting full retain drainage and would prefer wall collapse as want productive use above wall
 So overall MUST make this a small retaining wall. Only section with retaining is 
 
+
+Images showing existing retaining walls it would be nice to match in constructions of new ones:
+![existing_pool.jpg](existing_pool.jpg)
+![existing_back_garden.jpg](existing_back_garden.jpg)
+
+
+
