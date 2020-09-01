@@ -1,4 +1,4 @@
-# Asthectically pleasing, productive backyard landscaping
+# Beautiful and productive backyard landscaping
 
 This is the challange:
 
@@ -10,11 +10,21 @@ I plan to keep track of all the key areas considered as part of the design to me
 * Efficient/Sustainable (Setting up as many natural cycles as possible, working with nature instead of against it)
 * Low maintainence (through automation and good up-front design)
 
+![photos/overview.png](photos/overview.png)
+
+
+# Contents
+{:.no_toc}
+
+1. Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
+
+# Introduction
+
 **Why am I doing this?**
 
 I love gardening, love eating food I have grown, married to a marine scientist (who likes conservation and understanding of ecosystems), want to make my yard look good and want to make a difference on my impact in the world. My approach is very design oriented, largely because as an engineer thats just how I like to do things (regulary to the rolling eyes of my wife) :-) 
-
-![photos/overview.png](photos/overview.png)
 
 
 On this page you can expect to find all the aspects of design I have considered for my garden and how they work together to result in a beautiful and productive backyard. There are so many different ideas out there, I needed a single place to write them down so I didn't forget bits of it or do things that conflicted. So this page is more for my sanity (so I dont forget things) than anything else. Maybe someday I will be able to reduce it down to something useful for others too but you are welcome to take it as it is and use anything for yourself.
@@ -29,11 +39,9 @@ The purpose of the goal statement is to help us imagine what then end result mig
 > 
 > Providing shade in the summer and open to sunlight in the winter, it is a perfect space to entertain a few guests in a calming and peaceful environment.
 
-I used this guide to create the goal statement: https://www.milkwood.net/2015/10/26/permaculture-design-process-1-writing-a-goal-statement/
+I used this guide to create the goal statement: <https://www.milkwood.net/2015/10/26/permaculture-design-process-1-writing-a-goal-statement/>
 
-# Key technologies
-
-## Polyculture/Diversity
+# Polyculture/Diversity
 
 The idea here is that a diverse ecosystem is typically more resiliant. This includes diversity in plants animals and insects. Many of the technologies listed on this page contribute to this diversity in one way or another. 
 
@@ -41,7 +49,7 @@ We plan to plant various different species of plants. This includes flowers, fru
 
 We will have a bias towards plants for human consumption which may cause some inbalance in the system, however I will adjust this as necessary after identifying specific issues.
 
-## Creating artificial ecosystems
+# Creating artificial ecosystems
 
 In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant. However this design, although learning where possible from local ecosystems, will instead attempt to artificially create non-native ecosystems in the backyard that better meet the goal of productivity.
 
@@ -54,7 +62,7 @@ Two good examples of this in the design are:
 **Tree selection** : A good choice for trees in my area based on local ecosystems would likely be some kind of Eucalypt, or Lilli Pilli etc. But in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees which maye require extra maintainence that a native would not. Lilli-Pilli trees though able to produce fruit that we can use, it is not fruit we will regulary use and so the space would largely be wasted.
 
 
-## Sunlight
+# Sunlight
 
 Most productive plants require a lot of sunlight. In fact most of them are expecting full sunlight which is often hard to ensure when trying to also increase the planting density. In addition to providing sunlight for trees as necessary we also want to consider providing places to sit in the shade during summer but in the sun during winter/autumn. Having a block that slopes downwards towards the north is a huge benefit here. We got lucky with the aspect of our block of land.
 
@@ -69,15 +77,21 @@ Overall, we have made use of a few things to achieve these goals:
 
 There are various tools than can be used to model the sunlight and shading for a project like this. I have documented more information about this on the separate page: [sun/README.md](sun/README.md)
 
+
+TODO Mention this and link to detail 
+
 I am also considering to create a vertical hydroponic garden (maybe aquaponic, we will see) as well. The idea is to have a vertical cylinder hanging from a post or sitting on the ground with plants like leafy greens, strawberries etc planted all around it like a thin tower of plants that normally spread horizonally across the ground. The intent would be to have the tower rotate slowly through the day to permit equal sun access across plants on all sides of the container. The rotation may be possible using the inertia of the water flowing through the tube somehow to reduce any mechanical cost to run extra motors etc.
 
 This was a prototype design that failed miserably :-) but I learnt from the mistakes like making the hydroponic cup design too complex. I will reconsider this later once I have the rest of the garden up and going: 
 ![photos/hydro.png](photos/hydro.png)
 
 
-## Water management
+# Water management
 
 There is a lot of literature on this and it is a big focus in many permaculture designs. It is very important to think about in the current Australian climate when we regulary have water restrictions. The idea is to consider the flow of water through the property from all sources and to slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
+
+![photos/water_flow.png](photos/water_flow.png)
+
 
 There are a lot of considerations here. For example, in my design I have deliberatly added:
 * Chickens at top of slope (nutrient rich run-off to plants) with small water tank storage draining into swales
@@ -90,12 +104,12 @@ There are a lot of considerations here. For example, in my design I have deliber
 
 You will notice that the water flow is linked across various aspects of the entire system to try and keep it on the property as long as possible.
 
-![photos/water_flow.png](photos/water_flow.png)
 
-
-### Swales 
+## Swales 
 
 A common tool to help water retention are swales. These are usually depressions/trenches dug to hold water so it can infiltrate the soil better instead of running off the top. 
+
+![photos/swales.png](photos/swales.png)
 
 If you look at the image, you can see the swales and water flow direction on the diagram. A key point to note is that as water flows from the chickens at the top of the slope it will take nutrient rich water down with it, not just watering but also providing nourishment to the plants. Also, the pond is further away to try and prevent this nutrient rich run off entering the pond.
 
@@ -105,20 +119,18 @@ Swales can be "hidden" under the ground as well by digging a trench and filling 
 
 Berms also have the issue of eroding away and need to be constructed of a suitable material like clay. An important consideration when adding raised berms is to be sure that the height is such that the top of the berm is lower than the natural land level on my up-hill boundary fence to ensure there is no impact on the surrounding properties water drainage.
 
-![photos/swales.png](photos/swales.png)
 
-
-### Evaporation
+## Evaporation
 
 By completely mulching the garden area and adding trees to provide a shade canopy with layered shrubs etc, we are planning to design such that the property does its best to retain water where it is needed and has no directly exposed soil. 
 
-### Irrigation
+## Irrigation
 
 I have a water tank and will be using that for irrigation occasionally during dry periods. The irrigation lines should aim to make use of the swales by irrigating from the upper area of the slope.
 
 TODO Not really fleshed this out
 
-### Water storage
+## Water storage
 
 We already have a traditional water tank on our property. I plan to add more water storage to collect from the northern roof someday as we are not collecting any water from that section of the house yet.
 
@@ -134,7 +146,7 @@ A common thing I have seen with rainwater harvesting as often promoted by aquasc
 The idea here is you pump water from the lowest storage point (say underground storage tank) to the pond waterfall, the overflow of the pond then drains back in to the lower storage unit and gets pumped back again. The goal here is to make sure the water in the system is flowing and aerated. Greatly increasing the volume of water in the system but also by oxygenating it you prevent stagnation etc.
 
 
-### Grey Water usage
+## Grey Water usage
 
 TODO Minimal here
 
@@ -144,10 +156,10 @@ On a farm, there is a LOT more you can do. For example often sewerage and storm 
 
 There are very specific requirements around grey-water usage often with specific rules in different areas. I know some grey-water usage is permitted in my local area, however there are very specific ruling around how deep it is and where it is located. I will look into this later, but I believe it is permitted to use grey-water from a clothes washing machine but not other forms.
 
-TODO : I found a group to contact in the local area, but they have some decent info on greywater use: http://happyearth.com.au/greywater/
+Interesting found a group to contact in the local area, but they have some decent info on greywater use: http://happyearth.com.au/greywater/
 
 
-## Soil
+# Soil
 
 The type of soil available will have a large impact on the decisions made. In all cases soil can be built up and improved with a lot of effort. The two extremes are sandy soil and clay soil. Both can be improved through the ongoing addition of organic matter to the soil. 
 
@@ -159,7 +171,7 @@ TODO: This page will document the details about my soil test.
 [soil/README.md](soil/README.md)
 
 
-## Retaining wall
+# Retaining wall
 
 Originally I was going to just add a retaining wall to level off a grassy area for the kids to play. 
 
@@ -182,9 +194,7 @@ This retaining wall has quite a low height (600 mm at peak), but there were a lo
 Find more information about the retaining wall at: [retain/README.md](retain/README.md)
 
 
-## Pond / water feature
-
-See more: [pond/README.md](pond/README.md)
+# Pond / water feature
 
 Adding running water into an ecosystem can introduce a huge diversity of wildlife to your back yard. This include birds, insects, frogs and lizzards. 
 
@@ -208,8 +218,10 @@ The biggest issue with a pond is its complexity and power usage. Designing to in
 
 I expect to use a small 45W pump to run it 24/7 to keep the water oxygenated and flowing and bacteria alive, but automate a larger pump during the day when the solar panels are generating excess power to permit suficient water flow for additional filtering. The pump is a critical part of the system and we should account for redundancy by having two pumps installed (or a backup aerator) and a battery with automatic failover.
 
+I have a lot more detail on generic pond design and elements specific to my yard at this page: [pond/README.md](pond/README.md)
 
-## Plant selection
+
+# Plant selection
 
 When I started this project, plant selection was incorrectly where I initially started the design. I looked at plants I wanted and then tried to plan everything else  around them. It soon became apparently that you can choose to base the design around a few key plants in the yard, but a better tactic is to resolve all the larger structural things first (Like retaining wall, pond placement, shed placement, tree positioning and shade, water availability etc) in a way that maximizes the usable space and then find plants that fit the roles and spaces available. These structural aspects of the design will help define what the various planting zones and micro-climates are in the yard so we can then start choosing species that are more suitable.
 
@@ -225,7 +237,7 @@ My key goals for plant selection are:
 This is a very large topic, you can find details on how I have worked through this at [plants/README.md](plants/README.md)
 
 
-## Fowl (Chickens)
+# Fowl (Chickens)
 
 Using chickens or pheasants as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
 
@@ -240,7 +252,7 @@ Issues to consider:
 * Nutrient run-off into pond
 * Asthetics (chooks decimate landscape in runs and pens)
 
-## Insect larvae
+# Insect larvae
 
 Insect larvae are becoming more popular as a means to efficiently convert human food waste into protien/fat for feeding chikens and fish (and occasionally the brave human).
 
@@ -255,39 +267,39 @@ Issues we need to overcome are:
 * Are native flies suitable for this
 * Which scraps to feed the larvae and which to feed the chickens
 
-## Mulching
+# Mulching
 TODO:
 * Describe back-to-eden, especially issues with nitrogen loss and how to ameliorate it and get the most out of it
 * Use in supporting mushroom growth
 * Impacts on soil, nutrients, moisture and various microbes in the soil
 * How often to refresh, how to start off 
 
-## Composting
+# Composting
 
 TODO
 
-## Symbiotic mycelium
+# Symbiotic mycelium
 
 TODO Layer wood mulch on top of soil and innocuate with edible mushroom mycelium
 
 
-## Beneficial instects and fauna
+# Beneficial instects and fauna
 
-## Bees
+# Bees
 Honey/Native
 TODO Will see if possible for native, might be a bit cold for them but less space required (but no honey really this far south), honey bees more difficult ok with that but need singificant space for flight path I dont think I have. Also both locations are difficult for us t find ideal spots. Wants early morning sun, not overheat in midday
 
 
-## Aquaponics
+# Aquaponics
 
 This is something I am super interested in. I will plan to try it in my garden unless the upkeep becomes too much.
 TODO
 
-### Radio flow filter cleaning/fertalizer
+## Radio flow filter cleaning/fertalizer
 
-### Design of grow beds
+## Design of grow beds
 
-### Red wriggler worms
+## Red wriggler worms
 TODO lots of individual ideas/technologies in the aquaponics section
 
 # Usage Observations
@@ -305,8 +317,6 @@ TODO lots of individual ideas/technologies in the aquaponics section
 
 Good things about permaculture
 TODO : Aspects of permaculture I am not following and why
-
-
 
 
 # Process

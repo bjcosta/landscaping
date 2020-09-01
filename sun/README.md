@@ -1,26 +1,40 @@
 # Thoughtful Solar Design
 
-## Observation
-
-I first created a timelapse of the shadows in the existing landscape. This is a base line and I used it to check any models I created below and see if they were correct. I was using my old mobile phone so the image quality isnt great but it gives a good idea of how the shadows track in the old yard:
-
-![timelapse.mp4](timelapse.mp4)
-
-
-https://www.permaculturenews.org/2015/10/23/charting-the-suns-motion-in-relation-to-your-home-and-permaculture-site/
+<https://www.permaculturenews.org/2015/10/23/charting-the-suns-motion-in-relation-to-your-home-and-permaculture-site/>
 
 > For proper functioning and productivity gardens, greenhouses and orchards should be placed at specific locations based on the adequate availability of sunshine for the parts of the year in which the plants are growing or fruiting.
 
 
-There are many tools that can be used to visualize the path of the sun at various times in the year at your specific location (Its different depending on where you live). One of the better ones I found was: https://drajmarsh.bitbucket.io/sunpath3d.html (Info at: http://andrewmarsh.com/software/sunpath3d-web/)
+## Observation
+
+I first created a timelapse of the shadows in the existing landscape. This is a base line and I used it to check any models I created below and see if they were correct. I was using my old mobile phone so the image quality isnt great but it gives a good idea of how the shadows track in the old yard:
+
+<video width="480" height="320" controls="controls">
+  <source src="timelapse.mp4" type="video/mp4">
+</video>
+
+
+## Sunpath 3D
+
+There are many tools that can be used to visualize the path of the sun at various times in the year at your specific location (Its different depending on where you live). One of the better ones I found was: <https://drajmarsh.bitbucket.io/sunpath3d.html> (Info at: <http://andrewmarsh.com/software/sunpath3d-web/>)
+
 ![sunpath3d.png](sunpath3d.png)
 
 
 However to get the most use out of it you really want to create a 3D model for showing the shadows cast. I did a really quick and likely incorrect mockup in Fusion 360 using cylinders to represent trees. You can see in the (deliberatly very low bitrate) video below the difference the shadows cast between summer and winter.
 
-![sunpath3d_settings.json](sunpath3d_settings.json)
-![summer_solstice_sunpath3d.mp4](summer_solstice_sunpath3d.mp4)
-![winter_solstice_sunpath3d.mp4](winter_solstice_sunpath3d.mp4)
+[sunpath3d_settings.json](sunpath3d_settings.json)
+
+<video width="480" height="320" controls>
+  <source src="summer_solstice_sunpath3d.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+<video width="480" height="320" controls="controls">
+  <source src="winter_solstice_sunpath3d.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Landscaping Design Software
@@ -40,12 +54,17 @@ I have read that ponds need either full sun (for ecosystem watergarden plants mo
 
 The other benefit is that we can see how things change over time as the plants grow (there are options to change the age maturity of the trees in this software).
 
-
-![summer_shadows.mp4](summer_shadows.mp4)
+<video width="480" height="320" controls>
+  <source src="summer_shadows.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 You can also compare the summer vs winter view.
 
-![winter_shadows.mp4](winter_shadows.mp4)
+<video width="480" height="320" controls>
+  <source src="winter_shadows.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 TODO Much more I can add here

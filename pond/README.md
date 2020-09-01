@@ -61,7 +61,7 @@ I may also need more iterations on this when I get feedback about regulations fr
 
 These regulations will be different everywhere, but where I live in NSW Australia, I need to find out if a pond deeper than 300 mm is considered a pool and will require a fence. In which case I dont think a pond is feasible to put into my design (well not one that is incapable of sustaining a small ecosystem with fish and not just a bowl full of algae). 
 
-NSW Pool regulations define a pool according to: https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/swimming-pools-and-spas
+NSW Pool regulations define a pool according to: <https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/swimming-pools-and-spas>
 
 > The law applies to any excavation, structure or vessel including swimming pools and spa pools that are:
 > 
@@ -69,17 +69,17 @@ NSW Pool regulations define a pool according to: https://www.fairtrading.nsw.gov
 > * used, designed, manufactured or adapted for swimming, wading, paddling or any other human aquatic activity.
 
 There are however many extra documents since the original definition changing different aspects of pool and fencing regulations, I didn't see any changes in the definition of swimming pool. Also I spoke with a Duty Planner from Wollongong Council and they said yes we will need a DA as it is deeper than 300 mm, but they also confirmed that it is not classified as a pool and thus will not require boundary fencing. The DA will need to outline this information.
-https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/pool-fencing-requirements
+<https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/pool-fencing-requirements>
 
 
-This document is very clear, though is it current and official? It looks to be so: https://www.swimmingpoolregister.nsw.gov.au/inspection/Inspection%20Page%20FAQ.pdf
+This document is very clear, though is it current and official? It looks to be so: <https://www.swimmingpoolregister.nsw.gov.au/inspection/Inspection%20Page%20FAQ.pdf>
 
 > **Question:**  Do I need to fence (install a childresistance barrier for) my fish pond?
 > 
 > **Answer:** No. If a fish pond has been designed and, manufactured to be solely used as a fish pond, then no child-resistant barrier is required.
 
 
-Another useful bit of information, is I think I will need a DA to approve a pond deeper than 300 mm. According to this document which defines "Exempt and Complying Development Codes": https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40
+Another useful bit of information, is I think I will need a DA to approve a pond deeper than 300 mm. According to this document which defines "Exempt and Complying Development Codes": <https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40>
 
 
 > (1)  The standards specified for that development are that the development must—
@@ -90,7 +90,7 @@ Another useful bit of information, is I think I will need a DA to approve a pond
 
 I believe this means if the pond was < 300 mm deep and surface area < 10 m ^2 then no approval is required. 
 
-One other reference about pond fencing and depth requirements is not official but helpful (and helped me locate the FAQ with a clear answer is): https://ozponds.com/do-ponds-need-a-fence/
+One other reference about pond fencing and depth requirements is not official but helpful (and helped me locate the FAQ with a clear answer is): <https://ozponds.com/do-ponds-need-a-fence/>
 
 With that said, I plan to address the safety aspect of the pond in the design as well though position selection, bottom contour and planting choices.
 
@@ -103,32 +103,32 @@ These are some stand-out places for information and inspiration for pond design:
 
 * Bama Bass pond
   * The best pond I have seen for asthetics and diversity
-  * A great example: https://youtu.be/ddzmDF7Ds78
-  * Youtube Channel: https://www.youtube.com/channel/UCSTueQfft5yfjNuRu2DZsHw
+  * A great example: <https://youtu.be/ddzmDF7Ds78>
+  * Youtube Channel: <https://www.youtube.com/channel/UCSTueQfft5yfjNuRu2DZsHw>
 
 * Melbourne Aquaponics
-  * Great example using an asthetically pleasing pond for Aquaponics: https://www.youtube.com/watch?v=p4Saas9WRws
-  * Youtube Channel: https://www.youtube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ
+  * Great example using an asthetically pleasing pond for Aquaponics: <https://www.youtube.com/watch?v=p4Saas9WRws>
+  * Youtube Channel: <https://www.youtube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ>
 
 * The Pond Digger
-  * Youtube Channel: https://www.youtube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA
+  * Youtube Channel: <https://www.youtube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA>
   * Has LOTS of informative tutorials, how to build ponds, ponds gone wrong etc.
   * Not just a sinle style of pond byt covers multiple different use cases
-  * How to build a fish pond: https://www.youtube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG-
-  * How to build a koi pond: https://www.youtube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD
+  * How to build a fish pond: <https://www.youtube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG->
+  * How to build a koi pond: <https://www.youtube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD>
 
 * Team Aquascape
-  * Youtube Channel: https://www.youtube.com/channel/UCbOyl13WDs8xYECSKZgoYsw
+  * Youtube Channel: <https://www.youtube.com/channel/UCbOyl13WDs8xYECSKZgoYsw>
   * Very strong on the advertisment but they do have some amazing ponds that they showcase
-  * One amazing example in Australia: https://www.youtube.com/watch?v=Rm-V0n-76UI&t=448s
+  * One amazing example in Australia: <https://www.youtube.com/watch?v=Rm-V0n-76UI&t=448s>
 
 * Rob Bob's Aquaponics & Backyard Farm
   * Lots of great information on Aquaponics (not using ponds though but IBCs)
-  * Youtube Channel: https://www.youtube.com/user/bnbob01
+  * Youtube Channel: <https://www.youtube.com/user/bnbob01>
 
 * Any Ponds (Also was Mark the Pond Advisor)
-  * Youtube Channel: https://www.youtube.com/c/AnyPondTV/featured
-  * A good example: https://www.youtube.com/watch?v=8X2mjw3cfzE
+  * Youtube Channel: <https://www.youtube.com/c/AnyPondTV/featured>
+  * A good example: <https://www.youtube.com/watch?v=8X2mjw3cfzE>
   * Does some nice maller ponds. I saw a few of these early on that inspired me
 
 
@@ -276,7 +276,7 @@ TODO more info
 * UV sterilization (not really filtration)
 * Under gravel suction grids
 * Bog filters
-Really good info on pond filters: https://www.koiphen.com/forums/showthread.php?93019-Filtration-Basics
+Really good info on pond filters: <https://www.koiphen.com/forums/showthread.php?93019-Filtration-Basics>
 
 ## Oxygenation
 
@@ -332,7 +332,7 @@ Key points here that I have been considering:
 	Can we have a pond where there are some shallow planting areas in sun but deep are in shade?
 	Shade tolerant aquatic plants: 
 	Can we design so that sun hits aquatic plants and NOT the water?
-	https://www.woodvalefishandlilyfarm.com.au/products/plants/water-plants/shade-tolerant-water-plants/
+	<https://www.woodvalefishandlilyfarm.com.au/products/plants/water-plants/shade-tolerant-water-plants/>
 * other regulations (for me pool fence proximity, proximity to retaining wall effectively increases height of retaining wall by pond depth when considering wall loading)
 
 
@@ -359,25 +359,25 @@ When using shelves in a pond there are a few guidelines (that vary a bit dependi
 * Shelves near waterfall need larger width to support the weight and size of large character boulders (45cm+ width)
 * Shelf widths should vary for a natural look, consistent widths look more formal
 * Often wider shelves at far end of pond for lots of planting and fewer/narrower shelves near approach to pond to get out of the way of seeing fish
-* Avoid sheer steep shelves to prevent wall collapse : https://www.gardenpondforum.com/threads/do-pond-walls-need-reinforcing.20670/
+* Avoid sheer steep shelves to prevent wall collapse : <https://www.gardenpondforum.com/threads/do-pond-walls-need-reinforcing.20670/>
   * "An angle of 15 - 20 degrees from the vertical will offer satisfactory protection from any structural collapse", "providing pond depth does not exceed 4 feet"
-* Avoid shelf depth changes larger than 30cm (12 ") to make rock selection easier: https://cepontzsons.com/pond-ledges/
+* Avoid shelf depth changes larger than 30cm (12 ") to make rock selection easier: <https://cepontzsons.com/pond-ledges/>
   * Usually a larger rock sits at the back of a shelf and rises above the level of the shelf above
   * This creates lips on the shelves to hold back pebbles and prevent them falling further into the pond
 * Shelf depths should vary, a pond usually has shelves defining a few different planting "zones"
-  * Good guidelines: https://www.watersidenursery.co.uk/tips-advice/planting-the-pond-shelves-shelf-0-shelf-1-shelf-2/
+  * Good guidelines: <https://www.watersidenursery.co.uk/tips-advice/planting-the-pond-shelves-shelf-0-shelf-1-shelf-2/>
     * Shelf 0 : 13-15cm (5-6")
     * Shelf 1 : 15-22cm (6-9")
     * Shelf 2 : 23-44cm (10-17") OPTIONAL
     * Shelf 3 : 75cm + (45" +)
-  * http://www.ozwatergardens.com.au/zone-map
+  * <http://www.ozwatergardens.com.au/zone-map>
     * ZONE 1 : Pond floaters and drifters such as Duckweed.
     * ZONE 2 : For pond edges or bog areas. eg. Tassel Rushes, Pennyworts, Sweet Flags, Irises and plants that like wet feet.
     * ZONE 3 : 0-20cm plant depth. Suitable for marginal or bog plants like Water Irises, Milfoils and some grasses.
     * ZONE 4 : 20-40cm plant depth. Ideal for smaller water plants such as Miniature Waterlilies, Water Poppies, Water Fringes and large marginal plants such as Rushes, Reeds and Sedges.
     * ZONE 5 : 40cm or more in depth. Recommended for Waterlilies, Lotuses and underwater plants.
-  * Pond digger example: https://youtu.be/1Ak2wa28nE4?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG-
-    * Also same as pond digger : https://www.everything-ponds.com/water-garden-shelves-and-plants.html
+  * Pond digger example: <https://youtu.be/1Ak2wa28nE4?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG->
+    * Also same as pond digger : <https://www.everything-ponds.com/water-garden-shelves-and-plants.html>
     * First Shelf : 20cm (8")
     * Second shelf: 50cm (20")
     * Bottom: 76cm (30")
@@ -408,7 +408,7 @@ There are things you can do with pond positioning, edge treatment and planting c
 
 ## Underlay + Concrete:
 
-Prevent rodents burying in liner use concrete" https://www.houzz.com.au/magazine/build-a-backyard-fish-pond-without-going-belly-up-stsetivw-vs~91523708
+Prevent rodents burying in liner use concrete" <https://www.houzz.com.au/magazine/build-a-backyard-fish-pond-without-going-belly-up-stsetivw-vs~91523708>
 Expert tip: If you do go with a rubber liner, Leidner recommends buying a few bags of concrete, poking holes in them and using the bags to line the hole. Then spray the bags with water and put the rubber liner on top. The bag will dissolve and the concrete will harden, creating a barrier that rodents can’t get through.
 
 
@@ -434,7 +434,7 @@ However I also want it to be suitable for frogs, for small fish, insects and oth
 
 My thinking is the larger fish will not spend much time in the shallows and it will accumulate very little waste as a result. 
 
-* https://www.koiphen.com/forums/showthread.php?70879-Why-Most-Koiphen-Members-Discourage-Rocks-In-Ponds!
+* <https://www.koiphen.com/forums/showthread.php?70879-Why-Most-Koiphen-Members-Discourage-Rocks-In-Ponds!>
 
 
 ## Rock choice

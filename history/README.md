@@ -1,9 +1,15 @@
-# Old Designs
+# Overall Design History
 
-This is a list of previous designs I made to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process that has happened over the last few years
+This page describes previous designs I made on the backyard landscaping project to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process that has happened over the last few years
+
+# Contents
+{:.no_toc}
+
+1. Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 
-## Current design
+# Current design
 
 After looking at possibilities for the shaded pond, I am considering moving back to the non-shaded pond location, but adding options to provide shade and balance to the overall backyard view.
 
@@ -25,7 +31,7 @@ Perspective View  |  Topdown View
 ![stage_7/perspective.png](stage_7/perspective.png)  |  ![stage_7/topdown.png](stage_7/topdown.png)
 
 
-## Shaded pond and more balance 2020/08
+# Shaded pond and more balance 2020/08
 
 After seeing a video on pond based auqaponics, I realized that being able to shade the pond might make sense if I want to try and use it for aquaponics. This is normal in aquaponics to prevent too much algae, but also in Koi ponds. 
 
@@ -45,7 +51,7 @@ Perspective View  |  Topdown View
 ![stage_6/perspective.png](stage_6/perspective.png)  |  ![stage_6/topdown.png](stage_6/topdown.png)
 
 
-## Pond below retention 2020/03
+# Pond below retention 2020/03
 
 After learning more regulations about retaining walls I realized I should try not to bring any retaining walls to the boundary fence. Also the retention of a pond is structurally more difficult than placing it below the retaining wall.
 
@@ -62,7 +68,7 @@ Perspective View  |  Topdown View
 
 
 
-## Pond Leveling 2019/10
+# Pond Leveling 2019/10
 
 In this revision, I realized that the pond wasn't going to work unless the ground it was on was flat (or we retain the pond specially). Additionally I was tring to move the pond away from the boundry fence a little.
 
@@ -86,7 +92,7 @@ I finally settled on this idea:
 ![stage_4/perspective.png](stage_4/perspective.png)
 
 
-## Flattened Grass using Retaining Wall 2019/09
+# Flattened Grass using Retaining Wall 2019/09
 
 In this revision, a key point was to try and make the grassy space more usable by adding a retaining wall. 
 
@@ -106,7 +112,7 @@ Perspective View  |  Topdown View
 
 
 
-## First 3D Model 2019/02
+# First 3D Model 2019/02
 
 This was my first 3D modeled design. It was simple, based off the 2D one. 
 
@@ -126,15 +132,15 @@ Some things I tried to achieve in this design were:
 ![stage_2/perspective.png](stage_2/perspective.png)
 
 
-## Existing Property Modeling 2019/01
+# Existing Property Modeling 2019/01
 
-I played with a few CAD packages, and finally settled on one called Realtime Landscaping Pro (https://www.ideaspectrum.com/landscape-design-software-overview/) It was simple to use, flexible and fairly cheap as CAD packages go.
+I played with a few CAD packages, and finally settled on one called Realtime Landscaping Pro <https://www.ideaspectrum.com/landscape-design-software-overview/> It was simple to use, flexible and fairly cheap as CAD packages go.
 
-All the free ones I tried were much less productive to use, where as this software had a nice intuitive interface, a good set of features and the tutorial videos were amazing (https://www.ideaspectrum.com/landscaping-software-tutorials/). The free version was sufficient for what I wanted to do, but I ended up paying for it to support what I think is good software and get access to more tree models.
+All the free ones I tried were much less productive to use, where as this software had a nice intuitive interface, a good set of features and the tutorial videos were amazing <https://www.ideaspectrum.com/landscaping-software-tutorials/> The free version was sufficient for what I wanted to do, but I ended up paying for it to support what I think is good software and get access to more tree models.
 
 To model my house + yard, I did a few things:
 * Lots of measuring dimensions and photos of my house and yard
-* Downloaded image from googe maps for base : https://www.ideaspectrum.com/using-google-maps/
+* Downloaded image from googe maps for base : <https://www.ideaspectrum.com/using-google-maps/>
 * Used another overlay image of the houses floor plan to accuratly line up doors / windows
 * Estimated the slope of my yard using a long straight pole, tape measure and some math
 * Drew up the landscape with slope, then modeled the house
@@ -155,9 +161,9 @@ Slope viewed from north  |  Slope viewed from east
 
 
 
-## First Draft 2018/12
+# First Draft 2018/12
 
-Using a very simple 2D garden planning tool (http://www.smallblueprinter.com/garden/), I outlined a basic structure for my back-yard design.
+Using a very simple 2D garden planning tool <http://www.smallblueprinter.com/garden/> I outlined a basic structure for my back-yard design.
 
 This included rough measurements of the yard, and identified a few key things I would like in the design:
 * Deciduous trees near the house to permit light to enter the house in winter and maybe some shade in summer
