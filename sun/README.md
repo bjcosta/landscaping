@@ -3,6 +3,7 @@
 ## Observation
 
 I first created a timelapse of the shadows in the existing landscape. This is a base line and I used it to check any models I created below and see if they were correct. I was using my old mobile phone so the image quality isnt great but it gives a good idea of how the shadows track in the old yard:
+
 ![timelapse.mp4](timelapse.mp4)
 
 

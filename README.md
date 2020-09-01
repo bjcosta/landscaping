@@ -35,49 +35,49 @@ I used this guide to create the goal statement: https://www.milkwood.net/2015/10
 
 ## Polyculture/Diversity
 
-The idea here is that a diverse ecosystem is typically more resiliant. This includes diversity in plants animals and insects and many of the technologies listed on this page contribute to this diversity in one way or another. 
+The idea here is that a diverse ecosystem is typically more resiliant. This includes diversity in plants animals and insects. Many of the technologies listed on this page contribute to this diversity in one way or another. 
 
-We plan to plant various different species of plants. This includes flowers, fruit, vegetables and other possily non-edible support plants that help define the eco-system. 
+We plan to plant various different species of plants. This includes flowers, fruit, vegetables, herbs and other possily non-edible support plants that help define the ecosystem. 
 
 We will have a bias towards plants for human consumption which may cause some inbalance in the system, however I will adjust this as necessary after identifying specific issues.
 
 ## Creating artificial ecosystems
 
-In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant. However this design, although learning where possible from local ecosystems I will instead attempt to artificially create non-native ecosystems in my backyard that better meet the goals.
+In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant. However this design, although learning where possible from local ecosystems, will instead attempt to artificially create non-native ecosystems in the backyard that better meet the goal of productivity.
 
-I have written more about my thinking on this [ecosystems/README.md](ecosystems/README.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce human food. 
+I have written more about my thinking on this [ecosystems/README.md](ecosystems/README.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce food for us to consume. 
 
 Two good examples of this in the design are:
 
-**Adding a pond** : A pond is not natural in my backyard, and will require maintainence and some electricity. However its my personal opinion that the benefits far outweigh these drawbacks.
+**Adding a pond** : A pond is not natural in my backyard, and will require maintainence and some electricity. However its my opinion that the benefits this will add in attracting diversity into the ecosystem (birds, lizards, insects), and the ability to produce leafy greens and fish to consume with minimal input far outweigh these drawbacks.
 
-**Tree selection** : A good choice in my area based on local ecosystems would likely be some kind of Eucalypt, or lilli-pilli etc. But in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees that we will consume.
+**Tree selection** : A good choice for trees in my area based on local ecosystems would likely be some kind of Eucalypt, or Lilli Pilli etc. But in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees which maye require extra maintainence that a native would not. Lilli-Pilli trees though able to produce fruit that we can use, it is not fruit we will regulary use and so the space would largely be wasted.
 
 
 ## Sunlight
 
-Most productive plants require a lot of sunlight. In fact most of them are expecting full sunlight which is often hard to ensure when trying to also increase the planting density. We also want to consider our use of the space so we can provide places to sit in the shade during summer but in the sun during winter/autumn. Having a block that slopes downwards towards the north is a huge benefit here. We got lucky with the aspect of our block of land.
+Most productive plants require a lot of sunlight. In fact most of them are expecting full sunlight which is often hard to ensure when trying to also increase the planting density. In addition to providing sunlight for trees as necessary we also want to consider providing places to sit in the shade during summer but in the sun during winter/autumn. Having a block that slopes downwards towards the north is a huge benefit here. We got lucky with the aspect of our block of land.
 
-Overall, we have made use of a few things:
-* Design with different plant sizes layered (taller on south, smaller on north side)
-* Retaining wall to provide raised levels on the southern side of the block
+Overall, we have made use of a few things to achieve these goals:
+* Design with different plant sizes layered such that they all get sun and dont shade each other out (taller on south, smaller on north side)
+* Add a retaining wall to provide extra height on the southern side of the block giving access to more sun
   * This allows us to use some taller trees on the north side separated by some grass and the retaining wall and the shade thrown by the trees doesn't impact the smaller plants south of the retaining wall. As a result we get a slightly higher planting density without impacting the sunlight for the lower canopy plants.
-* Create different zones in th garden. We have trees in the canopy (full sun), space for understorey in full sun, part shade and full shade, and summer only shaded zones
+* Create different micro-climate/planting zones in the garden. We have trees in the canopy (full sun), space for understorey in full sun, part shade, full shade, and summer only shaded zones
 * Place structures (chicken coop, water tank, compost etc) in the shaded portion of the block so not to waste areas of full sun on these strctures
-* Make use of deciduous trees o the very north side to prevent blockage of sunlight during winter when the sun is lower in the sky
+* Make use of deciduous trees to the very north side to prevent blockage of sunlight during winter when the sun is lower in the sky
 * Make use of artificial risers like trellises/arbours to raise creeping plants higer and get more sunlight (Make more use of vertical space)
 
-There are various tools than can be used to model the sunlight and shading for a project like this. I have documented a lot more information about this on the separate page: [soil/README.md](soil/README.md)
+There are various tools than can be used to model the sunlight and shading for a project like this. I have documented more information about this on the separate page: [sun/README.md](sun/README.md)
 
-I am also considering to create a vertical hydroponic garden (maybe aquaponic, we will see) as well. The idea is to have a cylinder hanging from a post OR sitting on the ground with plants like leafy greens, strawberries etc planted all around an vertically. This is like a thin tower. The intent would be to have the tower rotate slowly through the day as well to permit not a sunny and shady side of it. The rotation may be possible using the inertia of the water flowing through the tube some how to reduce any mechanical cost to run extra motores etc.
+I am also considering to create a vertical hydroponic garden (maybe aquaponic, we will see) as well. The idea is to have a vertical cylinder hanging from a post or sitting on the ground with plants like leafy greens, strawberries etc planted all around it like a thin tower of plants that normally spread horizonally across the ground. The intent would be to have the tower rotate slowly through the day to permit equal sun access across plants on all sides of the container. The rotation may be possible using the inertia of the water flowing through the tube somehow to reduce any mechanical cost to run extra motors etc.
 
-This was a prototype design that failed miserably :-) but I learnt from the mistakes. I will reconsider this much later again once I have the rest of the garden up and going: 
+This was a prototype design that failed miserably :-) but I learnt from the mistakes like making the hydroponic cup design too complex. I will reconsider this later once I have the rest of the garden up and going: 
 ![photos/hydro.png](photos/hydro.png)
 
 
 ## Water management
 
-There is a lot of literature on this and it is a big focus in many permaculture designs and important to think about in the current Australian climate when we regulary have water restrictions. The idea is to consider the flow of water through the property and to slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
+There is a lot of literature on this and it is a big focus in many permaculture designs. It is very important to think about in the current Australian climate when we regulary have water restrictions. The idea is to consider the flow of water through the property from all sources and to slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
 
 There are a lot of considerations here. For example, in my design I have deliberatly added:
 * Chickens at top of slope (nutrient rich run-off to plants) with small water tank storage draining into swales
@@ -86,10 +86,9 @@ There are a lot of considerations here. For example, in my design I have deliber
 * Collection of water into tanks from roof
 * Overflow from roof collection tank into the pond
 * Overflow from pond to another swale for keeping plants well watered
+* Addition of extra under-ground water storage
 
-You will notice that the water flow is linked across various aspects of the entire system to try and get as much use from it as possible.
-
-I think the swales in the design are probably a little bit small, and I will consider changing this a bit. But it gives the general idea.
+You will notice that the water flow is linked across various aspects of the entire system to try and keep it on the property as long as possible.
 
 ![photos/water_flow.png](photos/water_flow.png)
 
@@ -119,24 +118,43 @@ I have a water tank and will be using that for irrigation occasionally during dr
 
 TODO Not really fleshed this out
 
-### Water tanks
+### Water storage
 
+We already have a traditional water tank on our property. I plan to add more water storage to collect from the northern roof someday as we are not collecting any water from that section of the house yet.
+
+There are many options to consider for the storage of water:
+* Traditional water tank (Often requires significant space and is an eyesore)
+* Under house water storage tanks or bladders
+* Under ground water storage (tanks or custom shape constructed with pond liner and aquablocks sometimes called rainwater harvesting) : https://www.youtube.com/watch?v=2x23ljyT0S4
+
+The underground water storage is quite an interesting solution. It has many similarities to building a pond but under the ground. I would like to consider this as an option one day in the future in our front yard and possibly also under the seating area in the back yard. The idea is that the water storage is hidden under the ground and is constructed from aquablocks inside a pond liner. Often a pondless waterfall is used as a means to circulate this water and keep it aerated and healthy. 
+
+A common thing I have seen with rainwater harvesting as often promoted by aquascape is to connect the different water storage options on the property together and continually cycle the water from the lowest storage unit to the highest, connecting the overflows of them together. It works best with just two storage units, but can be extended further.
+
+The idea here is you pump water from the lowest storage point (say underground storage tank) to the pond waterfall, the overflow of the pond then drains back in to the lower storage unit and gets pumped back again. The goal here is to make sure the water in the system is flowing and aerated. Greatly increasing the volume of water in the system but also by oxygenating it you prevent stagnation etc.
 
 
 ### Grey Water usage
 
-Interesting found a group to contact in the local area, but they have some decent info on greywater use: http://happyearth.com.au/greywater/
+TODO Minimal here
+
+You can use some grey water on the garden to prevent wasting water used in washing machines etc. Not all plants will be able to use this and you also require use of safe detergents. There is a lot of information on this and very specific requirements in different local government areas you wil lneed to understand.
+
+On a farm, there is a LOT more you can do. For example often sewerage and storm water is non piped to rural properties and it is necessary for you to use a septic system with overflow to a drainage trench. I grew up on a farm that was setup like this. We originally had  some lemon trees next to the drainage trench and noticed how well they were going. So we ended up adding a pump to the septic that we used to irrigate directly to the roots of some fruit trees (not spraying in the air for obvious reasons). This worked great and made sure our waste water was being reused.
+
+There are very specific requirements around grey-water usage often with specific rules in different areas. I know some grey-water usage is permitted in my local area, however there are very specific ruling around how deep it is and where it is located. I will look into this later, but I believe it is permitted to use grey-water from a clothes washing machine but not other forms.
+
+TODO : I found a group to contact in the local area, but they have some decent info on greywater use: http://happyearth.com.au/greywater/
 
 
 ## Soil
 
 The type of soil available will have a large impact on the decisions made. In all cases soil can be built up and improved with a lot of effort. The two extremes are sandy soil and clay soil. Both can be improved through the ongoing addition of organic matter to the soil. 
 
-In my case we have a heavy clay soil. The topsoil is ok, but the subsoil is very solid clay and doesn't drain very well. One thing that is probably important to do is get a proper soil test. In some places it is free (various universities in Australia I believe offer free soil reports).
+In my case we have a heavy clay soil. The topsoil is ok, but the subsoil is very solid clay and doesn't drain very well. One thing that is important to do is get a proper soil test. In some places it is free (various universities in Australia I believe offer free soil reports).
 
 For me I know we had heavy clay soil. We will want to add organic matter to it, but the other question was do we add lime or gypsum to the soil to help chemically break it up. 
-TODO: Discuss different types of lime and clay breaker. 
-
+TODO: Discuss different types of lime and clay breaker and how that relates to the soil test. 
 TODO: This page will document the details about my soil test.
 [soil/README.md](soil/README.md)
 
