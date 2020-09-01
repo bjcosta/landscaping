@@ -1,17 +1,29 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>
+
+
 
 # Pond Design
 
-TODO: This page is very much a work in progress. 
-
-
-Designing and building a pond is a huge amount of work compared to other parts of a backyard transformation. I have now watched hundreds of tutorials, examples and read numerous blocks of information about building and designing ponds and still dont feel I know enough. I will try and keep here a reference of information I have looked at and summarize what I see are the major aspects of pond design that I have considered, my choices and why.
-
-Over time I expect I will add many different sub-pages to this document instead of all in one.
+Designing and building a pond is a huge amount of work compared to other parts of a backyard transformation. I have now watched hundreds of tutorials, examples and read numerous blocks of information about building and designing ponds and still feel there is a lot more to learn. I will try and keep here a reference of information I have looked at and summarize what I see are the major aspects of pond design that I have considered, my choices and why.
 
 ![version_3/perspective_visual.png](version_3/perspective_visual.png)
 
+# Contents
+{:.no_toc}
 
-# Big question to answer early (Pond position)
+1. Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
+
+# My pond design : Big question to answer early (Pond position)
 
 I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
 
@@ -142,7 +154,7 @@ These are some stand-out places for information and inspiration for pond design:
 
 There are a few major pond building styles I have seen. Many of the "best practices" between these styles also seem to contradict and it is important to understand what the reasons are for the differences to make good decisions unless your pond fits into one of the existing molds (which mine does not). 
 
-## Koi Ponds
+## Koi/Fish Ponds
 * Optimized for pond volume and filtration
 * Steep tall walls, deep pond, few if any planting shelves, often using concrete (walls or collar) to prevent wall collapse
 * No loose rocks on the bottom

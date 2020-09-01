@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>
+
+
 # Beautiful and productive backyard landscaping
 
 This is the challange:
@@ -137,16 +148,16 @@ We already have a traditional water tank on our property. I plan to add more wat
 There are many options to consider for the storage of water:
 * Traditional water tank (Often requires significant space and is an eyesore)
 * Under house water storage tanks or bladders
-* Under ground water storage (tanks or custom shape constructed with pond liner and aquablocks sometimes called rainwater harvesting) : https://www.youtube.com/watch?v=2x23ljyT0S4
+* Under ground water storage (tanks or custom shape constructed with pond liner and aquablocks sometimes called rainwater harvesting) : <https://www.youtube.com/watch?v=2x23ljyT0S4>
 
-The underground water storage is quite an interesting solution. It has many similarities to building a pond but under the ground. I would like to consider this as an option one day in the future in our front yard and possibly also under the seating area in the back yard. The idea is that the water storage is hidden under the ground and is constructed from aquablocks inside a pond liner. Often a pondless waterfall is used as a means to circulate this water and keep it aerated and healthy. 
+The underground water storage is quite an interesting solution. It has many similarities to building a pond but under the ground. I would like to consider this as an option one day in the future in our front yard and possibly also under the seating area in the back yard. The idea is that the water storage is hidden under the ground and is constructed from aquablocks inside a pond liner. Often a pondless waterfall is used as a means to circulate this water and keep it aerated and healthy, though with a real pond it is often sent over the waterfall and takes its inlet from the pond overflow.
 
-A common thing I have seen with rainwater harvesting as often promoted by aquascape is to connect the different water storage options on the property together and continually cycle the water from the lowest storage unit to the highest, connecting the overflows of them together. It works best with just two storage units, but can be extended further.
+A common thing I have seen with rainwater harvesting as often promoted by aquascape is to connect the different water storage options on the property together and continually cycle the water from the lowest storage unit to the highest, connecting the overflows of them together. It works best with just two storage units like a pond + underground vault, but can with some effort be extended to multiple storage units.
 
-The idea here is you pump water from the lowest storage point (say underground storage tank) to the pond waterfall, the overflow of the pond then drains back in to the lower storage unit and gets pumped back again. The goal here is to make sure the water in the system is flowing and aerated. Greatly increasing the volume of water in the system but also by oxygenating it you prevent stagnation etc.
+The idea here is you pump water from the lowest storage point (say underground storage tank) to the pond waterfall, the overflow of the pond then drains back in to the underground storage unit and gets pumped back again. The goal here is to make sure the water in the system is flowing and aerated. Oxygenating it you prevent stagnation etc. 
 
 
-## Grey Water usage
+## Grey Water
 
 TODO Minimal here
 
@@ -156,7 +167,7 @@ On a farm, there is a LOT more you can do. For example often sewerage and storm 
 
 There are very specific requirements around grey-water usage often with specific rules in different areas. I know some grey-water usage is permitted in my local area, however there are very specific ruling around how deep it is and where it is located. I will look into this later, but I believe it is permitted to use grey-water from a clothes washing machine but not other forms.
 
-Interesting found a group to contact in the local area, but they have some decent info on greywater use: http://happyearth.com.au/greywater/
+Interesting found a group to contact in the local area, but they have some decent info on greywater use: <http://happyearth.com.au/greywater/>
 
 
 # Soil

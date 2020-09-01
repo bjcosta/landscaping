@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>
+
+
 # Overall Design History
 
 This page describes previous designs I made on the backyard landscaping project to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process that has happened over the last few years

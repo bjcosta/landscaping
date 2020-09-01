@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>
+
+
 # Plant Selection and Positioning
 
 On this page I walk through the various requirements and planting zones that exist in the garden plan. By first defining the local environment, setting requirements on various plantings and then looking at individual species that may meet those requirements.
