@@ -16,12 +16,12 @@ This is the challange:
 > Can I turn a my typical surburban backyard into something that is both beautiful and productive?
 
 I plan to keep track of all the key areas considered as part of the design to meet this challange. I want my backyard to be:
-* Asthetically pleasing (Most permaculture, aquaponic systems I see are ugly, with a bit of planning and cost I think there is no need for them to be)
-* Productive (Fruit, vegetables, eggs, fish)
-* Efficient/Sustainable (Setting up as many natural cycles as possible, working with nature instead of against it)
-* Low maintainence (through automation and good up-front design)
+* **Asthetically pleasing** : Most permaculture and aquaponic systems I see are ugly, with a bit of planning and cost I think there is no need for them to be
+* **Productive** : Creating food for us to consume including fruit, vegetables, eggs, fish
+* **Efficient/Sustainable** : Setting up as many natural cycles as possible, reusing our waste and working with nature instead of against it
+* **Low maintainence** : Through automation and good up-front design
 
-![photos/overview.png](photos/overview.png)
+![Garden Overview](photos/overview.png)
 
 
 # Contents
@@ -35,10 +35,11 @@ I plan to keep track of all the key areas considered as part of the design to me
 
 **Why am I doing this?**
 
-I love gardening, love eating food I have grown, married to a marine scientist (who likes conservation and understanding of ecosystems), want to make my yard look good and want to make a difference on my impact in the world. My approach is very design oriented, largely because as an engineer thats just how I like to do things (regulary to the rolling eyes of my wife) :-) 
+I love gardening, love eating food I have grown, married to a marine scientist (who likes conservation and understanding of ecosystems), want to make my yard look good and want to make a difference on my impact in the world. 
 
+My approach is very design oriented, largely because as an engineer thats just how I like to do things (regulary to the rolling eyes of my wife) :-) 
 
-On this page you can expect to find all the aspects of design I have considered for my garden and how they work together to result in a beautiful and productive backyard. There are so many different ideas out there, I needed a single place to write them down so I didn't forget bits of it or do things that conflicted. So this page is more for my sanity (so I dont forget things) than anything else. Maybe someday I will be able to reduce it down to something useful for others too but you are welcome to take it as it is and use anything for yourself.
+On this page you can expect to find the various design aspects I have considered for my garden and how they work together to result in a beautiful and productive backyard (lets hope so). This page is more for my sanity (so I dont forget things) than anything else. Maybe someday I will be able to reduce it down to something useful for others too but you are welcome to take it as it is and use any ideas for yourself.
 
 TODO: Add an image for each section makes it simpler to read and separate/find what we are after
 
@@ -54,21 +55,21 @@ I used this guide to create the goal statement: <https://www.milkwood.net/2015/1
 
 # Polyculture/Diversity
 
-The idea here is that a diverse ecosystem is typically more resiliant. This includes diversity in plants animals and insects. Many of the technologies listed on this page contribute to this diversity in one way or another. 
+The idea is that a diverse ecosystem is typically more resiliant. This includes diversity in plants animals and insects. Many of the technologies listed on this page contribute to this diversity in one way or another. 
 
-We plan to plant various different species of plants. This includes flowers, fruit, vegetables, herbs and other possily non-edible support plants that help define the ecosystem. 
+We plan to plant various different species of plants. This includes flowers, fruit, vegetables, herbs and other non-edible support plants that help define the ecosystem. 
 
 We will have a bias towards plants for human consumption which may cause some inbalance in the system, however I will adjust this as necessary after identifying specific issues.
 
 # Creating artificial ecosystems
 
-In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant. However this design, although learning where possible from local ecosystems, will instead attempt to artificially create non-native ecosystems in the backyard that better meet the goal of productivity.
+In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant and least maintainence. However this design, although learning where possible from local ecosystems, will instead attempt to artificially create non-native ecosystems in the backyard that better meet the goal of productivity.
 
-I have written more about my thinking on this [ecosystems/README.md](ecosystems/README.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce food for us to consume. 
+I have written more about my thinking on this in the page on [Sustainability and Artificial vs Native Ecosystems](ecosystems/README.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce food for us to consume. 
 
 Two good examples of this in the design are:
 
-**Adding a pond** : A pond is not natural in my backyard, and will require maintainence and some electricity. However its my opinion that the benefits this will add in attracting diversity into the ecosystem (birds, lizards, insects), and the ability to produce leafy greens and fish to consume with minimal input far outweigh these drawbacks.
+**Adding a pond** : A pond is not natural in my backyard, and will require maintainence and some electricity to sustain it. However its my opinion that the benefits this will add in attracting diversity into the ecosystem (birds, lizards, insects), and the ability to produce leafy greens and fish to consume with minimal input far outweigh these drawbacks.
 
 **Tree selection** : A good choice for trees in my area based on local ecosystems would likely be some kind of Eucalypt, or Lilli Pilli etc. But in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees which maye require extra maintainence that a native would not. Lilli-Pilli trees though able to produce fruit that we can use, it is not fruit we will regulary use and so the space would largely be wasted.
 
@@ -79,27 +80,21 @@ Most productive plants require a lot of sunlight. In fact most of them are expec
 
 Overall, we have made use of a few things to achieve these goals:
 * Design with different plant sizes layered such that they all get sun and dont shade each other out (taller on south, smaller on north side)
-* Add a retaining wall to provide extra height on the southern side of the block giving access to more sun
-  * This allows us to use some taller trees on the north side separated by some grass and the retaining wall and the shade thrown by the trees doesn't impact the smaller plants south of the retaining wall. As a result we get a slightly higher planting density without impacting the sunlight for the lower canopy plants.
+* Add a retaining wall to provide extra height on the southern side of the block giving access to more sun through vertical space usage
+  * This allows us to use taller trees on the north side separated by some grass and the retaining wall. The shade thrown by the trees doesn't impact the smaller plants south of the retaining wall as it raises them abov ethe shade level thrown by the trees on the north. As a result we get a slightly higher planting density without impacting the sunlight for the lower canopy plants.
 * Create different micro-climate/planting zones in the garden. We have trees in the canopy (full sun), space for understorey in full sun, part shade, full shade, and summer only shaded zones
 * Place structures (chicken coop, water tank, compost etc) in the shaded portion of the block so not to waste areas of full sun on these strctures
-* Make use of deciduous trees to the very north side to prevent blockage of sunlight during winter when the sun is lower in the sky
+* Make use of deciduous trees to the very north side to permit sulight through during winter when the sun is lower in the sky, but shade it a little in summer
 * Make use of artificial risers like trellises/arbours to raise creeping plants higer and get more sunlight (Make more use of vertical space)
 
-There are various tools than can be used to model the sunlight and shading for a project like this. I have documented more information about this on the separate page: [sun/README.md](sun/README.md)
-
-
-TODO Mention this and link to detail 
-
-I am also considering to create a vertical hydroponic garden (maybe aquaponic, we will see) as well. The idea is to have a vertical cylinder hanging from a post or sitting on the ground with plants like leafy greens, strawberries etc planted all around it like a thin tower of plants that normally spread horizonally across the ground. The intent would be to have the tower rotate slowly through the day to permit equal sun access across plants on all sides of the container. The rotation may be possible using the inertia of the water flowing through the tube somehow to reduce any mechanical cost to run extra motors etc.
-
-This was a prototype design that failed miserably :-) but I learnt from the mistakes like making the hydroponic cup design too complex. I will reconsider this later once I have the rest of the garden up and going: 
-![photos/hydro.png](photos/hydro.png)
-
+There are various tools that can be used to model the sunlight and shading for a project like this. I have documented more information about this on the separate page on [Thoughtful Solar Design](sun/README.md)
 
 # Water management
 
-There is a lot of literature on this and it is a big focus in many permaculture designs. It is very important to think about in the current Australian climate when we regulary have water restrictions. The idea is to consider the flow of water through the property from all sources and to slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
+There is a lot of literature on this and it is a big focus in many permaculture designs. It is very important to think about in the current Australian climate when we regulary have water restrictions with hot dry summers. The idea is to consider the flow of water through the property from all sources, to slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
+
+
+Below is a small diagram showing some of the water flow considerations I have made in my design so far, I wont be able to afford all of them to start with though:
 
 ![photos/water_flow.png](photos/water_flow.png)
 
@@ -108,17 +103,18 @@ There are a lot of considerations here. For example, in my design I have deliber
 * Chickens at top of slope (nutrient rich run-off to plants) with small water tank storage draining into swales
 * Swales in circular pattern going down the slope to slow water down and let it sink into the soil
 * Protection of pond from run-off using berms, drainage and positioning
-* Collection of water into tanks from roof
+* Collection of water into tank + under house storage bladder from roof
 * Overflow from roof collection tank into the pond
-* Overflow from pond to another swale for keeping plants well watered
-* Addition of extra under-ground water storage
+* Overflow from pond to more under ground water storage 
+* Large run off overflow from pond, and overflow from underground storage to swale
+* Pumping from underground storage back to pond waterfall to keep water oxygenated and healthy
 
 You will notice that the water flow is linked across various aspects of the entire system to try and keep it on the property as long as possible.
 
 
 ## Swales 
 
-A common tool to help water retention are swales. These are usually depressions/trenches dug to hold water so it can infiltrate the soil better instead of running off the top. 
+A common tool to help water retention are swales. These are usually depressions/trenches dug in the ground to hold water for a small period of time so it can infiltrate the soil better instead of running off the top. 
 
 ![photos/swales.png](photos/swales.png)
 
@@ -137,20 +133,22 @@ By completely mulching the garden area and adding trees to provide a shade canop
 
 ## Irrigation
 
-I have a water tank and will be using that for irrigation occasionally during dry periods. The irrigation lines should aim to make use of the swales by irrigating from the upper area of the slope.
+I have a main water tank attached to the house south-roof and will be using that for irrigation occasionally during dry periods. The irrigation lines should aim to make use of the swales by irrigating from the upper area of the slope hopefully directly into the swales. It could be useful to permit application of water soluble fertalizers through the irrigation, I will likely avoid using misters and try to irrigate directly into the swales using larger pipes that are less likely to block.
 
-TODO Not really fleshed this out
+Additionally I expect this irrigation will be driven by a small water tank in the back corner. I would like to use this as a tool for controlled irrigation and occasional fertalizer application if required. The idea is that we can have markers identifying the volume of water on this tank and mix/irrigate from it known quantities of water. I.e. Fill it to N litres, then turn the tap on to drain to the irrigation swales and not have to worry about over/under watering as we know the exact quantity of water used and it is also used as a mixing tank.
+
+Longer term, I will likely create an automated watering controller using moisture, water level, temperature and other data gathered from local weather stations and weather preditions to make automated irrigation decisions. This would be a fun little project, but wont happen for a long time.
 
 ## Water storage
 
-We already have a traditional water tank on our property. I plan to add more water storage to collect from the northern roof someday as we are not collecting any water from that section of the house yet.
+We already have a traditional water tank on our property. I plan to add more water storage to collect from the northern roof someday as we are not collecting any water from that section of the house yet and also try and increase the water holding capacity through extra storage options.
 
 There are many options to consider for the storage of water:
-* Traditional water tank (Often requires significant space and is an eyesore)
+* Traditional water tank (Often requires significant space and is an eyesore, I will avoid these going forward)
 * Under house water storage tanks or bladders
-* Under ground water storage (tanks or custom shape constructed with pond liner and aquablocks sometimes called rainwater harvesting) : <https://www.youtube.com/watch?v=2x23ljyT0S4>
+* Under ground water storage (tanks or custom shape constructed with pond liner and aquablocks) : <https://www.youtube.com/watch?v=2x23ljyT0S4>
 
-The underground water storage is quite an interesting solution. It has many similarities to building a pond but under the ground. I would like to consider this as an option one day in the future in our front yard and possibly also under the seating area in the back yard. The idea is that the water storage is hidden under the ground and is constructed from aquablocks inside a pond liner. Often a pondless waterfall is used as a means to circulate this water and keep it aerated and healthy, though with a real pond it is often sent over the waterfall and takes its inlet from the pond overflow.
+The underground water storage is quite an interesting solution and can be placed such as to not use up more valuable space. It has many similarities to building a pond but under the ground and can apparently be installed under pavers for example. I would like to consider this as an option one day in the future in our front yard and possibly also under the seating area in the back yard. The idea is that the water storage is hidden under the ground and is constructed from aquablocks inside a pond liner. Often a pondless waterfall is used as a means to circulate this water and keep it aerated and healthy, though with a real pond it is often sent over the waterfall and takes its inlet from the pond overflow.
 
 A common thing I have seen with rainwater harvesting as often promoted by aquascape is to connect the different water storage options on the property together and continually cycle the water from the lowest storage unit to the highest, connecting the overflows of them together. It works best with just two storage units like a pond + underground vault, but can with some effort be extended to multiple storage units.
 
@@ -159,13 +157,11 @@ The idea here is you pump water from the lowest storage point (say underground s
 
 ## Grey Water
 
-TODO Minimal here
-
 You can use some grey water on the garden to prevent wasting water used in washing machines etc. Not all plants will be able to use this and you also require use of safe detergents. There is a lot of information on this and very specific requirements in different local government areas you wil lneed to understand.
 
-On a farm, there is a LOT more you can do. For example often sewerage and storm water is non piped to rural properties and it is necessary for you to use a septic system with overflow to a drainage trench. I grew up on a farm that was setup like this. We originally had  some lemon trees next to the drainage trench and noticed how well they were going. So we ended up adding a pump to the septic that we used to irrigate directly to the roots of some fruit trees (not spraying in the air for obvious reasons). This worked great and made sure our waste water was being reused.
+On a farm, there is a LOT more you can do. For example often sewerage and storm water is non piped to rural properties and it is necessary for you to use a septic system with overflow to a drainage trench. I grew up on a farm that was setup like this. We had  some lemon trees next to the drainage trench and noticed how well they were going. So we ended up adding a pump to the septic that we used to irrigate directly to the roots of some fruit trees (not spraying in the air for obvious reasons). This worked great and made sure our waste water was being reused.
 
-There are very specific requirements around grey-water usage often with specific rules in different areas. I know some grey-water usage is permitted in my local area, however there are very specific ruling around how deep it is and where it is located. I will look into this later, but I believe it is permitted to use grey-water from a clothes washing machine but not other forms.
+There are very specific requirements around grey-water usage often with specific rules in different areas. I know some grey-water usage is permitted in my local area, however there are very specific ruling around how deep it is and where it is located to prevent ground-water contamination. I will look into this later, but I believe it is permitted to use grey-water from a clothes washing machine but not from other sources like showers, sinks etc.
 
 Interesting found a group to contact in the local area, but they have some decent info on greywater use: <http://happyearth.com.au/greywater/>
 
@@ -174,19 +170,41 @@ Interesting found a group to contact in the local area, but they have some decen
 
 The type of soil available will have a large impact on the decisions made. In all cases soil can be built up and improved with a lot of effort. The two extremes are sandy soil and clay soil. Both can be improved through the ongoing addition of organic matter to the soil. 
 
-In my case we have a heavy clay soil. The topsoil is ok, but the subsoil is very solid clay and doesn't drain very well. One thing that is important to do is get a proper soil test. In some places it is free (various universities in Australia I believe offer free soil reports).
+In my case we have a heavy clay subsoil. The topsoil is ok, but the subsoil is very solid clay and doesn't drain very well. It is important to get a proper soil test to have a better understanding of the local conditions. In some places it is free (various universities in Australia I believe offer free soil reports).
 
-For me I know we had heavy clay soil. We will want to add organic matter to it, but the other question was do we add lime or gypsum to the soil to help chemically break it up. 
-TODO: Discuss different types of lime and clay breaker and how that relates to the soil test. 
-TODO: This page will document the details about my soil test.
-[soil/README.md](soil/README.md)
+The drainage is just one aspect to be considered though. The chemical balance is also quite important as incorrectly balanced soil prevents uptake of various nutrients by plans etc.
 
+For me I know we had heavy clay soil. But the soil test also showed low concentration of calcium and high concentration of sodium and a littl high magnesium. What this means is that I needed to be careful about any lime applications to ensure it was calcium carbonate and not dolomitic lime which also includes magnesium. 
+
+Additionally the pH of the soil is very acidic, and so a calcium carbonate application will help bring this closer to neutral and be better for many of the plants that we would like in the garden. 
+
+Another comment was that the lead levels in the subsoil were quite high (though below toxic levels). This is more an issue for leafy greens and a few specific types of plants, less an issue for fruit trees from what I have read. I expect after the garden is setup I will try and use phytoremediation by planting sunflowers over the space and discarding them properly. This might have minimal impact but will be interesting to test before/after.
+
+Additionally I plan to not grow leafy greens and other highly impacted plants in the main garden, but instead use raised beds and aquaculture to grow these.
+
+I have a lot more information about this documented on the page about [Soil analysis and remediation](soil/README.md) where I will also discuss plants to improve the quality of the soil in a way that reduces maintainence over time.
+
+
+# Asthetics
+
+TODO: This is really lacking, I haven't spent a lot of time thinking through this yet and want to before making final decisions on trees and pond position.
+
+This area is not my forte and honestly I have had very little help with this, so any feedback would be super useful!
+
+I have been leaning heavily on landscaping software to visualize what things might look like. This has been immensely useful and I can clearly see when making minor adjustments that some things seem to look better than others. It is also good to have an idea of relative size and scale between objects.
+
+Being able to just shift the contour or height of something a small amount and see what it looks like really can make a difference. I know that the final thing will not look the same as visualized by the software, but I am hopeful that it will be close enough that it will still look ok.
+
+The "style" I am going for is not the modern clean straight lines etc. But more the victorian style with lots of complexity and natural shapes and colour in the design. This is more suited to achieving the density required for better production.
+
+At this point, I hope to be able to spend more time on the asthetics once I have the final structure I can work within defined clearly (retaining wall, pond and large trees). 
+
+I am documenting my various learnings in a page on [Asthetics](asthetics/README.md)
 
 # Retaining wall
 
-Originally I was going to just add a retaining wall to level off a grassy area for the kids to play. 
+Originally I was going to just add a retaining wall to level off a grassy area for the kids to play.  However there are a few other benefits that have arisen since then. In many ways, a retaining wall will permit us to make better use of vertical space:
 
-However there are a few other benefits that have arisen since then. In many ways, a retaining wall will permit us to make better use of vertical space:
 * Helps drainage in heavy clay soil as most planting will be above the wall
 * Raising southern side giving more light to plants that would otherwise be shaded out
 * Clear separation of grass from garden so wont be continually fighting weeds
@@ -202,7 +220,7 @@ Issues:
 
 This retaining wall has quite a low height (600 mm at peak), but there were a lot of technical decisions going into it largely because of the pond and various regulations for the local council. Its design changed multiple times and the retaining wall an pond are closely linked. Overall the decision on where to put the pond and retaining wall needs to be made together and upfron in the project.
 
-Find more information about the retaining wall at: [retain/README.md](retain/README.md)
+Find more information about the retaining wall documented on the page about [Retaining wall design](retain/README.md)
 
 
 # Pond / water feature
@@ -213,12 +231,12 @@ A diverse ecosystem is often naturally more robust, as there are fewer cases of 
 
 Additionally, having a body of water in the back-yard will affect the micro-climate. Adding humidity and a bit more thermal stability. Especially if it is enclosed by structure such as trees/shrubs to hold the humidity in a little.
 
-Finally ponds/water features are just plain amazing and beautiful!
+Finally ponds/water features look beautiful and the sound of running water provides a relaxing atmosphere to any landscape that can even hekp to drown out undesirable noises like cars in the background.
 
 Some issues with adding a pond might be unwanted guests like mosquitos, however if the pond is stocked correctly by say adding rainbowfish (again not a mono-culture of fish) we can minimise the impact of this. 
 
-The goal with the pond stocking will be to have diversity. By choosing species carefully I believe we can have diversity + productivity. My initial goal here is to consider stocking native fish that each have a purpose:
-* Silver perch for eating
+The goal with the pond stocking will be to have diversity. By choosing species carefully I believe we can have diversity, beauty and productivity. My initial goal here is to consider stocking native fish that each have a purpose:
+* Silver perch for eating and looking at
 * Eel tailed catfish for eating and stirring up the bottom to help clean the pond
 * Some form of rainbowfish (or other suitable species) for preying on mosquitos
 * Maybe some alae eating species like glass shrimp
@@ -229,12 +247,14 @@ The biggest issue with a pond is its complexity and power usage. Designing to in
 
 I expect to use a small 45W pump to run it 24/7 to keep the water oxygenated and flowing and bacteria alive, but automate a larger pump during the day when the solar panels are generating excess power to permit suficient water flow for additional filtering. The pump is a critical part of the system and we should account for redundancy by having two pumps installed (or a backup aerator) and a battery with automatic failover.
 
-I have a lot more detail on generic pond design and elements specific to my yard at this page: [pond/README.md](pond/README.md)
+At the page on [Pond Design](pond/README.md) I have a lot more detail on generic elements of pond design and how they applied specifically to my backyard.
 
 
 # Plant selection
 
-When I started this project, plant selection was incorrectly where I initially started the design. I looked at plants I wanted and then tried to plan everything else  around them. It soon became apparently that you can choose to base the design around a few key plants in the yard, but a better tactic is to resolve all the larger structural things first (Like retaining wall, pond placement, shed placement, tree positioning and shade, water availability etc) in a way that maximizes the usable space and then find plants that fit the roles and spaces available. These structural aspects of the design will help define what the various planting zones and micro-climates are in the yard so we can then start choosing species that are more suitable.
+When I started this project, plant selection was incorrectly where I initially started the design as I was excited about the food I could grow. I looked at the plants I wanted and then tried to plan everything else  around them. It soon became apparently that you can choose to base the design around a few key plants in the yard.
+
+A better tactic is to resolve all the larger structural things first (Like retaining wall, pond placement, shed placement, tree positioning and shade, water availability etc) in a way that maximizes the usable space and then find plants that fit the roles and spaces available. These structural aspects of the design will help define what the various planting zones and micro-climates are in the yard so we can then start choosing species that are more suitable.
 
 My key goals for plant selection are:
 * Define a list of "requirements" that must be met, things like max height for shading, no deciduous near neigbouring property, plants poisonous to fish not near ponds etc.
@@ -245,15 +265,15 @@ My key goals for plant selection are:
   * There is no point in planting strange fruit we will only eat occasionally, or only one person in the family eats, prefer planting staples especially for much larger trees as they will have the highest impact on our consumption and take up a lot of space
   * This comes back to the idea of trying to have as big an impact on sustainability as possible. I like the idea of having weird and wonderful fruit, but if we are not going to use it then give it a much lower priority as we have limited space
 
-This is a very large topic, you can find details on how I have worked through this at [plants/README.md](plants/README.md)
+This is a large topic, I have documented a lot more information about it on the page on [Plant Selection and Positioning](plants/README.md)
 
 
 # Fowl (Chickens)
 
 Using chickens or pheasants as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
 
-Most likely we will include some bantam chickens, however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
-* Recycling human waste converting to manure good for the garden
+Most likely we will include some bantam chickens (because they are smaller and require less space), however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
+* Recycling human waste converting to manure that is good fertalizer for the garden
 * Cleaning bugs from lower storey plants
 * Scratching around and aerating the soil
 * Providing meat and eggs
@@ -273,10 +293,11 @@ With black soldier fly larvae, when they are getting ready to pupate they will c
 
 There are other benefits specifically of the black soldier fly. They do not bother people much and will return to the same container to lay eggs so can sustain a continual production of eggs.
 
-Issues we need to overcome are:
+Issues we need to consider are:
 * Smell
-* Are native flies suitable for this
+* Are native flies suitable
 * Which scraps to feed the larvae and which to feed the chickens
+* How to best automate a system that maintains itself except for food input
 
 # Mulching
 TODO:
@@ -298,12 +319,12 @@ TODO Layer wood mulch on top of soil and innocuate with edible mushroom mycelium
 
 # Bees
 Honey/Native
-TODO Will see if possible for native, might be a bit cold for them but less space required (but no honey really this far south), honey bees more difficult ok with that but need singificant space for flight path I dont think I have. Also both locations are difficult for us t find ideal spots. Wants early morning sun, not overheat in midday
+TODO Will see if possible for native, might be a bit cold for them but less space required (but no honey really this far south), honey bees more difficult as they need singificant space for flight path I dont think I have. Also both need positions with early morning sun and shelter from midday heat in summer. Under a tree on western side is best
 
 
 # Aquaponics
 
-This is something I am super interested in. I will plan to try it in my garden unless the upkeep becomes too much.
+This is something I am super interested in. I will plan to try it in my garden unless the upkeep becomes too much. Lots of info to post here
 TODO
 
 ## Radio flow filter cleaning/fertalizer
@@ -317,6 +338,12 @@ TODO lots of individual ideas/technologies in the aquaponics section
 
 ## Walking Paths
 
+## Existing willife
+
+## Existing growth patterns
+
+## Weather
+
 ## Other
 
 * South boundry fence not stable, soil moves 
@@ -326,8 +353,8 @@ TODO lots of individual ideas/technologies in the aquaponics section
 
 # Permaculture
 
-Good things about permaculture
-TODO : Aspects of permaculture I am not following and why
+TODO: Good things about permaculture
+TODO: Aspects of permaculture I am not following and why
 
 
 # Process
@@ -344,7 +371,7 @@ TODO:
 # Inspirations
 
 Many things have provided inspiration in this design. Two areas in particular though stand out; Permaculture and Aquaponics.
-TODO
+TODO I have lots documented elsewhere I need to bring across
 
 # Achieving density
 
@@ -352,19 +379,15 @@ For each thing I add to the garden, I would like it to have more than one purpos
 * Shade and protection from the wind (Most trees are good for this)
 * Edible food (Fruit and nut trees are good for this)
 * Light regulation to define different micro-climates (Deciduous trees near house for light, evergreen near back to create a shady area)
-* Pollinator and bird attractants
-* Asthetics (Some trees like cherries have beautify flower displays, 
+* Pollinator and bird attractants (Consider flowering trees, requirements for nesting etc)
+* Asthetics (Some trees like cherries have beautify flower displays)
 
 # Design Zones
 TODO Identify zones in design and key points of the micro-climates / ecosystems in those zones
 
-
 # Old Designs
 
-This is a list of previous designs I made to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process tha has happened over the last few years:
-
-[history/README.md](history/README.md)
-
+I have also kept a rough record of previous design choices made on ap age about [Garden design history](history/README.md) to help me ensure I haven't forgotten something in later designs and consider the progress and changes in thinking over time. Looking at this can give a reasonable idea of the process that has happened over the last few years
 
 # References
 

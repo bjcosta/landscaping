@@ -871,3 +871,6 @@ Hortulan Plum
 
 Tamarind 15,24 decid
 
+
+
+TODO: Consider Gunnera looks good for shade pond! : https://www.youtube.com/watch?v=n2Wgaimzs40

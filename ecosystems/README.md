@@ -8,7 +8,7 @@
   gtag('config', 'UA-177071585-1');
 </script>
 
-# Why choose artificial ecosystems over native ones
+# Sustainability and Artificial vs Native Ecosystems
 
 TODO This page is not complete at the moment, and is a first draft of the basic points of my argument
 

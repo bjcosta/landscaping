@@ -78,9 +78,31 @@ You can also compare the summer vs winter view.
 </video>
 
 
+# Using Vertical Space
+
+## Vertical Gardens
+
+Normal gardens are spread out horizontally and consume a large amount of realestate in a small suburban backyard. The key idea to get the highest density is to make better use of the vertical space and model such that this vertical space usage doesn't overly shade other areas.
+
+Some common solutions to this include using:
+* Arbours/Trellises
+* Hanging pots
+* Vertical hydroponic gardens
+
+I experimented with designing a vertical hydroponic garden. The idea is to have a vertical cylinder hanging from a post or sitting on the ground with plants like leafy greens, strawberries etc planted all around it like a thin tower of plants that normally spread horizonally across the ground. The intent would be to have the tower rotate slowly through the day to permit equal sun access across plants on all sides of the container. The rotation may be possible using the inertia of the water flowing through the tube somehow to reduce any mechanical cost to run extra motors etc.
+
+This was a prototype design that failed miserably :-) The first issue was the complexity, the cups can easily be inserted without requiring 3D printed sleeves. The mounts for the top and bottom of the tower worked well, ad the next part is to design the rotatio mechanism. However I lost some momentum on this and want to complete the larger part of the garden (retaining wall, pond and larger trees planted) before resuming.
+
+![photos/hydro.png](photos/hydro.png)
+
+
 TODO Much more I can add here
 * Retaining wall impact on sunlight
 * Potential glass-house location access to near full sun
+* Thermal buffering using brick walls/concrete or water tubs
+* Some ideas using reflective surfaces
+* Floating structures for shading pond (water lillies, or floating plant pots or even decorative models)
+* Using hard structure to provide controlled shading like a bridge over the pond
 * Planting zone diversity:
   * Zone: Full shade (on south west very shaded/protected)
   * Zone: Shading summer/Sunny winter where table is

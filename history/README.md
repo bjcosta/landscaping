@@ -9,7 +9,7 @@
 </script>
 
 
-# Overall Design History
+# Garden design history
 
 This page describes previous designs I made on the backyard landscaping project to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process that has happened over the last few years
 

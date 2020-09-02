@@ -10,7 +10,7 @@
 
 
 
-# Soil Testing
+# Soil Analysis and remediation
 
 As part of this process I made sure to have my soil tested to get an idea of what types of plants would work best and also to give an idea of any remdiation that would be required.
 
@@ -36,3 +36,5 @@ This is the important part and I need to write it up. But focus is elsewhere for
 TODO: Remediation
 TODO: Plant choices
 TODO: Drainage
+TODO: Document process planned to improve the soild after the retaining wall is constructed
+TODO: This page will document the details about my soil test.
