@@ -1,13 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-177071585-1');
-</script>
-
 
 # Thoughtful Solar Design
 
@@ -108,3 +98,14 @@ TODO Much more I can add here
   * Zone: Shading summer/Sunny winter where table is
   * Zone: Full sun on grass
   * Zone: Open layered sunlight on southern boundary
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>
+

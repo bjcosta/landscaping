@@ -1,13 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-177071585-1');
-</script>
-
 
 # Plant Selection and Positioning
 
@@ -51,6 +41,8 @@ TODO: I now have a structure for this page, I need to fill out the details obtai
 * Rainfall: 893mm per year, most in feb/mar fairly even through rest of year lowest month is sep
 * Slope aspect: Northerly
 * Hardiness Zone: 10b (1.7 - 4.4 degrees Celcius) (Or an aus specific zone 4 : <https://www.anbg.gov.au/gardens/research/hort.research/zones.html> )
+* Cold Zone: 10 (According to diggers club: https://www.diggers.com.au/shop/ordering-information/climate-maps/)
+* Heat Zone: 3 to 4 (21 days per year >= 30 degrees, According to diggers club: https://www.diggers.com.au/shop/ordering-information/climate-maps/)
 * Pests: Fruit fly, Cabbage moth, Aphids all the normal things
 
 I am going to have to do some work on improving the soil. The report says there is a high sodium content, and I should increase the calcium content and raise the pH the solution is to treat with calcitic lime which I plan to do reguary and re-test. Additionally other normal processes like mulching, composting and generally trying to improve the soil structure as well.
@@ -120,13 +112,15 @@ There are a few key locations that have specific requirements, these are mostly 
 
   Considered species:
   * Apple
-  * Pear
+  * Pear (Looks good: https://www.diggers.com.au/shop/fruit/pear-trees/pear-williams/wpewi/, https://www.diggers.com.au/shop/fruit/pear-trees/pear-packhams-triumph/wpepa/)
   * Almond
   * Fig
+  * White Mulberry (Looks good maybe too small though: https://www.diggers.com.au/shop/fruit/white-mulberry/wmuw/)
   * Red Mulberry
   * Hortulan Plum
   * Persimmon (Dont eat much of)
   * Little Walnut
+  * Black Walnut (Probably too large, but probably well suited: https://www.diggers.com.au/shop/fruit/nut-trees/walnut-black/wwab/)
   * Cherry (Looks lovely, but likely too close to pond and seeds from species prunus is toxic for fish)
   * Nectarine (Prunus)
   * Peach (Prunus)
@@ -873,4 +867,15 @@ Tamarind 15,24 decid
 
 
 
-TODO: Consider Gunnera looks good for shade pond! : https://www.youtube.com/watch?v=n2Wgaimzs40
+TODO: Consider Gunnera plant it looks like will provide good shade for the pond : https://www.youtube.com/watch?v=n2Wgaimzs40
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>
+

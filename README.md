@@ -1,13 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-177071585-1');
-</script>
-
 
 # Beautiful and productive backyard landscaping
 
@@ -52,6 +42,30 @@ The purpose of the goal statement is to help us imagine what then end result mig
 > Providing shade in the summer and open to sunlight in the winter, it is a perfect space to entertain a few guests in a calming and peaceful environment.
 
 I used this guide to create the goal statement: <https://www.milkwood.net/2015/10/26/permaculture-design-process-1-writing-a-goal-statement/>
+
+
+# Asthetics
+
+This area is not my forte and honestly I have had very little help with this so far, so any feedback or ideas would be super useful!
+
+I have been leaning heavily on landscaping design software to visualize ideas and making incremental changes to see what they might look like. This has been immensely useful and I can clearly see when making minor adjustments that some things seem to look better than others. Using software that renders in realtime 3D also seems to be helpful at providing an idea of relative size and scale between objects which is sometimes difficult for me to visualize, though still not the same as actually seeing something in real life.
+
+My overall approach is to define the larger aspects of the landscape (like tree positions/sizes, pond location, retaining wall shape, seating locations etc) based on functional requirements. Model them in the software and see what they look like. Make adjustments for asthetics and iterate to see if the changes impact functional design. What I am not taking into account is the detail, like colours, textures etc. I am trying to account for size, form and other aspects that might be difficult to change later.
+
+I am not certain how well this is going to work out, but there are so many considerations to juggle at the same time that it seems to me to be the only feasible solution I can find to get something both functional and beautiful.
+
+The other key thing I am looking at is analysing other designs that I really like and want to emulate. By trying to understand how they achieved those references I can try and emulate that myself by making small adjustments. 
+
+The biggest problem I am having is finding good reference material of edible landscapes I like. Many of the edible landscaping videos/photos I have seen focus on the individual plants/animals in the landscape and not the overall asthetics of the landscape as a whole. So they may look ok, but I dont really get to see/appreciate the overall view much. The images I see with really good landscaping artistic design are mostly based on non-edibles. 
+
+With that said I have found a few good examples of edible landscapes one of which you can see below. Find more in my documented learnings on [Asthetics](asthetics/README.md)
+
+**Small Urban Edible Forest**
+
+<a href="https://www.youtube.com/watch?v=l294zaoLgoA">
+  <img alt="Small Urban Edible Forest" src="asthetics/photos/small_urban_edible_forest.png" width="400">
+</a>
+
 
 # Polyculture/Diversity
 
@@ -184,22 +198,6 @@ Additionally I plan to not grow leafy greens and other highly impacted plants in
 
 I have a lot more information about this documented on the page about [Soil analysis and remediation](soil/README.md) where I will also discuss plants to improve the quality of the soil in a way that reduces maintainence over time.
 
-
-# Asthetics
-
-TODO: This is really lacking, I haven't spent a lot of time thinking through this yet and want to before making final decisions on trees and pond position.
-
-This area is not my forte and honestly I have had very little help with this, so any feedback would be super useful!
-
-I have been leaning heavily on landscaping software to visualize what things might look like. This has been immensely useful and I can clearly see when making minor adjustments that some things seem to look better than others. It is also good to have an idea of relative size and scale between objects.
-
-Being able to just shift the contour or height of something a small amount and see what it looks like really can make a difference. I know that the final thing will not look the same as visualized by the software, but I am hopeful that it will be close enough that it will still look ok.
-
-The "style" I am going for is not the modern clean straight lines etc. But more the victorian style with lots of complexity and natural shapes and colour in the design. This is more suited to achieving the density required for better production.
-
-At this point, I hope to be able to spend more time on the asthetics once I have the final structure I can work within defined clearly (retaining wall, pond and large trees). 
-
-I am documenting my various learnings in a page on [Asthetics](asthetics/README.md)
 
 # Retaining wall
 
@@ -351,6 +349,23 @@ TODO lots of individual ideas/technologies in the aquaponics section
 * Neighboring property on south is very tidy and has a pool, will avoid overhanging deciduous trees on boundary
 * Pee-wees, bower birds, willy wagtails frequent yard gathering food and insects from ope compost bins
 
+# Maintainence
+
+I have a bunch of ideas on how to reduce the maintainence and expect this will be something that I will adjust over time as I find things that need to be done. 
+
+In some aspects of the design have sacrificed maintainence to achieve other goals like productivity. One example is use of deciduous trees on the north side of the block. The leaves are going to get annoying in the pool/pond. I have seen suggestions on using netting in autumn, or intake bays instead of skimmers to make it simpler, or even automated solutions (like a mesh conveyor belt taking leaves out of skimmer and dumping in pile next to pond).
+
+Other ideas is as we see what plants work and what dont, I will consider removing some of the plants to replace with others of lower maintainence. The other design decision is keeping any annuals out of the main garden, just using perannials. This will leave the aquaponics grow bed and some raised gardens soley for annuals which require regular significant maintainence.
+
+I also plant to create a calendar, identifying bits of work I need to do (like pruning, fertalizer, bug checking, extra irrigation etc) at what times of the year once I have my planting figured out. The goal here is to reduce the mental load of remembering what I have to do when and how. if it is all at my fingertips it will be simpler IMO.
+
+As a engineer, I enjoy creating small device to help me out. I hope as time goes on I can identify small projects I can develop to reduce maintainence. Some obvious targets include:
+* Automated watering
+* Robot lawn mower :-)
+* Different pond filtering ideas
+* Automated feeder
+
+
 # Permaculture
 
 TODO: Good things about permaculture
@@ -391,4 +406,15 @@ I have also kept a rough record of previous design choices made on ap age about 
 
 # References
 
+* Questions do polycultures work (no definitive answer): <https://youtu.be/S2F7gIp2y9c?t=597>
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>

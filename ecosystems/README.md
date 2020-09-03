@@ -1,12 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-177071585-1');
-</script>
 
 # Sustainability and Artificial vs Native Ecosystems
 
@@ -27,3 +18,12 @@ This is largely because we dont normally consume that fruit and I dont know if w
 That said, if the goal isnt production OR I want to achieve something else by planting them then there are other good causes to do so. Lilli-pillies for example may contribute in other ways than production of useful fruit and we need to decide what tradeoffs to make.
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177071585-1');
+</script>
