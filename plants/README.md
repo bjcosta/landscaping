@@ -1,3 +1,6 @@
+<script>
+  var t = "This is just a development preview. Please find the proper version of this at: http://landscape.the-costas.com/landscaping/ "
+</script> 
 
 # Plant Selection and Positioning
 
@@ -866,8 +869,8 @@ Hortulan Plum
 Tamarind 15,24 decid
 
 
-
 TODO: Consider Gunnera plant it looks like will provide good shade for the pond : https://www.youtube.com/watch?v=n2Wgaimzs40
+TODO: https://youtu.be/9jXj4NEFaiU referenced global inventory of perenial vegetables https://docs.google.com/file/d/0B9ew4_svq9K3N3puYWNuSF9MdlE/edit
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>

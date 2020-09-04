@@ -1,3 +1,6 @@
+<script>
+  var t = "This is just a development preview. Please find the proper version of this at: http://landscape.the-costas.com/landscaping/ "
+</script> 
 
 # Soil Analysis and remediation
 

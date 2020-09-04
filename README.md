@@ -1,3 +1,7 @@
+<script>
+  var t = "This is just a development preview. Please find the proper version of this at: http://landscape.the-costas.com/landscaping/ "
+</script> 
+
 
 # Beautiful and productive backyard landscaping
 
@@ -46,19 +50,30 @@ I used this guide to create the goal statement: <https://www.milkwood.net/2015/1
 
 # Asthetics
 
-This area is not my forte and honestly I have had very little help with this so far, so any feedback or ideas would be super useful!
+Creative design is not my forte and honestly I have had very little help with this so far, so any feedback or ideas would be super useful!
 
-I have been leaning heavily on landscaping design software to visualize ideas and making incremental changes to see what they might look like. This has been immensely useful and I can clearly see when making minor adjustments that some things seem to look better than others. Using software that renders in realtime 3D also seems to be helpful at providing an idea of relative size and scale between objects which is sometimes difficult for me to visualize, though still not the same as actually seeing something in real life.
+Using edible plants to create a beautiful landscape is not new. It has increased in popularity in recent times and has been given a few different names including [Foodscaping](<https://en.wikipedia.org/wiki/Foodscaping>), Edible Landscaping and even one company gaining some momentum adopting the term [Agriscaping](<https://agriscaping.com/about-us/>) after the name of the company. 
 
-My overall approach is to define the larger aspects of the landscape (like tree positions/sizes, pond location, retaining wall shape, seating locations etc) based on functional requirements. Model them in the software and see what they look like. Make adjustments for asthetics and iterate to see if the changes impact functional design. What I am not taking into account is the detail, like colours, textures etc. I am trying to account for size, form and other aspects that might be difficult to change later.
+My approach in the asthetic design of the garden is to:
+* Find examples of gardens I like
+* Analyse them to understand what makes them pleasing to me
+* Use the analysis to define what garden style I want to achieve
+* Attempt to design something in that style and evaluate using the same techniques used to understand other gardens
 
-I am not certain how well this is going to work out, but there are so many considerations to juggle at the same time that it seems to me to be the only feasible solution I can find to get something both functional and beautiful.
+It has been difficult finding examples of foodscapes that I really appreciate. Most of them are much more open than I would like and integrate a lot of lower storey bushes and ground covers with very little tree canopy. They also often use many annuals which I want to avoid. It is likely this is caused by the fact that most productive plants require a significant amount of sunlight and thus the foodscapes are all very open to achieve this.
 
-The other key thing I am looking at is analysing other designs that I really like and want to emulate. By trying to understand how they achieved those references I can try and emulate that myself by making small adjustments. 
+The oter side is that many of the ones creating food forrests and using perannials are often tuned for production and have less emphasis on asthetic design.
 
-The biggest problem I am having is finding good reference material of edible landscapes I like. Many of the edible landscaping videos/photos I have seen focus on the individual plants/animals in the landscape and not the overall asthetics of the landscape as a whole. So they may look ok, but I dont really get to see/appreciate the overall view much. The images I see with really good landscaping artistic design are mostly based on non-edibles. 
+Looking through some example [Garden Styles](<https://www.homestolove.com.au/garden-design-styles-19942>) and some from many other places, I have identified the styles I like the most are:
+* Tropical
+* Woodland
+* Japanese
 
-With that said I have found a few good examples of edible landscapes one of which you can see below. Find more in my documented learnings on [Asthetics](asthetics/README.md)
+I also like gardens that borrow from the above styles, but have the density often seen in those typical styles at the edges of the garden and are more open in the center with a small area of closed in joining between the two sides that contains seating areas etc of fucs under the shade. 
+
+I have been keeping a lot of notes on [Foodscape asthetics](asthetics/README.md) and how it applies to and informs my garden design.
+
+On of the better edible landscape examples I have seen is:
 
 **Small Urban Edible Forest**
 
@@ -139,6 +154,10 @@ As the water hits a swale it dams up, forcing the water to puddle a little and s
 Swales can be "hidden" under the ground as well by digging a trench and filling it with something like blue-metal and then permitting grass/much over the top of it, or can be above ground using berms or a combination of both. Currently I have designed using berms to create little dams, but its likely I will use a combination of both to increase the volume and reduce the unsightly impact. 
 
 Berms also have the issue of eroding away and need to be constructed of a suitable material like clay. An important consideration when adding raised berms is to be sure that the height is such that the top of the berm is lower than the natural land level on my up-hill boundary fence to ensure there is no impact on the surrounding properties water drainage.
+
+TODO Add to this list
+Good info about swales:
+* [Constructing Urban Swales with Weeping Tile & Mulch](<https://www.youtube.com/watch?v=c0DedomHqVs&ab_channel=VergePermaculture>)
 
 
 ## Evaporation
