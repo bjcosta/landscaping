@@ -15,6 +15,45 @@ This page describes previous designs I made on the backyard landscaping project 
 
 # Current design
 
+I have done another higher level design, this time working on the idea of a hidden nook. The path directs you away from it until you reach the opening where the hidden nook is revealed. Using bright colours to draw focus, a path to distract you until you arrive. 
+
+After looking more at the asthetics of the design and what I tend to like in existing gardens, I realized I had started to sacrifice the asthetics for other points which wasnt my original intent.
+
+I was focusing on some practical ideals like:
+* Need open design with sunlight for productives (This design makes a slight sacrifice on productive plants to achieve the style)
+* Pond/Waterfall should be visible from house
+* Pond should be in full sunlight for plant growth
+* Pond should be near retaining wall to make use of natural slope for water flow
+
+I prefer the overgrown shaded hidden jungle style, where walking through the garden it reveals beautiful hidden locations for you to enjoy. I also really appreciate the asthetic of paths that direct the eye where to go, and surprises when you find something that was not expected.
+
+Some key aspects of this design:
+* A lot more shade around the seating area
+* Pond locaion is hidden and away from retaining wall
+* The view from the house hints at interesting destinations you cant quite see
+
+Improvements over previous designs:
+* Asthetic appeal to me
+* Pond now a long way from retaining walls, less chance of collapse and also of run-off from chickens
+* Interaction with the pond is easier, sitting and dangling legs into it from deck/paved area
+
+Possible issues:
+* Pool fencing regulations?
+* Is the extra density going to cause shading issues?
+* Leaves in pond (lots more), I am going to have to live with this and likely use a net above the pond in autumn
+* Pond likely will be smaller and have less flexability
+
+
+Perspective View  |  Topdown View
+:---:|:---:
+![stage_8/perspective.png](stage_8/perspective.png)  |  ![stage_8/topdown.png](stage_8/topdown.png)
+![stage_8/path_perspective.png](stage_8/path_perspective.png)  |  ![stage_8/seating_perspective.png](stage_8/seating_perspective.png)
+
+
+
+
+# Pond Near House With Balance
+
 After looking at possibilities for the shaded pond, I am considering moving back to the non-shaded pond location, but adding options to provide shade and balance to the overall backyard view.
 
 The pond at the back of the property had a number of issues I didn't like in the design including:

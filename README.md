@@ -50,6 +50,8 @@ I used this guide to create the goal statement: <https://www.milkwood.net/2015/1
 
 # Asthetics
 
+More information on: [Foodscape asthetics](asthetics/README.md)
+
 Creative design is not my forte and honestly I have had very little help with this so far, so any feedback or ideas would be super useful!
 
 Using edible plants to create a beautiful landscape is not new. It has increased in popularity in recent times and has been given a few different names including [Foodscaping](<https://en.wikipedia.org/wiki/Foodscaping>), Edible Landscaping and even one company gaining some momentum adopting the term [Agriscaping](<https://agriscaping.com/about-us/>) after the name of the company. 
@@ -92,6 +94,8 @@ We will have a bias towards plants for human consumption which may cause some in
 
 # Creating artificial ecosystems
 
+More information on: [Sustainability and Artificial vs Native Ecosystems](ecosystems/README.md)
+
 In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resiliant and least maintainence. However this design, although learning where possible from local ecosystems, will instead attempt to artificially create non-native ecosystems in the backyard that better meet the goal of productivity.
 
 I have written more about my thinking on this in the page on [Sustainability and Artificial vs Native Ecosystems](ecosystems/README.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce food for us to consume. 
@@ -104,6 +108,8 @@ Two good examples of this in the design are:
 
 
 # Sunlight
+
+More information on: [Thoughtful Solar Design](sun/README.md)
 
 Most productive plants require a lot of sunlight. In fact most of them are expecting full sunlight which is often hard to ensure when trying to also increase the planting density. In addition to providing sunlight for trees as necessary we also want to consider providing places to sit in the shade during summer but in the sun during winter/autumn. Having a block that slopes downwards towards the north is a huge benefit here. We got lucky with the aspect of our block of land.
 
@@ -201,6 +207,8 @@ Interesting found a group to contact in the local area, but they have some decen
 
 # Soil
 
+More information on: [Soil analysis and remediation](soil/README.md)
+
 The type of soil available will have a large impact on the decisions made. In all cases soil can be built up and improved with a lot of effort. The two extremes are sandy soil and clay soil. Both can be improved through the ongoing addition of organic matter to the soil. 
 
 In my case we have a heavy clay subsoil. The topsoil is ok, but the subsoil is very solid clay and doesn't drain very well. It is important to get a proper soil test to have a better understanding of the local conditions. In some places it is free (various universities in Australia I believe offer free soil reports).
@@ -219,6 +227,8 @@ I have a lot more information about this documented on the page about [Soil anal
 
 
 # Retaining wall
+
+More information on: [Retaining wall design](retain/README.md)
 
 Originally I was going to just add a retaining wall to level off a grassy area for the kids to play.  However there are a few other benefits that have arisen since then. In many ways, a retaining wall will permit us to make better use of vertical space:
 
@@ -241,6 +251,8 @@ Find more information about the retaining wall documented on the page about [Ret
 
 
 # Pond / water feature
+
+More information on: [Pond Design](pond/README.md)
 
 Adding running water into an ecosystem can introduce a huge diversity of wildlife to your back yard. This include birds, insects, frogs and lizzards. 
 
@@ -268,6 +280,8 @@ At the page on [Pond Design](pond/README.md) I have a lot more detail on generic
 
 
 # Plant selection
+
+More information on: [Plant Selection and Positioning](plants/README.md)
 
 When I started this project, plant selection was incorrectly where I initially started the design as I was excited about the food I could grow. I looked at the plants I wanted and then tried to plan everything else  around them. It soon became apparently that you can choose to base the design around a few key plants in the yard.
 
@@ -363,26 +377,77 @@ TODO lots of individual ideas/technologies in the aquaponics section
 
 ## Other
 
-* South boundry fence not stable, soil moves 
+* South boundry fence not stable, soil moves or at least shrunk with dryness causing fence posts and clothes line to shift
 * Neighboring property on west has unobstructed view into our back yard, extended balcony
 * Neighboring property on south is very tidy and has a pool, will avoid overhanging deciduous trees on boundary
 * Pee-wees, bower birds, willy wagtails frequent yard gathering food and insects from ope compost bins
 
 # Maintainence
 
-I have a bunch of ideas on how to reduce the maintainence and expect this will be something that I will adjust over time as I find things that need to be done. 
+There are numerous aspects of maintainence I have tried to reduce through design, like crowding out weeds, hard separation between lawn and gardens, and mulching. But also some cases I have made trade-offs to increase maintainence in order to improve asthetics and/or productivity like using deciduous trees near pond/pool.
 
-In some aspects of the design have sacrificed maintainence to achieve other goals like productivity. One example is use of deciduous trees on the north side of the block. The leaves are going to get annoying in the pool/pond. I have seen suggestions on using netting in autumn, or intake bays instead of skimmers to make it simpler, or even automated solutions (like a mesh conveyor belt taking leaves out of skimmer and dumping in pile next to pond).
+I have a few ideas on how to use technology and automation to try and reduce this maintainence long term, but will get things going first to see how they go over time. I expect once the garden is up and running, I can identify things that need to be done and see if I can improve them.
 
-Other ideas is as we see what plants work and what dont, I will consider removing some of the plants to replace with others of lower maintainence. The other design decision is keeping any annuals out of the main garden, just using perannials. This will leave the aquaponics grow bed and some raised gardens soley for annuals which require regular significant maintainence.
+
+**Weeding**
+
+Ideally the plan is to reduce the weeding we will need to do by densely planting covering all areas with plants, having hard boundaries between the lawn and garden, and mulching any areas not covered by ground cover plants. In food forrests, the idea is to out-compete the weeds for sunlight and space with other useful plants like in a natural forrest.
+
+**Pruning**
+
+Pruning is something we will likely need to do occasionally. By choosing species with a goal so that their natural size fits the expected area, we can reduce the pruning required to just that necessary for the health and initial shaping of the plant.
+
+**Pest management**
+
+Ideally we want to attract numerous predators into the garden like lizzards, birds frogs etc. The goal here is that if we create habitat that these predators need making it attractive for them, then they will keep any pests under control. A few pests isn't an issue, and part of a natural ecosystem. Its when they get out of check because of missing predators that problems arise.
+
+The selection of plant species may also have an impact on this. I know from past experience for example, that thin skinned nectarines/tomatoes have numerous issues with fruit fly in the area. Where as bananas and other thicker skinned fruits were fine. I need to do more research on this but maybe for example peaches are less impacted by this than nectarines as an example.
+
+Finally some level of management can be obtained through companion planting and creating diversity in the ecosystem, we expect to have less impact from pests due to design of this, planting strongly aromatic herbs next to fruit trees/bushes etc. 
+
+**Disease Management**
+
+This might be a bit more difficult, in particular I think there is a high chance for fungal disease, with the moisture around the pond and past experience with avacados, mangos etc. I have seen fungal diseases common in this area.
+
+**Mulching**
+
+I expect we will need to reapply mulch each year. Ideally using full tree mulch collected from an aborist on the trailer. 
+
+**Re-planting**
+
+I expect that some of ht eplanned plantings wont work out as expected. I hope to learn from this, and eith adjust position or replace species with something else. This may involve some replanting over time.
+
+Also, we will include two raised beds for annuals, and likely two aquaponic grow beds also for annuals. These will require regular replanting and cleaning (which we do currently anyway at least in spring and autumn each year).
+
+
+**Pond Cleaning**
+
+I expect that the skimmer on the pond will need to be emptied at the same regularity as the skimmer on the pool. I plan to oversize the pond skimmer a little to permit this work more effectively with less frequent maintainence. Longer term I expect to attempt to retro-fit an intake bay instead of a pond skimmer to also help reduce the maintainence required. I will consider a negative edge, but am a little worried about jumping fish.
+
+By designing with a bottom drain and radial flow filter, I expect that the same regularity of skimmer maintainence will also require cleaning solids from the filtration on the bottom drain. However this should be made simple/easy and ideally by adding this (and under graove cycle grid) I can avoid the yearly maintainence of completely draining the pond to clean out much behind the rocks seen with many ecosystem ponds but not often in koi ponds.
+
+Additionally, I believe it should be feasible to automate the radial flow filter cleaning some day in the future.
+
+Water level topup is also something that may need to be done occasionally. I expect to use rain water from my tank to start with. However, I have also considered if a auto level valve as used on a toilet cistern can work. The issue is chlorination of mains water, I am not certain if the small quantites of chlorine added frequently will have a significant impact on the ecosystem (unlike irregulary larger topups which are shown to aversely affect the system). There are filters that can be installed to remove the chlorine though if necessary. Finally I can always set up the valve to the water tanks pump such that when automated irrigation starts it also fills the pond to the necessary level which is probably the ideal solution.
+
+
+**Fish feeding**
+
+To start with manual feeding, I will however at some point instal some automated feeder so we can go on holidays and not have to wory about feeding the fish.
+
+**Planning**
 
 I also plant to create a calendar, identifying bits of work I need to do (like pruning, fertalizer, bug checking, extra irrigation etc) at what times of the year once I have my planting figured out. The goal here is to reduce the mental load of remembering what I have to do when and how. if it is all at my fingertips it will be simpler IMO.
+
+**Automation**
 
 As a engineer, I enjoy creating small device to help me out. I hope as time goes on I can identify small projects I can develop to reduce maintainence. Some obvious targets include:
 * Automated watering
 * Robot lawn mower :-)
 * Different pond filtering ideas
 * Automated feeder
+
+It is not just reducing maintainence, but also permitting the system to work in extended absences like when we go on holidays for a few weeks. No automated system is fool-proof, but with sufficient feedback and notification events we can ideally know if manual intervention is required and call up a friend to come and help if we are in dire need and are remote.
 
 
 # Permaculture

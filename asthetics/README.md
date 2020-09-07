@@ -7,11 +7,11 @@
 
 Using edible plants to create a beautiful landscape is not new. It has increased in popularity in recent times and has been given a few different names including [Foodscaping](<https://en.wikipedia.org/wiki/Foodscaping>), Edible Landscaping and even one company gaining some momentum adopting the term [Agriscaping](<https://agriscaping.com/about-us/>) after the name of the company. 
 
-A common trend I have noticed looking at existing foodscapes, is that most have a very consistent open look to them similar to cottage or formal flower gardens, where as the closed in look I hope for that is typical of tropical, woodland and japanese gardens is not very common at all. It is highly likely this is due to the light requirements of most productive edible plants and may be very difficult for me to achieve.
+A common trend I have noticed looking at existing foodscapes, is that most have a very consistent open look to them similar to cottage or formal flower gardens, where as the closed in high density jungle look I like that is typical of tropical, woodland and japanese gardens is not very common at all. It is highly likely this is due to the light requirements of most productive edible plants and may be very difficult for me to achieve.
 
-It is my goal though to try and situate the edibles early in the design with prime locations for sunlight, and then fill in the shaded portions and create density with ornamentals. It will be important to ensure the ornamentals dont outgrow their spaces and shade out the edibles.
+It is my goal though to try and situate the edibles early in the design with prime locations for sunlight, and then fill in the shaded portions and create density with ornamentals in such a way that their sizes are restricted to heights/locations underneath the edibles. It will be important to ensure the ornamentals don't outgrow their spaces and shade out the edibles, and I may end up with issues of nutrient deficiencies. I am not certain it will work.
 
-Another trend I have seen in many professional foodscapes in botanical gardens is to make use of variageted annuals, like lettuce etc. Again this is something I want to avoid to reduce the maintainence required of replanting annuals regulary.
+Another trend I have seen in professional foodscapes in botanical gardens is to make very open gardens that use mostly variageted annuals, like lettuce etc. Again this is something I want to avoid to reduce the maintainence required of replanting annuals regulary.
 
 
 # Approach
@@ -20,15 +20,15 @@ The approach I am taking with this project is to get the larger structure of the
 
 I have been leaning heavily on landscaping design software [Realtime Landscaping Pro](<https://www.ideaspectrum.com/landscape-design-software-overview/>) to visualize ideas and making incremental changes to see what they might look like. This has been immensely useful and I can clearly see when making minor adjustments that some things seem to look better than others. Using software that renders in realtime 3D also seems to be helpful at providing an idea of relative size and scale between objects which is sometimes difficult for me to visualize, though still not the same as actually seeing something in real life.
 
-I am also trying to use the [Artistic landscape design components](#artistic-landscape-design-components) defined below to evaluate existing gardens I like to understand what it is about them that makes them stand out to me so I can try and recreate similar aspects in my own design.
+I am also trying to use the [Artistic landscape design components](#artistic-landscape-design-components) defined below to evaluate existing gardens I like to understand what it is that makes them stand out to me so I can try and recreate similar aspects in my own design.
 
 
 # Style choice
 
-TODO: Clearly define the style I want in the backyard based on analysis of the inspiring gardens below and identify their characteristics.
+TODO: Clearly define the style I want in the backyard based on analysis of the inspiring gardens below and their identifying characteristics.
 * Woodland (Favorite by far, but unlikely to work as requires large spaces and large trees)
-* Tropical (Next favorite, may be able to incorperate aspects, but way too dense to work with 100% edibles)
-* Japanese (I like these also, though often a little more formal than I would like)
+* Tropical (Next favorite, may be able to incorperate some aspects of this, but way too dense to work with 100% edibles)
+* Japanese (I like these also, though sometimes a little more formal than I would like)
 * Cottage (I like the colour and chaos, but is too open)
 
 
@@ -94,6 +94,10 @@ Some design elements or tools to impact the priciples include:
 * Rhythm
 * Proportion
 
+## Tools and ideas
+
+TODO: Add ideas as I see them.
+* Use [Espalier](https://en.wikipedia.org/wiki/Espalier) as a means to create form (also for space restrictions)
 
 # Questions to ask in design
 
