@@ -13,27 +13,35 @@ This page describes previous designs I made on the backyard landscaping project 
 {:toc}
 
 
-# Current design
 
-I have done another higher level design, this time working on the idea of a hidden nook. The path directs you away from it until you reach the opening where the hidden nook is revealed. Using bright colours to draw focus, a path to distract you until you arrive. 
+# Improved pond at back 2020/09
 
-After looking more at the asthetics of the design and what I tend to like in existing gardens, I realized I had started to sacrifice the asthetics for other points which wasnt my original intent.
+And yet another design idea. This is looking promising.
+
+![stage_6/perspective.3.png](stage_6/perspective.3.png)
+
+
+# Pond on east Side of hidden glen 2020/09
+
+I have done another higher level design, this time working on the idea of a hidden nook. The path directs you away from it until you reach the opening where the hidden nook is revealed. Using bright colors to draw focus, a path to distract you until you arrive. 
+
+After looking more at the aesthetics of the design and what I tend to like in existing gardens, I realized I had started to sacrifice the aesthetics for other points which wasn't my original intent.
 
 I was focusing on some practical ideals like:
-* Need open design with sunlight for productives (This design makes a slight sacrifice on productive plants to achieve the style)
+* Need open design with sunlight for productive (This design makes a slight sacrifice on productive plants to achieve the style)
 * Pond/Waterfall should be visible from house
 * Pond should be in full sunlight for plant growth
 * Pond should be near retaining wall to make use of natural slope for water flow
 
-I prefer the overgrown shaded hidden jungle style, where walking through the garden it reveals beautiful hidden locations for you to enjoy. I also really appreciate the asthetic of paths that direct the eye where to go, and surprises when you find something that was not expected.
+I prefer the overgrown shaded hidden jungle style, where walking through the garden it reveals beautiful hidden locations for you to enjoy. I also really appreciate the aesthetic of paths that direct the eye where to go, and surprises when you find something that was not expected.
 
 Some key aspects of this design:
 * A lot more shade around the seating area
-* Pond locaion is hidden and away from retaining wall
+* Pond location is hidden and away from retaining wall
 * The view from the house hints at interesting destinations you cant quite see
 
 Improvements over previous designs:
-* Asthetic appeal to me
+* Aesthetic appeal to me
 * Pond now a long way from retaining walls, less chance of collapse and also of run-off from chickens
 * Interaction with the pond is easier, sitting and dangling legs into it from deck/paved area
 
@@ -41,7 +49,7 @@ Possible issues:
 * Pool fencing regulations?
 * Is the extra density going to cause shading issues?
 * Leaves in pond (lots more), I am going to have to live with this and likely use a net above the pond in autumn
-* Pond likely will be smaller and have less flexability
+* Pond likely will be smaller and have less flexibility
 
 
 Perspective View  |  Topdown View
@@ -52,7 +60,7 @@ Perspective View  |  Topdown View
 
 
 
-# Pond Near House With Balance
+# Pond Near House With Balance 2020/08
 
 After looking at possibilities for the shaded pond, I am considering moving back to the non-shaded pond location, but adding options to provide shade and balance to the overall backyard view.
 
@@ -181,10 +189,12 @@ I played with a few CAD packages, and finally settled on one called Realtime Lan
 
 All the free ones I tried were much less productive to use, where as this software had a nice intuitive interface, a good set of features and the tutorial videos were amazing <https://www.ideaspectrum.com/landscaping-software-tutorials/> The free version was sufficient for what I wanted to do, but I ended up paying for it to support what I think is good software and get access to more tree models.
 
-To model my house + yard, I did a few things:
+TODO: Describe the method used to determine terrain
+
+To model my house and yard, I did a few things:
 * Lots of measuring dimensions and photos of my house and yard
-* Downloaded image from googe maps for base : <https://www.ideaspectrum.com/using-google-maps/>
-* Used another overlay image of the houses floor plan to accuratly line up doors / windows
+* Downloaded image from google maps for base : <https://www.ideaspectrum.com/using-google-maps/>
+* Used another overlay image of the houses floor plan to accurately line up doors / windows
 * Estimated the slope of my yard using a long straight pole, tape measure and some math
 * Drew up the landscape with slope, then modeled the house
 * Using photos, validate the landscape contour and make relevant minor adjustments

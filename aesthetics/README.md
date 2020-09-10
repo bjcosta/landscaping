@@ -3,22 +3,22 @@
 </script> 
 
 
-# Foodscape asthetics
+# Foodscape aesthetics
 
 Using edible plants to create a beautiful landscape is not new. It has increased in popularity in recent times and has been given a few different names including [Foodscaping](<https://en.wikipedia.org/wiki/Foodscaping>), Edible Landscaping and even one company gaining some momentum adopting the term [Agriscaping](<https://agriscaping.com/about-us/>) after the name of the company. 
 
-A common trend I have noticed looking at existing foodscapes, is that most have a very consistent open look to them similar to cottage or formal flower gardens, where as the closed in high density jungle look I like that is typical of tropical, woodland and japanese gardens is not very common at all. It is highly likely this is due to the light requirements of most productive edible plants and may be very difficult for me to achieve.
+A common trend I have noticed looking at existing foodscapes, is that most have a very consistent open look to them similar to cottage or formal flower gardens, where as the closed in high density jungle look I like that is typical of tropical, woodland and Japanese gardens is not very common at all. It is highly likely this is due to the light requirements of most productive edible plants and may be very difficult for me to achieve.
 
 It is my goal though to try and situate the edibles early in the design with prime locations for sunlight, and then fill in the shaded portions and create density with ornamentals in such a way that their sizes are restricted to heights/locations underneath the edibles. It will be important to ensure the ornamentals don't outgrow their spaces and shade out the edibles, and I may end up with issues of nutrient deficiencies. I am not certain it will work.
 
-Another trend I have seen in professional foodscapes in botanical gardens is to make very open gardens that use mostly variageted annuals, like lettuce etc. Again this is something I want to avoid to reduce the maintainence required of replanting annuals regulary.
+Another trend I have seen in professional foodscapes in botanical gardens is to make very open gardens that use mostly variegated annuals, like lettuce etc. Again this is something I want to avoid to reduce the maintenance required of replanting annuals regularly.
 
 
 # Approach
 
-The approach I am taking with this project is to get the larger structure of the garden including positioning of main trees, pond, retaining wall, sitting locations etc working from a functional design perspective first but ensuring there is some measure of balance in those. I then hope to be able to use hardscaping material choice, lower storey plant selection including some ornamentals and flowers in addition to edibles to create the asthetic I am looking for.
+The approach I am taking with this project is to get the larger structure of the garden including positioning of main trees, pond, retaining wall, sitting locations etc working from a functional design perspective first but ensuring there is some measure of balance in those. I then hope to be able to use hardscaping material choice, lower story plant selection including some ornamentals and flowers in addition to edibles to create the aesthetic I am looking for.
 
-I have been leaning heavily on landscaping design software [Realtime Landscaping Pro](<https://www.ideaspectrum.com/landscape-design-software-overview/>) to visualize ideas and making incremental changes to see what they might look like. This has been immensely useful and I can clearly see when making minor adjustments that some things seem to look better than others. Using software that renders in realtime 3D also seems to be helpful at providing an idea of relative size and scale between objects which is sometimes difficult for me to visualize, though still not the same as actually seeing something in real life.
+I have been leaning heavily on landscaping design software [Realtime Landscaping Pro](<https://www.ideaspectrum.com/landscape-design-software-overview/>) to visualize ideas and making incremental changes to see what they might look like. This has been immensely useful and I can clearly see when making minor adjustments that some things seem to look better than others. Using software that renders in real-time 3D also seems to be helpful at providing an idea of relative size and scale between objects which is sometimes difficult for me to visualize, though still not the same as actually seeing something in real life.
 
 I am also trying to use the [Artistic landscape design components](#artistic-landscape-design-components) defined below to evaluate existing gardens I like to understand what it is that makes them stand out to me so I can try and recreate similar aspects in my own design.
 
@@ -27,26 +27,26 @@ I am also trying to use the [Artistic landscape design components](#artistic-lan
 
 TODO: Clearly define the style I want in the backyard based on analysis of the inspiring gardens below and their identifying characteristics.
 * Woodland (Favorite by far, but unlikely to work as requires large spaces and large trees)
-* Tropical (Next favorite, may be able to incorperate some aspects of this, but way too dense to work with 100% edibles)
+* Tropical (Next favorite, may be able to incorporate some aspects of this, but way too dense to work with 100% edibles)
 * Japanese (I like these also, though sometimes a little more formal than I would like)
-* Cottage (I like the colour and chaos, but is too open)
+* Cottage (I like the color and chaos, but is too open)
 
 
 # Artistic landscape design components
 
-To help me in the artistic/asthetic design of the garden, I have been finding it helpful to read instructional websites describing the components of artistic design and how they apply to landscaping. One great source for me has been The Spruce. It describes landscape design as [The Spruce](<https://www.thespruce.com/aesthetic-definition-in-landscape-design-2130999>):
+To help me in the artistic/aesthetic design of the garden, I have been finding it helpful to read instructional websites describing the components of artistic design and how they apply to landscaping. One great source for me has been The Spruce. It describes landscape design as [The Spruce](<https://www.thespruce.com/aesthetic-definition-in-landscape-design-2130999>):
 
 > Landscape design is concerned both with aesthetic and functional elements of landscaping. While the former is ultimately subjective (there is no accounting for tastes, as the old expression goes), professional landscape designers are, in fact, guided by some basic rules that help them to create aesthetically pleasing designs in their clients' yards.
 > 
 > Where landscape design is concerned with aesthetics, the terminology used is somewhat similar to that employed in the art world: Landscape design principles include such subjects as color theory, form and texture, the role of focal points, and how our perception of "line" and "scale" influence our opinion of a scene.
 
-I am optimistic that my artistically challenged brain can learn a little bit of what is required to make a landscape asthetically pleasing and design something I like in my yard :-)
+I am optimistic that my artistically challenged brain can learn a little bit of what is required to make a landscape aesthetically pleasing and design something I like in my yard :-)
 
 Following a summary of what I have learned on artistic landscaping design, all information I have read tends to define similar concepts (some have extra, others give slightly different names). The two key categories of concepts I have seen are often described when it comes to landscape design include:
 * Design Principles : These are higher level aspects of the design we are striving to achieve like is the design balanced, or does it have unity
-* Design Elements : These are specific technologies/design-tools used to achieve the principles, like the design-element of colour; if I have a bright red bush on one side, do I want to achieve balance (principle) by adding similar colour to the other side of the garden
+* Design Elements : These are specific technologies/design-tools used to achieve the principles, like the design-element of color; if I have a bright red bush on one side, do I want to achieve balance (principle) by adding similar color to the other side of the garden
 
-I am not going to go into these in a lot of detail, as others describe it much better than I can. But this list is helpful for me to evaluate my design against each point and then consider what design elements I can incorperate to help improve the design to meed my desired outcome.
+I am not going to go into these in a lot of detail, as others describe it much better than I can. But this list is helpful for me to evaluate my design against each point and then consider what design elements I can incorporate to help improve the design to meed my desired outcome.
 
 Below are some links to places describing these artistic design components:
 * [Principles of landscape design](<https://www.canr.msu.edu/news/principles_of_landscape_design>)
@@ -87,7 +87,7 @@ A definition of [Simplicity](<https://www.canr.msu.edu/news/principles_of_landsc
 
 Some design elements or tools to impact the priciples include:
 
-* [Colour](<https://www.youtube.com/watch?v=qDq8Kw3WwS8>)
+* [Color](<https://www.youtube.com/watch?v=qDq8Kw3WwS8>)
 * Texture
 * Form
 * Line
@@ -152,7 +152,7 @@ This garden is huge, we cant do this. But I would like to learn some things from
 
 **Linda Vater Garden Tour (Decorative)**
 
-This style is fantastic and I would love to try and achieve something akin to this style in our landscape. I am not certain it will be possible. One idea I would like to try is use the fruit/nut trees in the upper storey and then place edibles where possible, and where insufficient sun shaded out place decorative plants to fill in the gaps.
+This style is fantastic and I would love to try and achieve something akin to this style in our landscape. I am not certain it will be possible. One idea I would like to try is use the fruit/nut trees in the upper story and then place edibles where possible, and where insufficient sun shaded out place decorative plants to fill in the gaps.
 
 I like the balance achieved in this garden with the larger trees, shrubs near the boundary fences hiding them, the seating places is a focus area and destination in the scene.
 
@@ -308,7 +308,7 @@ Look at this for phases of food forrest: https://www.youtube.com/watch?v=JNNSbCi
 Change Ideas:
 * Two trees closer where both sides join heading towards hidden cove, kind of like an arch 
   * Will need shade loving plants in summar between them
-* Add a path they always seems to be nice asthetically in drawing the eyes
+* Add a path they always seems to be nice aesthetically in drawing the eyes
 * Make the kickout hidden cover more dense, cant see what is behind it. I.e. more planting shade loving plants on north side
 * Maybe the pond out the back is better, thouh we then have a singl zone instead of multiple
   * Maybe the pond closer to fence? Shrink retaining wall and extend plants on north side a bit
