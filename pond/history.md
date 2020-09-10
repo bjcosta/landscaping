@@ -4,7 +4,7 @@
 
 # Pond Design History
 
-This page describes previous designs I made on my pond prject to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process that has happened over the last few years
+This page describes previous designs I made on my pond project to a fairly stable point and then decided to change something significant. It gives a reasonable idea of the process that has happened over the last few years
 
 # Contents
 {:.no_toc}

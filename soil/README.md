@@ -4,7 +4,7 @@
 
 # Soil Analysis and remediation
 
-As part of this process I made sure to have my soil tested to get an idea of what types of plants would work best and also to give an idea of any remdiation that would be required.
+As part of this process I made sure to have my soil tested to get an idea of what types of plants would work best and also to give an idea of any remediation that would be required.
 
 I used an external service to do the soil testing "Soil Doctor" and followed their process for obtain the soil samples: <https://www.soildoctors.com.au/soilsampling>
 
@@ -28,7 +28,7 @@ This is the important part and I need to write it up. But focus is elsewhere for
 TODO: Remediation
 TODO: Plant choices
 TODO: Drainage
-TODO: Document process planned to improve the soild after the retaining wall is constructed
+TODO: Document process planned to improve the soil after the retaining wall is constructed
 TODO: This page will document the details about my soil test.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

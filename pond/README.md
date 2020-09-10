@@ -50,15 +50,15 @@ I may also need more iterations on this when I get feedback about regulations fr
 + Positive: Simpler plumbing of the hydrostatic release drain
 + Positive: Simple to plumb future radial flow filter if desired
 + Positive: Maybe able to work some kind of fencing into design if necessary but will still be ugly
-+ Positive: Can build decking for place to sit and dangle ferrt in pond
++ Positive: Can build decking for place to sit and dangle feet in pond
 - Negative: No access to full sun there is forced part shading
 - Negative: Not visible from the kitchen
 - Negative: Blocks access back of property/glasshouse
 - Negative: Looks cramped if we do larger deck extension one day
-- Negative: Potentially impacted by run-off water from chickens unless suitable drainage is sufficent
+- Negative: Potentially impacted by run-off water from chickens unless suitable drainage is sufficient
 - Negative: Nearer to steep section of retaining wall may have issues with structural support
 - Negative: Maybe issues with pool fence regulations
-- Negative: May need extra retaining for pond itself as land still sloped there without significant retaiing wall above
+- Negative: May need extra retaining for pond itself as land still sloped there without significant retaining wall above
 
 ## Council regulations
 
@@ -78,7 +78,7 @@ There are however many extra documents since the original definition changing di
 
 This document is very clear, though is it current and official? It looks to be so: <https://www.swimmingpoolregister.nsw.gov.au/inspection/Inspection%20Page%20FAQ.pdf>
 
-> **Question:**  Do I need to fence (install a childresistance barrier for) my fish pond?
+> **Question:**  Do I need to fence (install a child resistant barrier for) my fish pond?
 > 
 > **Answer:** No. If a fish pond has been designed and, manufactured to be solely used as a fish pond, then no child-resistant barrier is required.
 
@@ -90,7 +90,7 @@ Another useful bit of information, is I think I will need a DA to approve a pond
 >      (a)  not have a water depth of more than 300mm, and
 >      (a1)  not have a surface area of more than 10m2, and
 >      (b)  if it is constructed or installed in a heritage conservation area or a draft heritage conservation area—be located in the rear yard.
-> (2)  Despite subclause 1(a), a pond sump may be placed in a water feature or pond below a water depth of 300mm if the sump is covered with a bolted or anchored grate that is capable of supporting a weight of 150kg.
+> (2)  Despite sub clause 1(a), a pond sump may be placed in a water feature or pond below a water depth of 300mm if the sump is covered with a bolted or anchored grate that is capable of supporting a weight of 150kg.
 
 I believe this means if the pond was < 300 mm deep and surface area < 10 m ^2 then no approval is required. 
 
@@ -108,31 +108,31 @@ These are some stand-out places for information and inspiration for pond design:
 * Bama Bass pond
   * The best pond I have seen for asthetics and diversity
   * A great example: <https://youtu.be/ddzmDF7Ds78>
-  * Youtube Channel: <https://www.youtube.com/channel/UCSTueQfft5yfjNuRu2DZsHw>
+  * YouTube Channel: <https://www.YouTube.com/channel/UCSTueQfft5yfjNuRu2DZsHw>
 
 * Melbourne Aquaponics
-  * Great example using an asthetically pleasing pond for Aquaponics: <https://www.youtube.com/watch?v=p4Saas9WRws>
-  * Youtube Channel: <https://www.youtube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ>
+  * Great example using an aesthetically pleasing pond for Aquaponics: <https://www.YouTube.com/watch?v=p4Saas9WRws>
+  * YouTube Channel: <https://www.YouTube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ>
 
 * The Pond Digger
-  * Youtube Channel: <https://www.youtube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA>
+  * YouTube Channel: <https://www.YouTube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA>
   * Has LOTS of informative tutorials, how to build ponds, ponds gone wrong etc.
-  * Not just a sinle style of pond byt covers multiple different use cases
-  * How to build a fish pond: <https://www.youtube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG->
-  * How to build a koi pond: <https://www.youtube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD>
+  * Not just a single style of pond but covers multiple different use cases
+  * How to build a fish pond: <https://www.YouTube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG->
+  * How to build a koi pond: <https://www.YouTube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD>
 
 * Team Aquascape
-  * Youtube Channel: <https://www.youtube.com/channel/UCbOyl13WDs8xYECSKZgoYsw>
-  * Very strong on the advertisment but they do have some amazing ponds that they showcase
-  * One amazing example in Australia: <https://www.youtube.com/watch?v=Rm-V0n-76UI&t=448s>
+  * YouTube Channel: <https://www.YouTube.com/channel/UCbOyl13WDs8xYECSKZgoYsw>
+  * Very strong on the advertisement but they do have some amazing ponds that they showcase
+  * One amazing example in Australia: <https://www.YouTube.com/watch?v=Rm-V0n-76UI&t=448s>
 
 * Rob Bob's Aquaponics & Backyard Farm
   * Lots of great information on Aquaponics (not using ponds though but IBCs)
-  * Youtube Channel: <https://www.youtube.com/user/bnbob01>
+  * YouTube Channel: <https://www.YouTube.com/user/bnbob01>
 
 * Any Ponds (Also was Mark the Pond Advisor)
-  * Youtube Channel: <https://www.youtube.com/c/AnyPondTV/featured>
-  * A good example: <https://www.youtube.com/watch?v=8X2mjw3cfzE>
+  * YouTube Channel: <https://www.YouTube.com/c/AnyPondTV/featured>
+  * A good example: <https://www.YouTube.com/watch?v=8X2mjw3cfzE>
   * Does some nice maller ponds. I saw a few of these early on that inspired me
 
 
@@ -255,7 +255,7 @@ Options include:
 
 * Yearly manual drain and clean 
 
-	This seems to be a very common solution for ecosystem ponds that I have seen on youtube. This looks like a LOT of work and is stressful on the fish. In most ecosystem ponds there is no bottom drain or suction grid. Instead muck just accumulates under on the bottom. Without fish or a very light load stocked in the pond, this is not a huge issue. However it is clear that a LOT of muck can accumulate under the rocks if the bottom of the pond is rocked in and is often much worse with fish stocked in the pond. 
+	This seems to be a very common solution for ecosystem ponds that I have seen on YouTube. This looks like a LOT of work and is stressful on the fish. In most ecosystem ponds there is no bottom drain or suction grid. Instead muck just accumulates under on the bottom. Without fish or a very light load stocked in the pond, this is not a huge issue. However it is clear that a LOT of muck can accumulate under the rocks if the bottom of the pond is rocked in and is often much worse with fish stocked in the pond. 
 
 	Also to be clear the issue is not just cleanliness but if you have fish in the pond this can be quite dangerous for them. If the muck remains undistrubed on the bottom it is often ok, however as soon as say larger winds, or big flush of rain or you working on the pond disturbs the muck on the bottom it can case the water to become toxic for the fish. 
 

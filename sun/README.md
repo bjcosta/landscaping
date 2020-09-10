@@ -9,9 +9,16 @@
 > For proper functioning and productivity gardens, greenhouses and orchards should be placed at specific locations based on the adequate availability of sunshine for the parts of the year in which the plants are growing or fruiting.
 
 
+# Contents
+{:.no_toc}
+
+1. Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
+
 ## Observation
 
-I first created a timelapse of the shadows in the existing landscape. This is a base line and I used it to check any models I created below and see if they were correct. I was using my old mobile phone so the image quality isnt great but it gives a good idea of how the shadows track in the old yard:
+I first created a time-lapse of the shadows in the existing landscape. This is a base line and I used it to check any models I created below and see if they were correct. I was using my old mobile phone so the image quality isnt great but it gives a good idea of how the shadows track in the old yard:
 
 <video width="480" height="320" controls="controls">
   <source src="timelapse.mp4" type="video/mp4">
@@ -25,7 +32,7 @@ There are many tools that can be used to visualize the path of the sun at variou
 ![sunpath3d.png](sunpath3d.png)
 
 
-However to get the most use out of it you really want to create a 3D model for showing the shadows cast. I did a really quick and likely incorrect mockup in Fusion 360 using cylinders to represent trees. You can see in the (deliberatly very low bitrate) video below the difference the shadows cast between summer and winter.
+However to get the most use out of it you really want to create a 3D model for showing the shadows cast. I did a really quick and likely incorrect mockup in Fusion 360 using cylinders to represent trees. You can see in the (deliberately very low bitrate) video below the difference the shadows cast between summer and winter.
 
 [sunpath3d_settings.json](sunpath3d_settings.json)
 
@@ -52,7 +59,7 @@ What I did find a little more useful was the software I used to model my overall
 The biggest issue is that currently realtime Landscaping Pro only shows shadows as if the sun is directly overhead. I have sent in a feature request asking for the ability to configure latitude/longitude and they use an accurate model for the path of the sun in the rendering. Hopefully depending on how their software was written this could potentially be a very simple thing for them to implement if it is just modifying the path of the 3D lighting object.
 
 
-You can see from the (deliberatly very low bitrate) video below, that most of the trees appear to have good access to sunlight except the understorey (and one of the aqaponic grow beds) is quite shaded. This is likely fine in real-life as the sun is not directly overhead but coming from the North for me which is more open.
+You can see from the (deliberately very low bitrate) video below, that most of the trees appear to have good access to sunlight except the understorey (and one of the aqaponic grow beds) is quite shaded. This is likely fine in real-life as the sun is not directly overhead but coming from the North for me which is more open.
 
 I have read that ponds need either full sun (for ecosystem watergarden plants mostly) or a lot of shade (for Koi ponds and aquaponics to prevent algae growth and prevent the Koi getting sunburnt :-) ). So I have also modeled (though no veideo here) adding a lower height wide spreading shade tree/shrub on the north/west of the pond to provide this shading. I will start with the pond in full sun and if that is no good will plant some shading later.
 
@@ -86,7 +93,7 @@ I experimented with designing a vertical hydroponic garden. The idea is to have 
 
 This was a prototype design that failed miserably :-) The first issue was the complexity, the cups can easily be inserted without requiring 3D printed sleeves. The mounts for the top and bottom of the tower worked well, ad the next part is to design the rotatio mechanism. However I lost some momentum on this and want to complete the larger part of the garden (retaining wall, pond and larger trees planted) before resuming.
 
-![photos/hydro.png](photos/hydro.png)
+![../photos/hydro.png](../photos/hydro.png)
 
 
 TODO Much more I can add here

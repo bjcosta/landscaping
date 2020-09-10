@@ -6,7 +6,7 @@
 
 On this page I walk through the various requirements and planting zones that exist in the garden plan. By first defining the local environment, setting requirements on various plantings and then looking at individual species that may meet those requirements.
 
-TODO: I now have a structure for this page, I need to fill out the details obtained from elsehwre
+TODO: I now have a structure for this page, I need to fill out the details obtained from elsewhere
 
 # Contents
 {:.no_toc}
@@ -16,7 +16,7 @@ TODO: I now have a structure for this page, I need to fill out the details obtai
 
 # Requirements
 
-* No deciduous trees near southern neighbouring property
+* No deciduous trees near southern neighboring property
 * No trees that are poisonous to fish within the proximity of the pond (prunus family, and others)
 * Max height of tree must not cause un-accounted for shading in the design (or tree should be feasible to prune and keep at the expected height)
 * Roots of trees near pool must not impact on its retaining wall and cause failure
@@ -24,10 +24,10 @@ TODO: I now have a structure for this page, I need to fill out the details obtai
 # Goals
 
 * Each plant added should serve more than one purpose, and one of those should always be something we typically eat
-* Preferrably good for our hardiness zone
-* Avoid shading of neighbouring southern property (some is ok, but not a lot)
+* Preferably good for our hardiness zone
+* Avoid shading of neighboring southern property (some is ok, but not a lot)
 * Avoid deciduous near pond and pool (likely not going to be possible)
-* Design so colour exists through most if not all the year (Ideally flowers or colourful leaves at different times of the year)
+* Design so color exists through most if not all the year (Ideally flowers or colorful leaves at different times of the year)
 * Avoid overhang of trees on any boundary fence
 * Roots of trees near highest point (south-eastern) of new small retaining wall should not impact it causing failure (not a requirement like the pool retaining wall as I can easily repair it myself)
 * Use tall trees like bananas to block view on eastern boundary fence into our backyard
@@ -48,7 +48,7 @@ TODO: I now have a structure for this page, I need to fill out the details obtai
 * Heat Zone: 3 to 4 (21 days per year >= 30 degrees, According to diggers club: https://www.diggers.com.au/shop/ordering-information/climate-maps/)
 * Pests: Fruit fly, Cabbage moth, Aphids all the normal things
 
-I am going to have to do some work on improving the soil. The report says there is a high sodium content, and I should increase the calcium content and raise the pH the solution is to treat with calcitic lime which I plan to do reguary and re-test. Additionally other normal processes like mulching, composting and generally trying to improve the soil structure as well.
+I am going to have to do some work on improving the soil. The report says there is a high sodium content, and I should increase the calcium content and raise the pH the solution is to treat with calcitic lime which I plan to do regularly and re-test. Additionally other normal processes like mulching, composting and generally trying to improve the soil structure as well.
 
 One thing I have noticed with my currently small scale stuff is that there seem to be a lot more pests around Illawarra than I recall ever seeing up near Picton. Maybe it is the density of people, or thre warmer climate. Either way I have observed in everything we have planted to date significant pest issues. I am hopeful that the diverse ecosystem will help a little with this. I mention this here as plant selection can impact this a little too.
 
@@ -57,20 +57,20 @@ Some pests I have observed:
 * Larvae in many larger tomatoes grown
 * Cabbage moth caterpillars on many leafy plants especially liked broccoli
 * Aphids (and ants) really liked the kale
-* Ants I think burrowed into new into new prunings of young mango tree
+* Ants I think burrowed into new into new pruning's of young mango tree
 
 Some things we may be able to do is use thicker-skinned varieties etc.
 
 References: 
 * Soil report: [../soil/soil_report_2018_09_25_edited.pdf](../soil/soil_report_2018_09_25_edited.pdf)
 * Weather data: <http://www.bom.gov.au/climate/averages/tables/cw_068241_All.shtml>
-* Interractive Plant hardiness Zone: <https://www.plantmaps.com/interactive-australia-plant-hardiness-zone-map-celsius.php>
+* Interactive Plant hardiness Zone: <https://www.plantmaps.com/interactive-australia-plant-hardiness-zone-map-celsius.php>
 * Chill calculations made from: <https://blog.daleysfruit.com.au/2012/05/chill-hours-for-fruit-trees-calculation.html>
 
 # Good references
 
 * Growing fruit trees in the back-yard : <https://www.davewilson.com/home-gardens/backyard-orchard-culture>
-  * One key idea is groing multiple trees together in the one planting hole, to get a spread of fruit times.
+  * One key idea is going multiple trees together in the one planting hole, to get a spread of fruit times.
 
 
 # Key locations with specific requirements
@@ -83,7 +83,7 @@ There are a few key locations that have specific requirements, these are mostly 
 
   We have planned for a single larger canopy evergreen tree. This is still not a huge tree but can grow a bit larger as it is a reasonable distance from the south boundary fence and expected to provide shade in the south-western corner of our yard year-round creating a shady, cool micro-climate.
   
-  I have already chosen an R2E2 Mango tree for this location, it has been planted and is doing well. I saw multiple mango trees in the area thriving and producing fruit. Of all the other specifies we might have planted here, the mago is maybe less suited but more useful to our consumption. 
+  I have already chosen an R2E2 Mango tree for this location, it has been planted and is doing well. I saw multiple mango trees in the area thriving and producing fruit. Of all the other specifies we might have planted here, the mango is maybe less suited but more useful to our consumption. 
 
   Available space:
   * Ideally: 5m wide, 5m high
@@ -91,13 +91,13 @@ There are a few key locations that have specific requirements, these are mostly 
   
   Considered species:
   * [Mango R2E2](#mango-r2e2)
-  * Maccadamia
-  * Avacado
+  * Macadamia
+  * Avocado
   
   Purposes of tree at this location:
   * Food
   * Shade and structure to garden creating a shaded micro-climate
-  * Asthetics : Also considered a macadamia tree here, but macadamia trees do not look as good IMO
+  * Aesthetics : Also considered a macadamia tree here, but macadamia trees do not look as good IMO
 
 ## Large canopy deciduous tree
 
@@ -105,9 +105,9 @@ There are a few key locations that have specific requirements, these are mostly 
   
   We have planned for a single larger deciduous tree located near the pool (and the pond), which is undesirable for a deciduous tree, but unavoidable as I need something here on the northern side of the yard that permits light in during winter or the entire back yard is in shade. 
 
-  Consider multiple species in a single planting hole or multipe species on single graft: <https://www.davewilson.com/home-gardens/backyard-orchard-culture>
+  Consider multiple species in a single planting hole or multiple species on single graft: <https://www.davewilson.com/home-gardens/backyard-orchard-culture>
   
-  If this tree doesn't work out it isnt super important to the design. It just adds balance and shading for a seating area.
+  If this tree doesn't work out it isn't super important to the design. It just adds balance and shading for a seating area.
 
   Available space:
   * Ideally: 5m wide, 5m high
@@ -121,7 +121,7 @@ There are a few key locations that have specific requirements, these are mostly 
   * White Mulberry (Looks good maybe too small though: https://www.diggers.com.au/shop/fruit/white-mulberry/wmuw/)
   * Red Mulberry
   * Hortulan Plum
-  * Persimmon (Dont eat much of)
+  * Persimmon (Don't eat much of)
   * Little Walnut
   * Black Walnut (Probably too large, but probably well suited: https://www.diggers.com.au/shop/fruit/nut-trees/walnut-black/wwab/)
   * Cherry (Looks lovely, but likely too close to pond and seeds from species prunus is toxic for fish)
@@ -133,7 +133,7 @@ There are a few key locations that have specific requirements, these are mostly 
   Purposes of tree at this location:
   * Food
   * Sunlight in winter, shade in summer
-  * Asthetics adding balance to the backyard design
+  * Aesthetics adding balance to the backyard design
 
   Issues to consider:
   * Root system and pool retaining wall
@@ -145,7 +145,7 @@ There are a few key locations that have specific requirements, these are mostly 
 
 <img src="photos/small_evergreen_trees.png" width="100">
 
-  We have planned for multiple smaller evergreen trees along southern boundary fence. There is a bit more choice in this selection as it is not creating deliberate micro-cimates or structure in the yard. As long as the trees meet the requirements outlined below it should be fine for many choices. They should get reasonable amount of sunlight and ok drainage.
+  We have planned for multiple smaller evergreen trees along southern boundary fence. There is a bit more choice in this selection as it is not creating deliberate micro-climates or structure in the yard. As long as the trees meet the requirements outlined below it should be fine for many choices. They should get reasonable amount of sunlight and ok drainage.
   
   Available space (for each plant):
   * Ideally: 2m wide, 3m high
@@ -160,9 +160,9 @@ There are a few key locations that have specific requirements, these are mostly 
   * Fewer other considerations here so we have more choice
 
   Issues to consider:
-  * Must not be too tall and overly shade southern neighbouring property
-  * Unless very small (under fence-line) should not be deciduous as neighbouring property will not like extra leaves in his pool 
-  * Must not have branches overhanging neighbouring property
+  * Must not be too tall and overly shade southern neighboring property
+  * Unless very small (under fence-line) should not be deciduous as neighboring property will not like extra leaves in his pool 
+  * Must not have branches overhanging neighboring property
   * Some of them are close to fish pond and cant be species that are toxic to fish
 
 
@@ -195,7 +195,7 @@ There are a few key locations that have specific requirements, these are mostly 
 
   We need a row of trees planted in the chicken run that ideally have a narrow base, are tall and have leaves high up. Some examples are plams or bananas. 
   
-  The neighbouring property on the west have built a large deck that looks into our backyard. The goal of these is to provide some privacy. We shouldn't make trees too tall that will block their view, but ideally grow such that the leaves block to the top of our roof.
+  The neighboring property on the west have built a large deck that looks into our backyard. The goal of these is to provide some privacy. We shouldn't make trees too tall that will block their view, but ideally grow such that the leaves block to the top of our roof.
   
   Available space (for each plant):
   * Ideally: ? wide, 5m high TODO need to model accuratly deck height and measure thi view.
@@ -219,7 +219,7 @@ There are a few key locations that have specific requirements, these are mostly 
 
 <img src="photos/smaller_deciduous_corner.png" width="100">
 
-  We have space in the corener and ideally to add balance to the yard for a single smaller deciduous tree/shrub like a fig. This is for asthetics adding balance and also some shade in the summer. Must be deciduous to permit light through in the winter.
+  We have space in the corener and ideally to add balance to the yard for a single smaller deciduous tree/shrub like a fig. This is for aesthetics adding balance and also some shade in the summer. Must be deciduous to permit light through in the winter.
 
   Available space (for each plant):
   * Ideally: 3m wide, 4m high 
@@ -243,7 +243,7 @@ There are a few key locations that have specific requirements, these are mostly 
 
 In addition to the above specific locations, I have a few zones in which I expect to be able to plant a variety of smaller shrubs/ground covers that are not as specific for purposes as the ones above. Instead these have the luxury of being "fillers" and so can serve purposes other than shade/structure, hiding things etc.
 
-These can add colour/asthetics, and will likely include berries, herbs and other bushes and ground covers. I dont mind a few of these being exotic and occasional use as they dont take lots of space. Also, it is helpful to include flowers in these areas to attract bees and other insects.
+These can add color/aesthetics, and will likely include berries, herbs and other bushes and ground covers. I dont mind a few of these being exotic and occasional use as they dont take lots of space. Also, it is helpful to include flowers in these areas to attract bees and other insects.
 
 The goal is to layer the planting so get the most out of the vertical space.
 
@@ -276,7 +276,7 @@ The goal is to layer the planting so get the most out of the vertical space.
   * Some specific ones needed for providing shade to fish (Lillies for example)
   * Maybe some are edible? What can we do here with edible planting? 
   * Some specifically for the frog area (need research on plants for frog ponds in our area)
-  * Take into account height, asthetics etc
+  * Take into account height, aesthetics etc
 
 
 
@@ -674,7 +674,7 @@ Citrus in general:
 	15-24 degrees preference, fine 7-30 degrees
 	shady spot sheltered from cold/hot winds
 	very frost sensitive
-	any soil slightly acid (pH6), doesnt get waterlogged and isnt dry and sandy
+	any soil slightly acid (pH6), doesnt get waterlogged and isn't dry and sandy
 	plant late spring
 	30 plants for a cup per day
 	http://www.daleysfruit.com.au/buy/coffee-arabica-tree.htm
