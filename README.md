@@ -18,7 +18,7 @@ I want my backyard to be:
 
 Existing  |  Proposed
 :---:|:---:
-![history/stage_8/existing.png](history/stage_8/existing.png)  |  <a href="history/stage_8/perspective.png">![history/stage_8/perspective.png](history/stage_8/perspective.png)</a>
+![history/stage_8/existing.png](history/stage_8/existing.png)  |  <a href="history/stage_6/perspective.3.png">![history/stage_6/perspective.3.png](history/stage_6/perspective.3.png)</a>
 
 
 # Contents
