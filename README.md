@@ -16,6 +16,8 @@ I want my backyard to be:
 * **Low maintenance** : Through automation and good up-front design
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1Z0dSOvgFRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Existing  |  Proposed
 :---:|:---:
 ![history/stage_8/existing.png](history/stage_8/existing.png)  |  <a href="history/stage_6/perspective.3.png">![history/stage_6/perspective.3.png](history/stage_6/perspective.3.png)</a>
