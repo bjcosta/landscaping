@@ -356,15 +356,9 @@ TODO Will see if possible for native, might be a bit cold for them but less spac
 
 # Aquaponics
 
-This is something I am super interested in. I will plan to try it in my garden unless the upkeep becomes too much. Lots of info to post here
-TODO
+More information on: [aquaponics](aquaponics/README.md)
 
-## Radio flow filter cleaning/fertalizer
-
-## Design of grow beds
-
-## Red wriggler worms
-TODO lots of individual ideas/technologies in the aquaponics section
+TODO: This is something I am super interested in. I will plan to try it in my garden unless the upkeep becomes too much. Lots of info to post here
 
 # Usage Observations
 

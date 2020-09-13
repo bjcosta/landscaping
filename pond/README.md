@@ -279,6 +279,50 @@ TODO
 * Maintanence is an issue, consider design of flood/drain grow bed with open water cavity below, ideal to dislodge fish waste to prevent clogging
   * Also ideal to have two separate bio filters, as cleaning will often cause one to stop functioning correctly for a while
 
+## Nitrate removal
+
+The purpose of the biological filter is to convert ammonia and nitrites produced as waste from the fish (in poo a little but mostly from their gills apparently) which are toxic to fish at low concentrations into nitrates which require high levels to become toxic to fish. However there is still a level of nitrates that are toxic to fish and the biological filters don't help with this so it must be removed some other way.
+
+There are really two ways of removing the nitrates from  the water:
+
+1) Water changes 
+2) Using plants
+
+The idea of a water change is that you regularly remove say 50% of the water in the pond and replace with new water (not directly from the tap as usually has chlorine, and typically you want to avoid the new water having significant differences from the pond water for temperature etc as that can cause shock to the fish). The idea here is the old pond water with a higher concentration of nitrates is removed and replaced with new water with no nitrates thus reducing the overall concentration of nitrates in the water. 
+
+The other option is to use plants which use the nitrates as they grow (Many common fertilizers are made from from nitrate salts) thus removing them from the pond water. In most pond installs there are a few options on how this is typically done:
+* Ecosystem ponds often have aquatic plants growing in the ponds
+* Some ponds have external bog filters
+* Aquaponics use glorified bog filters called grow beds (often with slightly different designs than typical bog filters though)
+* And some ponds go bright green to the annoyance of the owners as the algae basically grows using the nitrates instead of nicer useful plants :-) 
+
+The idea here is that as plants grow with the water flowing over their root systems, they consume the nitrates from the water. What this also often requires is some form of plant removal or harvesting over time. Bog filters and planted ponds occasionally need to have the plants pruned or thinned and be cleaned out, and muck cleaned out of the bog filters. In aquaponics the idea is that these nitrates act as a fertilizer to grow useful plants like leafy greens for spinach, but all sorts of plants can be grown in aquaponics. Aquaponics is hydroponics but providing the nutrients for the plants from the waste of the fish instead of manually adding to the water as is done in typical hydroponics. You harvest the plants and eat them and the fish are providing the majority of the nutrients the plants require to grow creating a mostly closed ecosystem where you can grow both fish and plants.
+
+One point to note about normal ecosystem pond plantings vs using a bog-filter is that I believe bog filters are more effective at nitrate removal simply because of the way the water flows past the root systems. In typically full sun planted ecosystem ponds, the planting seems to be sufficient for typical ponds with a low fish stocking ratio, but for more highly stocked fish ponds I believe it is important to incorporate a bog filter or aquaponic grow bed to improve the effectiveness of the nitrate removal, but also add some extra biological filtration to the pond.
+
+One key thing that I see a lot is that for the plants to grow properly and thus consume more nitrates, they need a good amount of sunlight. As a result many planted ecosystem ponds are recommended to be installed in full sun locations so that the aquatic plants have sufficient sunlight to grow. This is especially true for many flowering plants like water lilies. There are some shade loving aquatic plants which is a good option for planted ponds in the shade, but my understanding is they typically consume less of the nitrates than those that grow in full sun.
+
+This is where bog filters and aquaponic grow beds become useful. The idea here is that the pond can be installed in a shaded location, but the plants used to take the nitrates out of the pond can be placed elsewhere in full sun and the pond water passes directly over their root systems (more so than a normally planted ecosystem pond) so they can extract the nitrates more easily fom the water and also have access to full sun to permit them to grow faster.
+
+This is the preferable option IMO, as a shaded pond has smaller temperature fluctuations, the algae has less access to sunlight in the pond to grow but the nitrates are removed by the plants in the bog-filter/aquaponics-grow-bed outcompeting any algae. Additionally depending on the fish you stock, some fish like Koi apparently prefer not being in full sun is what I have read. I also think you will lower the overall evaporation in the pond by installing in shade, though I am not yet certain the impact of this compared to say water temperature and wind etc.
+
+Bog filters/grow-beds can be constructed in many different ways, but so far most people seem to suggest that up-flow bog filters (where the water enters at the bottom under the rocks and slowly rises through the rocks to to the top) is preferable to down-flow (where water enters at the top of the rocks and is drained from the bottom). Most bog-filters I have seen constructed, are given a more precise name in aquaponics as an up-flow continuous flow grow bed. 
+
+There is a LOT more to discuss about this including reducing accumulation of fish waste in the grow bed medium, avoiding anoxic zones in the grow beds, grow beds as biological filters, flood-drain vs continuous flow, pond to grow bed ratios, grow bed materials to use etc. I have a page on [aquaponics](../aquaponics/README.md) where I discuss many more of these things in detail and you can get a better idea of how bog filters or grow beds can be constructed.
+
+In short, the idea I wish to follow for nitrate removal in my pond is to create two up-flow flood and drain grow beds using expanded clay balls in raised beds. I believe this will give me multiple benefits over other forms of nitrate removal including:
+* Effective nitrate removal (arguably more efficient than normal pond planting)
+* More flexible positioning of pond and grow beds (can be sun or shade for pond, grow beds don't need to be fixed locations for full sun)
+* Additional bio-filtration using clay balls with lots of surface area
+* Reduction of fish waste accumulating in the grow beds (Using up-flow flood drain I believe we will greatly reduce this, however solids will drain back to pond and hopefully arrive back in settling tank later)
+* Production of edible fast growing food (will probably grow mostly leafy greens in these)
+* Construction can wait until later (but before I start stocking fish), no need to pre-dig the location for a bog filter
+
+The main disadvantage of this system over other continuous up-flow systems is that the pond water level will fluctuate significantly depending on the volume of the two grow beds and it may cost a bit more time and money for the construction. I have some ideas however on how to improve the water level fluctuation by adding a hidden satellite sump under each grow-bed.
+
+
+
+
 ## Solids Settling Filters
 
 Usually only considered for koi/fish ponds and is closely tied to the [Mechanical bottom filtration](#mechanical-bottom-filtration). Key aspects to consider:
