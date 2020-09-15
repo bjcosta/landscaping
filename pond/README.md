@@ -4,9 +4,12 @@
 
 # Pond Design
 
-Designing and building a pond is a huge amount of work compared to other parts of a backyard transformation. I have now watched hundreds of tutorials, examples and read numerous blocks of information about building and designing ponds and still feel there is a lot more to learn. I will try and keep here a reference of information I have looked at and summarize what I see are the major aspects of pond design that I have considered, my choices and why.
+Designing and building a pond is a huge amount of work compared to other parts of my backyard transformation. I have now watched hundreds of tutorials, examples and read numerous blocks of information about building and designing ponds and still feel there is more to learn. I will try and keep a reference of information I have looked at and summarize what I think are the major aspects of pond design that I have considered, what choices I made in my design and why.
 
-![version_3/perspective_visual.png](version_3/perspective_visual.png)
+Near House  |  Near Back
+:---:|:---:
+![version_3/perspective_visual.png](version_3/perspective_visual.png)  |  ![version_4/perspective_visual.png](version_4/perspective_visual.png)
+
 
 # Contents
 {:.no_toc}
@@ -15,19 +18,37 @@ Designing and building a pond is a huge amount of work compared to other parts o
 {:toc}
 
 
+# Current Pond Design
+
+I am considering two options on where to position my pond, one is close to the house and one where it is further down the back-yard. 
+
+Near House  |  Near Back
+:---:|:---:
+<a href="version_3/topdown.png"> ![version_3/topdown.png](version_3/topdown.png) </a>  |  <a href="version_4/topdown.png"> ![version_4/topdown.png](version_4/topdown.png) </a>
+<a href="version_3/topdown_visual.png"> ![version_3/topdown_visual.png](version_3/topdown_visual.png) </a>  |  <a href="version_4/topdown_visual.png"> ![version_4/topdown_visual.png](version_4/topdown_visual.png) </a>
+
+The key differences in these locations are around shade vs sun exposure, excavation work required for drainage and retaining walls, aesthetics and proximity to inside and outside viewing areas. There is no clear winner in this at the moment and I think we will choose mostly based on cost.
+
+The other thing is that the design near the back of the house being butted right up to the paved seating area, may benefit from a slightly more formal look than I have designed.
+
+
+
 # My pond design : Big question to answer early (Pond position)
 
-I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else.
+I have narrowed down to two main design options that have a big impact on the structure of the overall backyard. It is about where to place the retaining wall and pond. This decision needs to be made early, can't be changed later and has a big impact on everything else. 
 
-I may also need more iterations on this when I get feedback about regulations from my local council about any requirements.
+Near House  |  Near Back
+:---:|:---:
+![version_3/perspective_visual.png](version_3/perspective_visual.png)  |  ![version_4/perspective_visual.png](version_4/perspective_visual.png)
 
-## Pond near house
+
+## Pond near the house
 ![../history/stage_5/topdown.png](../history/stage_5/topdown.png)
 
 * 8.5 m^2 area, 1.7 m ^ 3 (Straight 70cm walls is 4 m ^3) volume, 12 m perimeter (Can probably extend length a bit but not width)
-+ Positive: Has access to full sun
-+ Positive: Is visible from the kitchen
-+ Positive: Looks good for larger deck build
+* Has access to full sun (Not sure this is good in my situation. Extra water loss, likely more algae with high fish stocks and I am using an external grow bed so no need for sun loving pond plants for removing nitrates)
++ Positive: Is easily visible from the kitchen
++ Positive: Looks good for possible future larger deck build
 + Positive: Little or no impact by run-off from chickens
 + Positive: Retaining wall very low height around pond better for structural support
 + Positive: No issues with pool fence regulations
@@ -36,10 +57,11 @@ I may also need more iterations on this when I get feedback about regulations fr
 - Negative: Difficult to control shading (naturally or artificially)
 	* I may be able to use a small over pond bridge to create some shade (and a cool path to thinking rock on other side of pond)
 	* I can probably work something out here with planting shrubs on north/west edge
+- Negative: Drainage in area has been bad in the past, maybe runoff from neighbors pool
 - Negative: More difficult plumbing of the hydrostatic release drain (Needs to pipe further under grass down to pool retaining wall)
 - Negative: Less space available for planting trees
 
-## Pond near back of property
+## Pond near the back of the property
 ![../history/stage_6/topdown.png](../history/stage_6/topdown.png)
 
 * 9.3 m^2 area, 2 m ^ 3 (Straight 70cm walls is 5 m ^3) volume, 12 m perimeter
@@ -60,87 +82,76 @@ I may also need more iterations on this when I get feedback about regulations fr
 - Negative: Maybe issues with pool fence regulations
 - Negative: May need extra retaining for pond itself as land still sloped there without significant retaining wall above
 
-## Council regulations
-
-
-These regulations will be different everywhere, but where I live in NSW Australia, I need to find out if a pond deeper than 300 mm is considered a pool and will require a fence. In which case I dont think a pond is feasible to put into my design (well not one that is incapable of sustaining a small ecosystem with fish and not just a bowl full of algae). 
-
-NSW Pool regulations define a pool according to: <https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/swimming-pools-and-spas>
-
-> The law applies to any excavation, structure or vessel including swimming pools and spa pools that are:
-> 
-> * capable of being filled with water to a depth greater than 30cm, and
-> * used, designed, manufactured or adapted for swimming, wading, paddling or any other human aquatic activity.
-
-There are however many extra documents since the original definition changing different aspects of pool and fencing regulations, I didn't see any changes in the definition of swimming pool. Also I spoke with a Duty Planner from Wollongong Council and they said yes we will need a DA as it is deeper than 300 mm, but they also confirmed that it is not classified as a pool and thus will not require boundary fencing. The DA will need to outline this information.
-<https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/pool-fencing-requirements>
-
-
-This document is very clear, though is it current and official? It looks to be so: <https://www.swimmingpoolregister.nsw.gov.au/inspection/Inspection%20Page%20FAQ.pdf>
-
-> **Question:**  Do I need to fence (install a child resistant barrier for) my fish pond?
-> 
-> **Answer:** No. If a fish pond has been designed and, manufactured to be solely used as a fish pond, then no child-resistant barrier is required.
-
-
-Another useful bit of information, is I think I will need a DA to approve a pond deeper than 300 mm. According to this document which defines "Exempt and Complying Development Codes": <https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40>
-
-
-> (1)  The standards specified for that development are that the development must—
->      (a)  not have a water depth of more than 300mm, and
->      (a1)  not have a surface area of more than 10m2, and
->      (b)  if it is constructed or installed in a heritage conservation area or a draft heritage conservation area—be located in the rear yard.
-> (2)  Despite sub clause 1(a), a pond sump may be placed in a water feature or pond below a water depth of 300mm if the sump is covered with a bolted or anchored grate that is capable of supporting a weight of 150kg.
-
-I believe this means if the pond was < 300 mm deep and surface area < 10 m ^2 then no approval is required. 
-
-One other reference about pond fencing and depth requirements is not official but helpful (and helped me locate the FAQ with a clear answer is): <https://ozponds.com/do-ponds-need-a-fence/>
-
-With that said, I plan to address the safety aspect of the pond in the design as well though position selection, bottom contour and planting choices.
-
-The two designs I am looking at are below. 
-
 
 # Inspiration
 
 These are some stand-out places for information and inspiration for pond design:
 
-* Bama Bass pond
-  * The best pond I have seen for asthetics and diversity
-  * A great example: <https://youtu.be/ddzmDF7Ds78>
-  * YouTube Channel: <https://www.YouTube.com/channel/UCSTueQfft5yfjNuRu2DZsHw>
+**Bama Bass pond**
 
-* Melbourne Aquaponics
-  * Great example using an aesthetically pleasing pond for Aquaponics: <https://www.YouTube.com/watch?v=p4Saas9WRws>
-  * YouTube Channel: <https://www.YouTube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ>
+* The best pond I have seen for aesthetics and diversity
+* A great example: <https://youtu.be/ddzmDF7Ds78>
+* YouTube Channel: <https://www.YouTube.com/channel/UCSTueQfft5yfjNuRu2DZsHw>
 
-* The Pond Digger
-  * YouTube Channel: <https://www.YouTube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA>
-  * Has LOTS of informative tutorials, how to build ponds, ponds gone wrong etc.
-  * Not just a single style of pond but covers multiple different use cases
-  * How to build a fish pond: <https://www.YouTube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG->
-  * How to build a koi pond: <https://www.YouTube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD>
-
-* Team Aquascape
-  * YouTube Channel: <https://www.YouTube.com/channel/UCbOyl13WDs8xYECSKZgoYsw>
-  * Very strong on the advertisement but they do have some amazing ponds that they showcase
-  * One amazing example in Australia: <https://www.YouTube.com/watch?v=Rm-V0n-76UI&t=448s>
-
-* Rob Bob's Aquaponics & Backyard Farm
-  * Lots of great information on Aquaponics (not using ponds though but IBCs)
-  * YouTube Channel: <https://www.YouTube.com/user/bnbob01>
-
-* Any Ponds (Also was Mark the Pond Advisor)
-  * YouTube Channel: <https://www.YouTube.com/c/AnyPondTV/featured>
-  * A good example: <https://www.YouTube.com/watch?v=8X2mjw3cfzE>
-  * Does some nice maller ponds. I saw a few of these early on that inspired me
+<a href="https://youtu.be/ddzmDF7Ds78">
+  <img alt="Bama Bass pond" src="photos/bama_bass.png" width="400">
+</a>
 
 
-# Current Pond Design
+**Melbourne Aquaponics**
 
-![version_3/topdown.png](version_3/topdown.png)
+* Great example using an aesthetically pleasing pond for Aquaponics: <https://www.YouTube.com/watch?v=p4Saas9WRws>
+* YouTube Channel: <https://www.YouTube.com/channel/UCZ1Otify84TlwZ90OJ18SAQ>
 
-![version_3/topdown_visual.png](version_3/topdown_visual.png)
+<a href="https://www.YouTube.com/watch?v=p4Saas9WRws">
+  <img alt="Melbourne Aquaponics" src="photos/melbourne_aquaponics.png" width="400">
+</a>
+
+
+**The Pond Digger**
+
+* Has LOTS of informative tutorials, how to build ponds, ponds gone wrong etc.
+* YouTube Channel: <https://www.YouTube.com/channel/UCgdXrQHVEVUMCinKmrSfFxA>
+* Not just a single style of pond but covers multiple different use cases
+* How to build a fish pond: <https://www.YouTube.com/playlist?list=PLqM5Qn1K_DPwBIjJEMcKgzg8jPLjUUmG->
+* How to build a koi pond: <https://www.YouTube.com/playlist?list=PLqM5Qn1K_DPy8JG3GRi8Sk-_TRYDospCD>
+
+<a href="https://youtu.be/rYRALgjRq7g?t=178">
+  <img alt="The Pond Digger" src="photos/pond_digger.png" width="400">
+</a>
+
+
+**Team Aquascape**
+
+* YouTube Channel: <https://www.YouTube.com/channel/UCbOyl13WDs8xYECSKZgoYsw>
+* Very strong on the advertisement but they do have some amazing ponds that they showcase
+* One amazing example in Australia: <https://youtu.be/Rm-V0n-76UI?t=405>
+
+<a href="https://youtu.be/Rm-V0n-76UI?t=405">
+  <img alt="Team Aquascape" src="photos/aquascape.png" width="400">
+</a>
+
+
+**Rob Bob's Aquaponics & Backyard Farm**
+
+* Lots of great information on Aquaponics (not using ponds though but IBCs)
+* YouTube Channel: <https://www.YouTube.com/user/bnbob01>
+
+<a href="https://youtu.be/1q_MN4kZRlY?t=2">
+  <img alt="Rob Bob Aquaponics & Backyard Farm" src="photos/rob_bobs.png" width="400">
+</a>
+
+
+**The Pond Advisor (Also Mark from Any Ponds)**
+
+* YouTube Channel: <https://www.YouTube.com/c/AnyPondTV/featured>
+* A good example: <https://www.YouTube.com/watch?v=8X2mjw3cfzE>
+* Does some nice smaller ponds. I saw a few of these early on that inspired me
+
+<a href="https://youtu.be/8X2mjw3cfzE?t=8">
+  <img alt="The Pond Advisor" src="photos/the_pond_advisor.png" width="400">
+</a>
+
 
 # Overview of pond styles
 
@@ -158,59 +169,52 @@ There are a few major pond building styles I have seen. Many of the "best practi
 
 ## Ecosystem Ponds
 
-In contrast to koi builds, there appears to be a more recent movement of what I am calling Aquascape ponds (largely fulled by the company making many of the components for these ponds, though not the only group doing so). These ponds seem to have quite a different style on builds:
+In contrast to koi builds, there appears to be a more recent movement of what I am calling Aquascape ponds (largely fueled by the company making many of the components for these ponds, though not the only group doing so). These ponds seem to have quite a different style on builds:
 
-* Tiered shelf design with planting pockets, usually multiple smaller walls (thus less volume), using natural dirt under liner (not concrete) + Positive: rocks above liner
+* Tiered shelf design with planting pockets, usually multiple smaller walls (thus less volume), using natural dirt under liner (not concrete)
 * Usually put loose rocks on the bottom and cover liner so not visible
 * Rarely a bottom drain or any pumps on the bottom
 * A skimmer (Or intake bay which I like the concept of) for surface filtration
-* A waterfall of some kind for aeration and upflow bio-filtration
+* A waterfall of some kind for aeration and up-flow bio-filtration
 
 
 # Aspects of Pond Design
 
 Here I will list various aspects of pond design that should be considered. Detailing a few common options in each category and listing pros/cons for each option and how it relates to the type of pond being built.
 
-## Mehanical surface filtration
+## Mechanical surface filtration
 
-The most common option by far is installing a skimmer box and is on most pond builds I have seen.
-
-My first choice would be an intake-bay because it reduces risk of killing animals in the pond. Also compared to a negative edge, 
-
- and it is cheaper and requires less space than a negative edge, but also my initial thought is that they are simpler to clean/maintain every week. However there are some significant complexities with installing an intake bay in my pond. As a result I am going to start with a typical skimmer box. 
-
-I also have an idea I plan to try to convert a skimmer box into a intake bay using a 3D printed adapter to replace the flapper that insteads draws the gravity fed intake from an aquablock under the rocks just in front of the skimmer. This may have some issues (like limited flow of water causing the pump to run dry), but I will give it a shot sometime after getting a working pond and see how it turns out.
-
+The most common option by far is installing a skimmer box and is on most pond builds I have seen. My first choice would be an intake-bay because it reduces risk of killing animals in the pond compared to the skimmer or negative edge filtration and looks very natural like a negative edge. It has some drawbacks though with maintenance likely more than a negative edge filtration system.
 
 Options include:
 
 * Skimmer box (most common in all designs)
 	+ Positive: Well known and tested
-	+ Positive: Usually easy to hide by placing under/near viewing area also makes maintainence more accessible
-	+ Positive: Good support for water level maintainence with hidden auto-water level topup using float valve and overflow / drain
+	+ Positive: Usually easy to hide by placing under/near viewing area also makes maintenance more accessible
+	+ Positive: Good support for water level maintenance with hidden auto-water level top-up using float valve and overflow / drain
 	+ Positive: Due to the design of skimmers if you have a failure in the plumbing you wont pump the pond dry
 	+ Positive: Great way to hide pump/plumbing in an accessible way
-	- Negative: Needs manual maintainence maybe weekly?
+	- Negative: Needs manual maintenance maybe weekly?
 	- Negative: Can suck in small animals and kill them (not great for ecosystem ponds with frogs, turtles etc)
 	
 * Intake bay (Seen only a few of these)
 	+ Positive: Look amazing, they look very natural you cant see them at all
-	+ Positive: Regular maintainence (maybe weekly) uses a rake to take out debris instead of pulling out baskets (Yearly maybe cleaning out rocks?)
+	+ Positive: Regular maintenance (maybe weekly) uses a rake to take out debris instead of pulling out baskets (Yearly maybe cleaning out rocks?)
 	+ Positive: Due to the design of intake bays if you have a failure in the plumbing you wont pump the pond dry (if intake bay done correctly)
 	+ Positive: Great way to hide pump/plumbing in an accessible way
-	- Negative: Not seen a lot on these, I like the concept, do they work well I dont see much information on these after installed?
-	- Negative: Takes up a significant portion of the pond volume/area (Skimmers ar eusually installed on the side, so less liner required)
+	- Negative: Not seen a lot on these, I like the concept, do they work well I don't see much information on these after installed?
+	- Negative: Takes up a significant portion of the pond volume/area (Skimmers are usually installed on the side, so less liner required)
 	? Are they as effective as skimmer boxes? I assume the water flow is the same but no flapper so velocity of water more variable
-	? Can probably install same water level maintainence in pump vault with hidden auto-water level topup using float valve and overflow / drain
+	? Can probably install same water level maintenance in pump vault with hidden auto-water level top-up using float valve and overflow / drain
 
-* Negative egde filter
+* Negative edge filter
 	* <https://youtu.be/f_4mpaH-LtU>, <https://youtu.be/XrhitnCBRDE>
 	+ Positive: Great water quality, nothing remains in pond on surface
-	+ Positive: Lowest maintainence
+	+ Positive: Lowest maintenance
 	+ Positive: Improved thermal stability (underground reservoir)
 	- Negative: Fish can still jump the edge (reduced in design but still possible), though frogs etc are fine
 	- Negative: Requires significant space
-	- Negative: More expensive as need further excavation, extra storage in aquablocks, more detailed design required to prevent running dry or overflow
+	- Negative: More expensive as need further excavation, extra storage in aqua blocks, more detailed design required to prevent running dry or overflow
 
 * Lid over pond (for Aquaponics)
 	In aquaponics usually they just cover the pond with a lid to prevent external debris getting in the first place. Not feasible in most ponds.
@@ -220,11 +224,11 @@ Options include:
 
 ## Mechanical bottom filtration
 
-The purpose of this is to clean/filter derbis that was missed by the surface filtration and sunk to the bottom of the pond (often decomposes into sludge) and also to try and filter/clean fish waste. One other thought here is that a flow of water through bottom filtration may prevent anerobic (smelly) bacteria colonizing the bottom of the pond by providing slightly more oxygenated water on the bottom which is usually is oxygen depleted.
+The purpose of this is to clean/filter debris that was missed by the surface filtration and sunk to the bottom of the pond (often decomposes into sludge) and also to try and filter/clean fish waste. One other thought here is that a flow of water through bottom filtration may prevent anaerobic (smelly) bacteria colonizing the bottom of the pond by providing slightly more oxygenated water on the bottom which is usually is oxygen depleted.
 
 The most common option considered here is a bottom drain, and is often installed in Koi ponds. Another solution to this I have seen a little bit of is the under-gravel suction grid. However because it makes the rocks act as a mechanical filter arguably it clogs the rocks on the bottom with all the debris and makes cleaning very difficult.
 
-I have seen very polarized views on the under-gravel suction grids. It will cause debris to be caught in the gravel no matter what if it is filtering effectively as that is what a filter does, however a theory I have seen is that much of that debris is broken down by bacteria living in the rocks over the large surface area of the pond bottom and if well balanced will keep it unblocked/clean except for the larger sticks etc. The bottom of the pond is usually a haven for anerobic bacteria, but with a suction grid the flow of water provides slightly more oxygenated water supply to the bacteria on the bottom of the pond, permitting aerobic bacteria to colonize more effectively which is good for the health of the pond.
+I have seen very polarized views on the under-gravel suction grids. It will cause debris to be caught in the gravel no matter what if it is filtering effectively as that is what a filter does, however a theory I have seen is that much of that debris is broken down by bacteria living in the rocks over the large surface area of the pond bottom and if well balanced will keep it unblocked/clean except for the larger sticks etc. The bottom of the pond is usually a haven for anaerobic bacteria, but with a suction grid the flow of water provides slightly more oxygenated water supply to the bacteria on the bottom of the pond, permitting aerobic bacteria to colonize more effectively which is good for the health of the pond.
 
 Often any filters attached to bottom drains or suction grids need the ability to settle/filter fine solids (fish waste) from the water. See more on this under the topic of [solids settling filters](#solids-settling-filters) as there are a lot of things to consider here as well.
 
@@ -235,12 +239,12 @@ Options include:
 	This is the most common solution I have noticed for a koi/fish pond. A bottom drain is almost never seen in ecosystem ponds as they usually have rocked in bottoms that prevent the waste travelling to the drain and also rocks can block the drain. 
 
 	+ Positive: Very effective for fish waste and small debris that is not caught by a surface skimmer
-	+ Positive: If working properly greatly reduces larger yearly maintainence (No need for yearly drain/wash)
-	- Negative: More difficult to install, must be done from the begining as it is hard to add afterwards (you can install on top of liner ones but they are less effective apparently)
+	+ Positive: If working properly greatly reduces larger yearly maintenance (No need for yearly drain/wash)
+	- Negative: More difficult to install, must be done from the beginning as it is hard to add afterwards (you can install on top of liner ones but they are less effective apparently)
 	- Negative: Requires bare liner on bottom of pond for waste to flow to drain (I.e. not able to rocked in the bottom of the pond)
 	- Negative: Ideally requires sloped contour on the bottom of the pond to permit waste to flow to drain
 	- Negative: Ideally (not required) wants aeration on top of the drain (to create an eddy/current-flow of water that hopefully pushes waste down the walls and along the floor back to the drain)
-	- Negative: Often requires extra external filtration (Most common is a solids settling filter like swirl, radial flow, seive etc)
+	- Negative: Often requires extra external filtration (Most common is a solids settling filter like swirl, radial flow, sieve etc)
 	* Some people worry about them leaking or rising, but if installed correctly shouldn't be an issue
 
 * Under-gravel suction grid
@@ -251,33 +255,72 @@ Options include:
 	+ Positive: Can be installed more simply as can be constructed entirely on top of the liner
 	- Negative: Likely to need a second pump
 	? Effectiveness compared to bottom drains is greatly debated
-	? Some people say reduces yearly maintainence but the drain/washing still needs to happen just less frequently (maybe 5 years)
+	? Some people say reduces yearly maintenance but the drain/washing still needs to happen just less frequently (maybe 5 years)
 
 * Yearly manual drain and clean 
 
 	This seems to be a very common solution for ecosystem ponds that I have seen on YouTube. This looks like a LOT of work and is stressful on the fish. In most ecosystem ponds there is no bottom drain or suction grid. Instead muck just accumulates under on the bottom. Without fish or a very light load stocked in the pond, this is not a huge issue. However it is clear that a LOT of muck can accumulate under the rocks if the bottom of the pond is rocked in and is often much worse with fish stocked in the pond. 
 
-	Also to be clear the issue is not just cleanliness but if you have fish in the pond this can be quite dangerous for them. If the muck remains undistrubed on the bottom it is often ok, however as soon as say larger winds, or big flush of rain or you working on the pond disturbs the muck on the bottom it can case the water to become toxic for the fish. 
+	Also to be clear the issue is not just cleanliness but if you have fish in the pond this can be quite dangerous for them. If the muck remains undisturbed on the bottom it is often ok, however as soon as say larger winds, or big flush of rain or you working on the pond disturbs the muck on the bottom it can case the water to become toxic for the fish. 
 
 
-I really want the best of both worlds (bottom drain for reduced maintainence, and rocked pond bottom for asthetics and liner protection) and not sure what is feasible. My plan is to install a bottom drain on the pond at construction including a sloped floor on the bottom contour as it is difficult to do so later. However I still plan to install normal planting shelves, and rock those in like in an ecosystem pond, fully aware that the shelves may accumulate muck and prevent it flowing into the bottom drain.
+I really want the best of both worlds (bottom drain for reduced maintenance, and rocked pond bottom for aesthetics and liner protection) and not sure what is feasible. My plan is to install a bottom drain on the pond at construction including a sloped floor on the bottom contour as it is difficult to do so later. However I still plan to install normal planting shelves, and rock those in like in an ecosystem pond, fully aware that the shelves may accumulate muck and prevent it flowing into the bottom drain.
 
 I have a few ideas I would like to try:
 * Rocked shelves, and pond walls but bottom contour bare liner to bottom drain
-* Add under-gravel pumping or cycle grid (not suction, or maybe cycle suction/pumping regulary) in the shelves (and around edge of bottom contour), the goal is to agitate debris from the shelves and behind the rock walls so it doesnt settle and will be eventually pushed to the bottom drain. Not sure if this will work/help.
+* Add under-gravel pumping or cycle grid (not suction, or maybe cycle suction/pumping regularly) in the shelves (and around edge of bottom contour), the goal is to agitate debris from the shelves and behind the rock walls so it doesn't settle and will be eventually pushed to the bottom drain. Not sure if this will work/help.
 * Create a 3D printed adapter to plug a suction/pumping grid into the drain hole and convert a drain to a grid
-
 
 
 ## Biological filtration
 
-TODO
-* Waterfall filters (staic and moving bed)
-* Bog filters
-* Separate bio-filters
-* Aquaponic grow beds (a form of bog filter, often designed a little differenty)
-* Maintanence is an issue, consider design of flood/drain grow bed with open water cavity below, ideal to dislodge fish waste to prevent clogging
-  * Also ideal to have two separate bio filters, as cleaning will often cause one to stop functioning correctly for a while
+The purpose of biological filtration is to convert waste produced by fish (and other decaying matter) from Ammonia, to Nitrites and then into Nitrates. The Ammonia and Nitrites are toxic to fish at very low concentrations, where as Nitrates need a much higher concentration to become toxic. See the section below on [Nitrate removal](#nitrate-removal). For now though we will focus on the Biological filter whose purpose is to convert the toxic Ammonia and Nitrites into the non-toxic Nitrates.
+
+All biological filtration requires a few things:
+* Surface area in contact with slowly flowing water
+* Oxygenated water
+
+There are other things like pH and temperature that affect this process and the toxicity to fish as well.
+
+
+The main options I have seen for biological filtration include:
+* Up-flow waterfall filter
+* Moving bed bio-filters 
+* Aquaponic grow-beds/bog-filters (if water is oxygenated before the bog filter, the surface area make a good location for bacteria)
+* Separate bio-filter using sponges, balls, etc
+
+
+As an ideal it is good to have two separate bio filters and overdo it a bit. If the filter needs to be cleaned for example, quite often it will become less effective for a period of time after the cleaning and if you are running close to the limit you may kill any stocked fish.
+
+
+**Up-flow waterfall filter**
+
+In many smaller modern ecosystem ponds, the biological filtration is typically provided by an up-flow waterfall bio-filter. This is a design I think popularized by the company Aquascape, where the highly oxygenated water is pumped from the surface of the pond usually using a skimmer box, flows slowly upwards through a sponge or other medium with lots of surface area for the bacteria to colonize and flows out back into the pond as a waterfall re-oxygenating the water. 
+
+There are a few important aspects to this:
+1) Water entering biological filter is highly oxygenated to start with
+2) Water flows upwards slowly pass the filter medium (gravity fed is probably too fast, thus the up-flow)
+3) Water is re-oxygenated before entering the pond (biological filters consume oxygen in water to achieve the nitrification process)
+
+The waterfall filter option commonly used in ecosystem ponds works quite well on many ponds. My only gripe with it is that the water at the bottom of the pond is rarely oxygenated or filtered, also you need to rely on the fact that the majority of the waste can be captured by the surface skimmer. Over time this may result in sludge buildup in the bottom of the pond requiring occasional pond drain and cleanout. 
+
+**Moving bed bio-filters**
+
+This is usually a variation of the waterfall filter (not always you can buy them as standalone not for waterfalls as well) except instead of using a sponge or heavy plastic balls for the biological medium, it uses buoyant plastic wheels and often their is an aerator added to the bottom of the container oxygenating the water and keeping the balls agitated. The plastic wheels used in this are key and have been designed such that the colonizing bacteria will not be dislodged from the inside of the wheel as the media floats about running into each other. 
+
+The advantage of these filters is that they rarely need to be cleaned out unlike when using sponges and heavy plastic bio-balls. They can also be used with water not from the surface of the pond as there is often an aerator added to the container causing oxygenation. 
+
+**Aquaponic grow-beds**
+
+There are multiple different types of aquaponic grow-beds. The most common one I have seen is a flood-drain system using expanded clay balls. In most of these designs, the water enters from the surface and falls down through the clay-balls slowly filling up the grow bed tub. Once the water gets to a certain level it is drained quickly back into a sump tank. This flood/drain cycle is often managed by something called a bell siphon. You can see a lot more about this on my [aquaponics](aquaponics/README.md) page.
+
+In these systems often oxygenation happens on entry to the grow bed, and also on drain when flushing to the sump tank. Additionally the expanded clay balls have a large surface area for the bacteria to colonize.
+
+I have heard from <a href="https://youtu.be/1q_MN4kZRlY?t=214">external sources</a> that these types of flood/drain expanded clay grow beds can support 500 grams of fish per 25L of grow-bed volume. This is apparently a safe ratio and can possibly be pushed. 
+
+Bog filters also provide a level of bio-filtration, very similar to flood/drain grow-beds in aquaponics. The key difference is that they are often continuous up-flow systems and will need some amount of oxygenation before reaching the bog filter.
+
+
 
 ## Nitrate removal
 
@@ -321,24 +364,37 @@ In short, the idea I wish to follow for nitrate removal in my pond is to create 
 The main disadvantage of this system over other continuous up-flow systems is that the pond water level will fluctuate significantly depending on the volume of the two grow beds and it may cost a bit more time and money for the construction. I have some ideas however on how to improve the water level fluctuation by adding a hidden satellite sump under each grow-bed.
 
 
+## Solids filtration
+
+Usually only considered for koi/fish ponds and is closely tied to the [Mechanical bottom filtration](#mechanical-bottom-filtration). 
+
+Categories include (Infor from <a href="https://euaquaponicshub.files.wordpress.com/2016/03/challenges-and-opportunities-in-aquaponics.pdf">Challenges and opportunities in Aquaponics</a>:
+* Gravity based (Radial flow, swirl, sediment), successful >100um (density of fish waste slightly higher than water)
+* Media (sand, floating bead), successful >20um
+* Sieve (drum, sieve, screens), variable 
+* Foam fractionation, successful <30um
+
+Many home hydroponic installs use a gravity based radial flow or swirl filter and then the grow bed takes care of the rest. Hopefully, the remaining particles can be mineralized inside the grow bed, but apparently sometimes it results in clogging and anaerobic areas in the grow beds.
+
+The floating bead filters look quite impressive, and I would like to consider these when I start the aquaponics. A radial flow filter however is very simple and cheap to construct and will probably the first thing I try.
 
 
-## Solids Settling Filters
+These are just extra random notes I am keeping for later:
+* Radial flow paper comparing to swirl filter: https://core.ac.uk/download/pdf/82493576.pdf
+* Don't place these filters after the water pump, but instead have them gravity fed pre-pump from the bottom drain, to reduce churning up fish waste even smaller
+* Lots of random collection of posts on radial flow filter examples (and others): https://aquaponictrend.blogspot.com/2018/07/aquaponics-radial-flow-filter.html
+  * One idea was a water cooler bottle is a good shape
+* Nice demo of bead filter: https://youtu.be/hhu1bcKmzrM , https://www.1h2o3.com/en/aquatic-ecosystems/aquaculture-supplies/ras-aquaculture-bead-filters/small-and-compact-bead-filters-for-aquaponics/
+* Maybe even try foam fractionation using air pump, though possibly not required as I have not seen it on any home aquaponics solutions yet
+* really interesting read on Aquaponics Solids Filtration, they also have many other FAQ papers that are well written: <a href="https://www.aquaponic.com.au/Solids%20filtration.pdf">https://www.aquaponic.com.au/Solids%20filtration.pdf</a>
 
-Usually only considered for koi/fish ponds and is closely tied to the [Mechanical bottom filtration](#mechanical-bottom-filtration). Key aspects to consider:
+### Solids mineralization
 
-* Usually slow flow of water through these to permit separation of solids/liquids
-* Radial flow considered more effective than swirl for close density materials (fish waste and water)
-* Often seives used
-* Not post-pump, but often gravity fed pre-pump to reduce churning up fish waste even smaller
-* Cleaning process, and reuse on garden (TODO robobs aquaponics radial flow example)
+TODO: Discuss mineralization of solids and re-addition to the aquaponics system and <a href="https://www.aquaponic.com.au/Solids%20filtration.pdf">https://www.aquaponic.com.au/Solids%20filtration.pdf</a> which discusses in-grow-bed mineralization.
 
-TODO more info
+## UV Steralization filter
 
-
-## Other filtration
-* Bead filters, tumblers etc
-* UV sterilization (not really filtration)
+TODO Discuss UV sterilization (not really filtration)
 Really good info on pond filters: <https://www.koiphen.com/forums/showthread.php?93019-Filtration-Basics>
 
 ## Oxygenation
@@ -353,7 +409,9 @@ TODO:
 
 ## Current flow
 
-## Redundancy and fish/bacteria safety
+TODO: Discuss flow required, bottom/depth and lack of flow, pond shape and filter locations, plants and frogs, koi in still ponds vs moving etc
+
+## Redundancy
 
 TODO
 Including skimmers/intake bays vs pump on bottom vs aquaponics style much safer gravity fed etc if plumbing failure wont empty out pond
@@ -369,7 +427,7 @@ This decision is more about asthetics, but some thought needs to be put into cur
 Options:
 
 * Circle
-	+ Positive: Easiest to understand current flow, helping to keep it clean and reduce maintainence
+	+ Positive: Easiest to understand current flow, helping to keep it clean and reduce maintenance
 	* Not great for a natural look, is good for formal look
 
 * Sharp corners (like a square)
@@ -477,7 +535,7 @@ Nothing is child proof, but this needs to be considered.
 There are things you can do with pond positioning, edge treatment and planting choices to help make it a little safer. Having the main approaches to the pond be shallow with a rocked in bottom is probably a key item to consider here along with planting higher barriers in areas it would be less safe to approach from.
 
 
-## Underlay and Concrete:
+## Underlay and Concrete
 
 Prevent rodents burying in liner use concrete" <https://www.houzz.com.au/magazine/build-a-backyard-fish-pond-without-going-belly-up-stsetivw-vs~91523708>
 Expert tip: If you do go with a rubber liner, Leidner recommends buying a few bags of concrete, poking holes in them and using the bags to line the hole. Then spray the bags with water and put the rubber liner on top. The bag will dissolve and the concrete will harden, creating a barrier that rodents can’t get through.
@@ -487,7 +545,7 @@ Expert tip: If you do go with a rubber liner, Leidner recommends buying a few ba
 
 ## Overflow
 
-## Topup
+## Top-up
 
 ## Rocks on bottom or not
 
@@ -519,7 +577,7 @@ Planting pockets, types of plans and shelf depth etc
 
 ## Fish selection
 
-## Maintainence
+## Maintenance
 
 ## Pump location
 
@@ -536,7 +594,51 @@ Discuss head, efficieny and piping etc
 
 * External pumps?
 	?Efficiency?
-	?Maintainence?
+	?Maintenance?
+
+
+
+## Council regulations
+
+These regulations will be different for each local council area, so make sure to check the regulations that apply in your area. Where I live in Wollongong, Australia the rules that cover the construction of a pond are defined by:
+
+"Exempt and Complying Development Codes": <https://www.legislation.nsw.gov.au/#/view/EPI/2008/572/part2/div1/subDiv40>
+
+> (1)  The standards specified for that development are that the development must—
+>      (a)  not have a water depth of more than 300mm, and
+>      (a1)  not have a surface area of more than 10m2, and
+>      (b)  if it is constructed or installed in a heritage conservation area or a draft heritage conservation area—be located in the rear yard.
+> (2)  Despite sub clause 1(a), a pond sump may be placed in a water feature or pond below a water depth of 300mm if the sump is covered with a bolted or anchored grate that is capable of supporting a weight of 150kg.
+
+What this means that if the pond is less than 300mm deep (and less than 10 m^2 surface area), then the pond fits into the "Exempt and Complying Development Code" and does not require a development application to be built. Otherwise a DA needs to be submitted to the council to build the pond.
+
+The issue with this is that a pond of <300mm depth is very difficult to maintain and likely a little dangerous to any fish stocked in it as it has very fast temperature fluctuations, will get very warm in summer (especially here in Australia). This will be detrimental to the beneficial bacteria, the oxygenation levels and overall health of the pond. Ideally from everything I have read a pond should be at a minimum of 600mm deep.
+
+
+The other area of the ruling on this that is important was to consider if a safety fence was required as is for pools which are >300mm deep. In my back-yard requiring a fence around the boundary of the pond is just not feasible and would require I exclude it from the design.
+
+NSW Pool fencing regulations define a pool according to: <https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/swimming-pools-and-spas>
+
+> The law applies to any excavation, structure or vessel including swimming pools and spa pools that are:
+> 
+> * capable of being filled with water to a depth greater than 30cm, and
+> * used, designed, manufactured or adapted for swimming, wading, paddling or any other human aquatic activity.
+
+There were other definitions specifying that a pool is a body of water whose primary purpose is for swimming in. I spoke with a Duty Planner from Wollongong Council and they said yes we will need a DA as it is deeper than 300 mm, but they also confirmed that it is not classified as a pool and thus will **NOT** require boundary fencing. The DA will need to outline this information.
+<https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/pools-and-pool-safety/pool-fencing-requirements>
+
+
+
+This document is also very clear: <https://www.swimmingpoolregister.nsw.gov.au/inspection/Inspection%20Page%20FAQ.pdf>
+
+> **Question:**  Do I need to fence (install a child resistant barrier for) my fish pond?
+> 
+> **Answer:** No. If a fish pond has been designed and, manufactured to be solely used as a fish pond, then no child-resistant barrier is required.
+
+
+With all this, I have also received confirmation that a DA is required and a boundary fence is not required from an external contractor that builds ponds (and will hopefully be building my pond or part of it based on my budget) and another pond builder in Australia discussing this topic: <https://ozponds.com/do-ponds-need-a-fence/>
+
+With that said, I plan to address the safety aspect of the pond in the design through position selection, bottom contour design (shallow rocked in shelves) and planting choices to make it as safe as possible for children without requiring a boundary fence.
 
 
 # History

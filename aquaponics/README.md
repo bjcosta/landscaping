@@ -19,6 +19,8 @@ Growing media selection
 ## Red wriggler worms
 TODO lots of individual ideas/technologies in the aquaponics section
 
+TODO: Great resource of information: https://www.aquaponic.com.au/fact%20sheets.htm
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>
