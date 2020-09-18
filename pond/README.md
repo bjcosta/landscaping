@@ -4,7 +4,10 @@
 
 # Pond Design
 
-Designing and building a pond is a huge amount of work compared to other parts of my backyard transformation. I have now watched hundreds of tutorials, examples and read numerous blocks of information about building and designing ponds and still feel there is more to learn. I will try and keep a reference of information I have looked at and summarize what I think are the major aspects of pond design that I have considered, what choices I made in my design and why.
+Designing and building a pond is a huge amount of work compared to other parts of my backyard transformation. I have now watched hundreds of tutorials, examples and read numerous blocks of information about building and designing ponds and still feel there is more to learn. I will try and keep a reference of information I have looked at and summarize what I think are the major aspects of pond design that I have considered, what choices I made in my design and why. The hope is if you are looking to design a pond and want to be very thorough, then this information may be helpful to identify things to consider.
+
+That said, a standard ecosystem pond install is quite simple in concept, with a skimmer, waterfall filter and a rocked in liner. The rest is just understanding what other options exists and trying to get the most out of the pond (I plan to be using aquaponics in my pond to grow vegetables as well as edible fish).
+
 
 Near House  |  Near Back
 :---:|:---:
@@ -27,10 +30,9 @@ Near House  |  Near Back
 <a href="version_3/topdown.png"> ![version_3/topdown.png](version_3/topdown.png) </a>  |  <a href="version_4/topdown.png"> ![version_4/topdown.png](version_4/topdown.png) </a>
 <a href="version_3/topdown_visual.png"> ![version_3/topdown_visual.png](version_3/topdown_visual.png) </a>  |  <a href="version_4/topdown_visual.png"> ![version_4/topdown_visual.png](version_4/topdown_visual.png) </a>
 
-The key differences in these locations are around shade vs sun exposure, excavation work required for drainage and retaining walls, aesthetics and proximity to inside and outside viewing areas. There is no clear winner in this at the moment and I think we will choose mostly based on cost.
+The key differences in these locations are around shade vs sun exposure, excavation work required for drainage, retaining walls, aesthetics and proximity to inside and outside viewing areas. There is no clear winner in this at the moment and I think we will choose mostly based on cost.
 
 The other thing is that the design near the back of the house being butted right up to the paved seating area, may benefit from a slightly more formal look than I have designed.
-
 
 
 # My pond design : Big question to answer early (Pond position)
@@ -182,9 +184,13 @@ In contrast to koi builds, there appears to be a more recent movement of what I 
 
 Here I will list various aspects of pond design that should be considered. Detailing a few common options in each category and listing pros/cons for each option and how it relates to the type of pond being built.
 
-## Mechanical surface filtration
+## Mechanical surface waste collection
 
-The most common option by far is installing a skimmer box and is on most pond builds I have seen. My first choice would be an intake-bay because it reduces risk of killing animals in the pond compared to the skimmer or negative edge filtration and looks very natural like a negative edge. It has some drawbacks though with maintenance likely more than a negative edge filtration system.
+This is something that removes floating debris like leaves from the surface of the pond.
+
+The most common option by far is installing a skimmer box and is on most pond builds I have seen. The first choice for my pond would be an intake-bay because it reduces risk of killing animals in the pond compared to the skimmer or negative edge filtration and looks very natural like a negative edge. It has some drawbacks though.
+
+Note that I have combined filtration and surface waste collection in here. In a skimmer the skimmer itself is the collector and the leaf basket is the filter, for negative edge and intake bays the rocks are the filter. I mention this as there are some possibilities like a skimmer in which you can install a rotary drum filter to do the cleaning. Assume the RDF is sufficient for removing leaf debris, you can have a filtration with no real maintenance as the RDF is a self cleaning filter that can be attached to a bottom drain or a skimmer and actually physically removes the waste from the water so it can't contaminate the water if left there for a long time.
 
 Options include:
 
@@ -194,6 +200,7 @@ Options include:
 	+ Positive: Good support for water level maintenance with hidden auto-water level top-up using float valve and overflow / drain
 	+ Positive: Due to the design of skimmers if you have a failure in the plumbing you wont pump the pond dry
 	+ Positive: Great way to hide pump/plumbing in an accessible way
+	+ Positive: When connected to RDF can completely remove debris from the water without manual cleaning
 	- Negative: Needs manual maintenance maybe weekly?
 	- Negative: Can suck in small animals and kill them (not great for ecosystem ponds with frogs, turtles etc)
 	
@@ -221,60 +228,11 @@ Options include:
 	
 * Manual netting and rely on bottom drain (for people with nothing better to do)
 
-
-## Mechanical bottom filtration
-
-The purpose of this is to clean/filter debris that was missed by the surface filtration and sunk to the bottom of the pond (often decomposes into sludge) and also to try and filter/clean fish waste. One other thought here is that a flow of water through bottom filtration may prevent anaerobic (smelly) bacteria colonizing the bottom of the pond by providing slightly more oxygenated water on the bottom which is usually is oxygen depleted.
-
-The most common option considered here is a bottom drain, and is often installed in Koi ponds. Another solution to this I have seen a little bit of is the under-gravel suction grid. However because it makes the rocks act as a mechanical filter arguably it clogs the rocks on the bottom with all the debris and makes cleaning very difficult.
-
-I have seen very polarized views on the under-gravel suction grids. It will cause debris to be caught in the gravel no matter what if it is filtering effectively as that is what a filter does, however a theory I have seen is that much of that debris is broken down by bacteria living in the rocks over the large surface area of the pond bottom and if well balanced will keep it unblocked/clean except for the larger sticks etc. The bottom of the pond is usually a haven for anaerobic bacteria, but with a suction grid the flow of water provides slightly more oxygenated water supply to the bacteria on the bottom of the pond, permitting aerobic bacteria to colonize more effectively which is good for the health of the pond.
-
-Often any filters attached to bottom drains or suction grids need the ability to settle/filter fine solids (fish waste) from the water. See more on this under the topic of [solids settling filters](#solids-settling-filters) as there are a lot of things to consider here as well.
-
-Options include:
-
-* Bottom drain
-
-	This is the most common solution I have noticed for a koi/fish pond. A bottom drain is almost never seen in ecosystem ponds as they usually have rocked in bottoms that prevent the waste travelling to the drain and also rocks can block the drain. 
-
-	+ Positive: Very effective for fish waste and small debris that is not caught by a surface skimmer
-	+ Positive: If working properly greatly reduces larger yearly maintenance (No need for yearly drain/wash)
-	- Negative: More difficult to install, must be done from the beginning as it is hard to add afterwards (you can install on top of liner ones but they are less effective apparently)
-	- Negative: Requires bare liner on bottom of pond for waste to flow to drain (I.e. not able to rocked in the bottom of the pond)
-	- Negative: Ideally requires sloped contour on the bottom of the pond to permit waste to flow to drain
-	- Negative: Ideally (not required) wants aeration on top of the drain (to create an eddy/current-flow of water that hopefully pushes waste down the walls and along the floor back to the drain)
-	- Negative: Often requires extra external filtration (Most common is a solids settling filter like swirl, radial flow, sieve etc)
-	* Some people worry about them leaking or rising, but if installed correctly shouldn't be an issue
-
-* Under-gravel suction grid
-
-	Must be done "correctly". Apparently many are not constructed well. You must use larger smooth gravel to prevent muck accumulating/getting caught in the smaller gravel. It must be easy for the muck to flow past the gravel into the grid pipes. I assume as well the water flow must be sufficient to permit these to work effectively.
-
-	+ Positive: Looks great as you dont see it and can have a rocked bottom still. Sometims installed in ecosystem ponds, rarely in koi ponds
-	+ Positive: Can be installed more simply as can be constructed entirely on top of the liner
-	- Negative: Likely to need a second pump
-	? Effectiveness compared to bottom drains is greatly debated
-	? Some people say reduces yearly maintenance but the drain/washing still needs to happen just less frequently (maybe 5 years)
-
-* Yearly manual drain and clean 
-
-	This seems to be a very common solution for ecosystem ponds that I have seen on YouTube. This looks like a LOT of work and is stressful on the fish. In most ecosystem ponds there is no bottom drain or suction grid. Instead muck just accumulates under on the bottom. Without fish or a very light load stocked in the pond, this is not a huge issue. However it is clear that a LOT of muck can accumulate under the rocks if the bottom of the pond is rocked in and is often much worse with fish stocked in the pond. 
-
-	Also to be clear the issue is not just cleanliness but if you have fish in the pond this can be quite dangerous for them. If the muck remains undisturbed on the bottom it is often ok, however as soon as say larger winds, or big flush of rain or you working on the pond disturbs the muck on the bottom it can case the water to become toxic for the fish. 
-
-
-I really want the best of both worlds (bottom drain for reduced maintenance, and rocked pond bottom for aesthetics and liner protection) and not sure what is feasible. My plan is to install a bottom drain on the pond at construction including a sloped floor on the bottom contour as it is difficult to do so later. However I still plan to install normal planting shelves, and rock those in like in an ecosystem pond, fully aware that the shelves may accumulate muck and prevent it flowing into the bottom drain.
-
-I have a few ideas I would like to try:
-* Rocked shelves, and pond walls but bottom contour bare liner to bottom drain
-* Add under-gravel pumping or cycle grid (not suction, or maybe cycle suction/pumping regularly) in the shelves (and around edge of bottom contour), the goal is to agitate debris from the shelves and behind the rock walls so it doesn't settle and will be eventually pushed to the bottom drain. Not sure if this will work/help.
-* Create a 3D printed adapter to plug a suction/pumping grid into the drain hole and convert a drain to a grid
-
+* Using a scoop net (Like anyone has the time for that :-) )
 
 ## Biological filtration
 
-The purpose of biological filtration is to convert waste produced by fish (and other decaying matter) from Ammonia, to Nitrites and then into Nitrates. The Ammonia and Nitrites are toxic to fish at very low concentrations, where as Nitrates need a much higher concentration to become toxic. See the section below on [Nitrate removal](#nitrate-removal). For now though we will focus on the Biological filter whose purpose is to convert the toxic Ammonia and Nitrites into the non-toxic Nitrates.
+The purpose of biological filtration is to convert waste produced by fish (and other decaying matter) from Ammonia, to Nitrites and then from Nitrites into Nitrates (no I didn't just repeat myself). The Ammonia and Nitrites are toxic to fish at very low concentrations, where as Nitrates need a much higher concentration to become toxic. See the section below on [Nitrate removal](#nitrate-removal). For now though we will focus on the Biological filter whose purpose is to convert the toxic Ammonia and Nitrites into the non-toxic Nitrates.
 
 All biological filtration requires a few things:
 * Surface area in contact with slowly flowing water
@@ -320,16 +278,14 @@ I have heard from <a href="https://youtu.be/1q_MN4kZRlY?t=214">external sources<
 
 Bog filters also provide a level of bio-filtration, very similar to flood/drain grow-beds in aquaponics. The key difference is that they are often continuous up-flow systems and will need some amount of oxygenation before reaching the bog filter.
 
-
-
 ## Nitrate removal
 
 The purpose of the biological filter is to convert ammonia and nitrites produced as waste from the fish (in poo a little but mostly from their gills apparently) which are toxic to fish at low concentrations into nitrates which require high levels to become toxic to fish. However there is still a level of nitrates that are toxic to fish and the biological filters don't help with this so it must be removed some other way.
 
-There are really two ways of removing the nitrates from  the water:
+There are really two ways of removing the nitrates from the water I know of:
 
-1) Water changes 
-2) Using plants
+1. Water changes 
+2. Using plants
 
 The idea of a water change is that you regularly remove say 50% of the water in the pond and replace with new water (not directly from the tap as usually has chlorine, and typically you want to avoid the new water having significant differences from the pond water for temperature etc as that can cause shock to the fish). The idea here is the old pond water with a higher concentration of nitrates is removed and replaced with new water with no nitrates thus reducing the overall concentration of nitrates in the water. 
 
@@ -364,33 +320,97 @@ In short, the idea I wish to follow for nitrate removal in my pond is to create 
 The main disadvantage of this system over other continuous up-flow systems is that the pond water level will fluctuate significantly depending on the volume of the two grow beds and it may cost a bit more time and money for the construction. I have some ideas however on how to improve the water level fluctuation by adding a hidden satellite sump under each grow-bed.
 
 
+## Mechanical bottom waste collection
+
+The purpose of this is to collect debris that was missed by the surface filtration and sunk to the bottom of the pond (often decomposes into sludge) and also to try and collect fish waste. Also flow of water through bottom filtration may prevent anaerobic (smelly) bacteria colonizing the bottom of the pond by providing slightly more oxygenated water on the bottom which is usually is oxygen depleted.
+
+The most common option considered here is a bottom drain, and is often installed in Koi ponds. Another solution to this I have seen a little bit of is the under-gravel suction grid. However because it makes the rocks act as a mechanical filter arguably it clogs the rocks on the bottom with all the debris and makes cleaning very difficult.
+
+I have seen very polarized views on the under-gravel suction grids. It will cause debris to be caught in the gravel no matter what if it is filtering effectively as that is what a filter does, however a theory I have seen is that much of that debris is broken down by bacteria living in the rocks over the large surface area of the pond bottom and if well balanced will keep it unblocked/clean except for the larger sticks etc. The bottom of the pond is usually a haven for anaerobic bacteria, but with a suction grid the flow of water provides slightly more oxygenated water supply to the bacteria on the bottom of the pond, permitting aerobic bacteria to colonize more effectively which is good for the health of the pond.
+
+Often any filters attached to bottom drains or suction grids need the ability to settle/filter fine solids (fish waste) from the water. See more on this under the topic of [Solids filtration](#solids-filtration) as there are a lot of things to consider here as well.
+
+Options include:
+
+* Bottom drain
+
+	This is the most common solution I have noticed for a koi/fish pond. A bottom drain is almost never seen in ecosystem ponds as they usually have rocked in bottoms that prevent the waste travelling to the drain and also rocks can block the drain. 
+
+	+ Positive: Very effective for fish waste and small debris that is not caught by a surface skimmer
+	+ Positive: If working properly greatly reduces larger yearly maintenance (No need for yearly drain/wash)
+	- Negative: More difficult to install, must be done from the beginning as it is hard to add afterwards (you can install on top of liner ones but they are less effective apparently)
+	- Negative: Requires bare liner on bottom of pond for waste to flow to drain (I.e. not able to rocked in the bottom of the pond)
+	- Negative: Ideally requires sloped contour on the bottom of the pond to permit waste to flow to drain
+	- Negative: Ideally (not required) wants aeration on top of the drain (to create an eddy/current-flow of water that hopefully pushes waste down the walls and along the floor back to the drain)
+	- Negative: Often requires extra external filtration (Most common is a solids settling filter like swirl, radial flow, sieve etc)
+	* Some people worry about them leaking or rising, but if installed correctly shouldn't be an issue
+
+* Under-gravel suction grid
+
+	Must be done "correctly". Apparently many are not constructed well. You must use larger smooth gravel to prevent muck accumulating/getting caught in the smaller gravel. It must be easy for the muck to flow past the gravel into the grid pipes. I assume as well the water flow must be sufficient to permit these to work effectively.
+
+	+ Positive: Looks great as you don't see it and can have a rocked bottom still. Sometimes installed in ecosystem ponds, rarely in koi ponds
+	+ Positive: Can be installed more simply as can be constructed entirely on top of the liner
+	- Negative: Likely to need a second pump
+	? Effectiveness compared to bottom drains is greatly debated
+	? Some people say reduces yearly maintenance but the drain/washing still needs to happen just less frequently (maybe 5 years)
+
+* Yearly manual drain and clean 
+
+	This seems to be a very common solution for ecosystem ponds that I have seen on YouTube. This looks like a LOT of work and is stressful on the fish. In most ecosystem ponds there is no bottom drain or suction grid. Instead muck just accumulates under the rocks. Without fish or a very light load stocked in the pond, this is not a huge issue. However it is clear that a LOT of muck can accumulate under the rocks if the bottom of the pond is rocked in and is often much worse with fish stocked in the pond. 
+
+	Also to be clear the issue is not just cleanliness but if you have fish in the pond this can be quite dangerous for them. If the muck remains undisturbed on the bottom it is often ok, however as soon as say larger winds, or a big flush of rain or you working on the pond disturbs the muck on the bottom it can case the water to become toxic for the fish. 
+
+
+I really want the best of both worlds (bottom drain for reduced maintenance, and rocked pond bottom for aesthetics and liner protection) and not sure what is feasible. My plan is to install a bottom drain on the pond at construction including a sloped floor on the bottom contour as it is difficult to do so later. However I still plan to install normal planting shelves, and rock those in like in an ecosystem pond, fully aware that the shelves may accumulate muck and prevent it flowing into the bottom drain.
+
+I have a few ideas I would like to try:
+* Rocked shelves, and pond walls but bottom contour bare liner to bottom drain
+* Add under-gravel pumping or cycle grid (not suction, or maybe cycle suction/pumping regularly) in the shelves (and around edge of bottom contour), the goal is to agitate debris from the shelves and behind the rock walls so it doesn't settle and will be eventually pushed to the bottom drain. Not sure if this will work/help.
+* Create a 3D printed adapter to plug a suction/pumping grid into the drain hole and convert a drain to a grid
+
+One much more expensive option I have seen is cementing in the rocks on the bottom like with pebble crete pools. This fills in the gaps under the rocks preventing accumulation of material underneath them but still looks good. 
+
+
 ## Solids filtration
 
-Usually only considered for koi/fish ponds and is closely tied to the [Mechanical bottom filtration](#mechanical-bottom-filtration). 
+Usually only considered for koi/fish ponds and is closely tied to the [Mechanical bottom waste collection](#mechanical-bottom-waste-collection). The bottom waste collection usually feeds into a solids filter of some kind (usually by gravity feed before the pump to prevent further breakup of the already fine solid waste).
 
-Categories include (Infor from <a href="https://euaquaponicshub.files.wordpress.com/2016/03/challenges-and-opportunities-in-aquaponics.pdf">Challenges and opportunities in Aquaponics</a>:
-* Gravity based (Radial flow, swirl, sediment), successful >100um (density of fish waste slightly higher than water)
+Categories of solids filters include (Information from <a href="https://euaquaponicshub.files.wordpress.com/2016/03/challenges-and-opportunities-in-aquaponics.pdf">Challenges and opportunities in Aquaponics</a>):
+* Gravity based (Radial flow, swirl, sediment), successful >100um (density of fish waste only slightly higher than water)
+* Screening (drum, sieve, screens, belt), variable
 * Media (sand, floating bead), successful >20um
-* Sieve (drum, sieve, screens), variable 
-* Foam fractionation, successful <30um
+* Flotation (Foam fractionation, protein skimmers), successful <30um
 
-Many home hydroponic installs use a gravity based radial flow or swirl filter and then the grow bed takes care of the rest. Hopefully, the remaining particles can be mineralized inside the grow bed, but apparently sometimes it results in clogging and anaerobic areas in the grow beds.
+*Gravity based filters* are very simple and cheap to construct, however their effectiveness is not as good as other filters from everything I have read. I see a lot of these on home built aquaponic systems in the form of radial flow and swirl filters. Many home hydroponic installs use a gravity based radial flow or swirl filter and then the grow bed takes care of the rest. The idea is that the remaining particles that get trapped can be mineralized inside the grow bed, but apparently it often results in clogging and anaerobic areas preventing the mineralization in the grow beds and thus grow beds need to be cleaned out occasionally.
 
-The floating bead filters look quite impressive, and I would like to consider these when I start the aquaponics. A radial flow filter however is very simple and cheap to construct and will probably the first thing I try.
+*Screening filters* are common on Koi ponds and professional aquaponic installations, and probably the best of these is the drum filter. It is fairly robust and automatically cleaning. Additionally unlike gravity and media based filters, most screen filter designs remove the solid waste from the water which is a real bonus and means cleaning can be done much less regularly. Actually skimmer boxes are a form of screening filter with very coarse mesh to block debris. 
 
+*Media filters* are the most common on pool systems. The typical sand filter is used there. These are quite effective for smaller particles as the media gets clogged slowly the gaps get finer and finer eventually causing clogging and thus needing a backwash, but before then it results in finer particles being filtered out. One of the better designs I have seen for media filters is the floating bead filter. However there are disadvantages compared to drum filters in that the solids remain in contact with the water until backwashing time. Also from what I can tell it uses a little more water for backwashing than the drum filters and is rarely automated.
 
-These are just extra random notes I am keeping for later:
-* Radial flow paper comparing to swirl filter: https://core.ac.uk/download/pdf/82493576.pdf
-* Don't place these filters after the water pump, but instead have them gravity fed pre-pump from the bottom drain, to reduce churning up fish waste even smaller
-* Lots of random collection of posts on radial flow filter examples (and others): https://aquaponictrend.blogspot.com/2018/07/aquaponics-radial-flow-filter.html
-  * One idea was a water cooler bottle is a good shape
-* Nice demo of bead filter: https://youtu.be/hhu1bcKmzrM , https://www.1h2o3.com/en/aquatic-ecosystems/aquaculture-supplies/ras-aquaculture-bead-filters/small-and-compact-bead-filters-for-aquaponics/
-* Maybe even try foam fractionation using air pump, though possibly not required as I have not seen it on any home aquaponics solutions yet
-* really interesting read on Aquaponics Solids Filtration, they also have many other FAQ papers that are well written: <a href="https://www.aquaponic.com.au/Solids%20filtration.pdf">https://www.aquaponic.com.au/Solids%20filtration.pdf</a>
+*Foam fractionation filters* are not common on ponds I have seen. I believe the very fine particles and dissolved organic compounds (DOC) that this removes are rarely an issue and break down of their own accord over time but if you have issues with foam forming on the surface of the pond, these filters can help improve that. There are a few koi sites indicating that these filters are useful for water quality, though I get the impression they are optional.
+
+These are just random notes I am keeping for later review:
+* Paper comparing effectiveness of radial flow and swirl filters: <https://core.ac.uk/download/pdf/82493576.pdf>
+* Don't place these filters after the water pump, instead have them gravity fed pre-pump from the bottom drain, to reduce churning up fish waste even smaller
+* Lots of random posts on radial flow filter examples (and others): <https://aquaponictrend.blogspot.com/2018/07/aquaponics-radial-flow-filter.html>
+* Interesting small drum filter: <http://www.dracodrum.com/solum-range.html>
+* Nice demo of floating bead filter: <https://youtu.be/hhu1bcKmzrM> , <https://www.1h2o3.com/en/aquatic-ecosystems/aquaculture-supplies/ras-aquaculture-bead-filters/small-and-compact-bead-filters-for-aquaponics/>
+* Really interesting read on Aquaponics Solids Filtration, they also have many other FAQ papers that are well written: <https://www.aquaponic.com.au/Solids%20filtration.pdf>
+
 
 ### Solids mineralization
 
-TODO: Discuss mineralization of solids and re-addition to the aquaponics system and <a href="https://www.aquaponic.com.au/Solids%20filtration.pdf">https://www.aquaponic.com.au/Solids%20filtration.pdf</a> which discusses in-grow-bed mineralization.
+The solids extracted by filtration can also broken down into more simple nutrients that are then available for plants to utilize instead of discarding them. This process is called mineralization and takes longer than nitrification. In many fish ponds the idea is to simply remove the solids using filtration and discard them onto the garden. In Aquaponics, these solids contain a lot of valuable nutrients like phosphorus that ideally we would like to keep in the system for plant uptake and growth. 
+
+Two common approaches described in the article on <a href="https://www.aquaponic.com.au/Solids%20filtration.pdf">Solids filtration, Treatment and Re-Use</a> are that solids can be mineralized:
+* In situ : Inside the grow beds, which is in reality what happens in many backyard aquaponic systems (though ineffectively)
+* As a separate process : Solids filtered and mineralized using a aerator externally to be re-introduced to the pond later
+
+It proposes that removing solids from the water and mineralizing them separately is preferable as it gives more control over the parameters to prevent issues in water quality and often the in grow-bed mineralization is ineffective and can cause anaerobic areas to form in the grow bed. 
+
+The basic process for solids mineralization is as simple as using an aerator on the concentrated solids until they are all broken down by aerobic bacteria. There are other more complex methods used in sewerage treatment plants, but this seems to be the most common solution.
+
 
 ## UV Steralization filter
 
@@ -422,17 +442,17 @@ Power reduction and solar (small pump 24/7 larger filtration pump during day)
 
 My choice: Natural almost kidney bean shape
 
-This decision is more about asthetics, but some thought needs to be put into current flow and ensuring no stagnant areas of the pond
+This decision is more about aesthetics, but some thought needs to be put into current flow and ensuring no stagnant areas of the pond
 
 Options:
 
 * Circle
 	+ Positive: Easiest to understand current flow, helping to keep it clean and reduce maintenance
-	* Not great for a natural look, is good for formal look
+	* Good for formal look
 
-* Sharp corners (like a square)
-	+ Positive: Difficult to ensure current flow in corners and thus keeping them clean
-	* Not great for a natural look, is good for formal look
+* Sharp corners (like a square or rectangle)
+	- Negative: Difficult to ensure current flow in corners and thus keeping them clean
+	* Good for formal look, often easier to fit with existing hardscape
 
 * Natural other shape (Kidney bean common)
 	+ Positive: No sharp corners to prevent water flow
@@ -441,48 +461,102 @@ Options:
 
 ## Pond location/positioning
 
-Honestly this is what I am having the most difficulty deciding on. It is something I cant afford to get wrong and has so many considerations.
+The general positioning of the pond is the most important early decision that needs to be made. Bad selection in this can not be fixed simply and may impact you appreciation of the pond, the maintenance required and the health of the pond.
 
-My choice: Not sure?? IMPORTANT cant change afterwards!
+Some key issues to consider in identifying the best position for a pond include:
 
-Key points here that I have been considering:
-* Ideally visible from common living areas (especially waterfall and plants)
-* Approachable for feeding fish
-* Avoid debris from nearby trees
-	Was planning shade provded by nearby trees (deciduous, everyone advises against it)
-	Now considering a shade sail and more careful planting near pond
-* Many trees/plants are poisoness for fish
-* If not highly elevated in landscape, consider water runoff in large rain downpours to prevent runoff entering pond, also hydrostatic-pressure
-? Sun vs shade
-	Ecosystem ponds all tend to want full sun for plant growth
-	Koi ponds and Aquaponics all tend to want to limit sun exposure for the pond itself to limit algae growth and prevent fish getting sunburn :-)
-		But then plants suffer
-	Aquaponics covers the pond for full shade and then places growbeds externally in the sun
-	Can we have a pond where there are some shallow planting areas in sun but deep are in shade?
-	Shade tolerant aquatic plants: 
-	Can we design so that sun hits aquatic plants and NOT the water?
-	<https://www.woodvalefishandlilyfarm.com.au/products/plants/water-plants/shade-tolerant-water-plants/>
-* other regulations (for me pool fence proximity, proximity to retaining wall effectively increases height of retaining wall by pond depth when considering wall loading)
+**Sun vs shade**
 
+Ecosystem ponds all tend to want full sun for plant growth. Without enough sunlight you will be limited on the selection of aquatic plants available to you to [shade tolerant aquatic plants](https://www.woodvalefishandlilyfarm.com.au/products/plants/water-plants/shade-tolerant-water-plants/), as sun loving plants will not grow as well and the [nitrate removal](#nitrate-removal) may be less effective. 
+
+Many Koi ponds and ponds used in Aquaponics tend to want to limit sun exposure on the pond itself to limit algae growth and prevent fish getting sunburn :-) Often in these cases a bog filter or aquaponics grow bed is placed separate from the pond in full sunlight to permit effective [nitrate removal](#nitrate-removal)
+
+The other thing to consider with this, is a shaded pond is likely to have smaller fluctuation in water temperatures resulting in a healthier ecosystem. In my consideration for the pond position, I am thinking of locating a position where most maybe 3/4 of the pond is shaded and the other 1/4 is in the sun. I will try and locate planting pockets in the sunny section, I also plan to have an external aquaponic grow-bed that will be used for nitrate removal that is positioned in full sun.
+
+With the water restrictions more common and the heat we get in summer here, I also believe a pond that is shaded in summer will be beneficial where I live. 
+
+One common option for shade, is to place a shade-sail across the pond. This is effective especially when a pond is near an existing hardscape as it can look like it is just part of the existing hardscape and will not drop lots of leaves into the pond.
+
+
+**Visibility from living area**
+
+Ideally the waterfall of the pond will be visible from common living areas as this will permit appreciation of the pond during winter when we are spending less time outside. If there is a natrual slope to the property, ideally you want to place the pond below the house so the whole surface of it is visible from the living areas. For me I an stuck with an incline from the house and so the only aspects really visible will be plants and the waterfall.
+
+Position yourself from primary viewing areas and consider what the view will look like.
+
+Also consider the approachability of the pond. Is it easy to get to the edge of the pond to feed the fish? Does the approach look natural and inviting.
+
+
+**Water run-off**
+
+When placing the pond at a low point in the property, often when it rains heavily you will get a lot of run-off water from the surrounding landscape drain into the pond. This can flush lots of nutrients into the pond causing algae blooms but also flush toxic chemicals (like herbicides, pesticides from the lawn/garden) and other debris into the pond. 
+
+Ideally this means the normal place you would usually consider is less than idea for the positioning of the pond.
+
+The best solution to this is adding large enough berms around the pond to divert any run-off around the pond. No matter what you do though, there is some chance you will get run-off in really heavy rains.
+
+**Hydrostatic pressure**
+
+Similar to run-off, when placing a pond under a retaining wall or at a low point in the yard, you can get pressure under the liner which is strong enough to lift the boulders on top of it and for a bubble that rises the liner to the surface. 
+
+People talk about a high water table. This is caused by the pressure of water in the ground above the pond trying to drain through the path of least resistance. When placing a pond in a high spot, often there is little earth above the pond that can exert this kind of pressure. 
+
+I have seen for example after lots of rain (after the rain has stopped it is easiest to see this), my back yard is sometimes water logged and not from the surface. I see for example holes in the nearby bitumen on the road leaking water in the middle of the road coming up from under the ground. This shows that there is ground-water that has pressure exerted from a place higher than the location of the road forcing the water to escape here. 
+
+The easiest solution to this problem is to create a path of least resistance for the water to drain from underneath your pond liner by installing a French drain under the pond liner draining to a location further down-slope that exits lower than the pond. The outlet must be lower than the pond for this to be effective. 
+
+**Soil loading and retaining walls**
+
+Another thing to consider is that if placing a pond directly below a retaining wall, there is the chance that you will compromise the footing of the retaining wall and extra pressure exerted by the soil above the retaining wall may increase the chances of pond wall collapse. 
+
+This will depend a lot on the soil characteristics, proximity of the pond to the wall and depth gradient of the pond itself. 
+
+
+**Avoid toxic or deciduous trees**
+
+Nearby deciduous trees and other things that may drop a lot of debris into the pond will cause issues for water quality or increased maintenance. In my case with limited space, and wanting to shade the pond I do plan to place it near deciduous trees and have other measures like netting in Autumn to help reduce the maintenance required. 
+
+The other thing to be very careful about is that there are many plants that are toxic to fish. You will find various lists online including:
+* <https://pondinformer.com/plants-toxic-to-pond-fish/>
+* <https://www.funkykoi.com/list-of-plants-toxic-to-pond-fish/>
+* <https://www.gardengatemagazine.com/articles/flowers-plants/plant-guide/poisonous_plants/>
+* <https://www.hyanniscountrygarden.com/wp-content/uploads/2018/10/plants-harmful-for-pond-fish.pdf>
+
+
+**Local regulations**
+
+This will differ by area, for example where I live I am permitted a pond (not a swimming pool) without a safety fence. There are however other restrictions for example with retaining walls not being permitted within a certain proximity of the boundary fence of the property, the same reasons for this are likely to apply to ponds excavation. 
+
+Also you may need to address the impact the pond will have on the flow of water through the property to ensure that it doesn't negatively affect the drainage of adjoining properties etc.
 
 
 ## Pond bottom contour and shelves
 
 For an ecosystem pond we usually want to create a tiered set of shelves usually of different heights, based on planting zones. This is different for a koi or fish pond where often we want fairly steep walls and fewer shelves.
 
-When deciding on if you want to place shelves in a pond consider:
-* Aquatic plants require different depths of water, most prefer shallow water
-* Steeper walls have higher chance of collapse
-  * Shelves are often cheaper/simpler to construct than steep walled ponds because of this
-* Shelves provide locations for predatory birds to stand an stalk fish
-* Adding shelves reduces the volume of water in the pond (more temperature fluctuation etc)
-* Many insects and other wildlife require shallow and/or still water to thrive
-* Shelves are less effective for koi ponds that use a bottom drain as they often trap waste
+**Tiered shelves**
 
-For these reasons, koi and fish ponds often dont have shelves and are steep walled but ecosystem ponds usually do. For my pond I plan to try using shelves. I have future plans to try different things to improve the issue of accumulated waste in the shelves but not to worry about to start with (regular cyclic suction/pushing unger-gravel grid).
++ Positive: Good for aquatic plants that require shallow water (alternative is floating baskets in deep ponds)
++ Positive: Safer/easier to exit if an animal or child falls into the pond
++ Positive: Less chance of wall collapse, usually cheaper to construct direct onto bare earth
++ Positive: Shallow planted shelves required for beneficial insects and frogs
+- Negative: Shelves reduce volume of water and all the implications that comes with in water quality etc
+- Negative: Shelves give areas for predators like Herons to attack your fish
+- Negative: Rocked in shelves often trap fish waste causing water quality issues and do not work as well with a bottom drain installed
+
+**Steep walls**
+
+- Positive: Steep walls increase volume of water and all the implications that comes with in water quality etc
+- Positive: Steep walls prevent predators like Herons from attacking your fish
+- Positive: Steep walls are often smooth and permit flow of fish waste to a bottom drain
++ Negative: Aquatic plants typically need to be installed in floating baskets
++ Negative: More risk for animals and children drowning, you may consider fencing in the pond to keep children safe
++ Negative: To prevent wall collapse it is common to install concrete collars or line the pond with concrete, or place retaining walls under the liner
 
 
-When using shelves in a pond there are a few guidelines (that vary a bit depending on who you ask). Following is a list of things to consider (and more detail about specific depths etc that seems to vary between person below):
+For these reasons, Koi ponds often don't have shelves and are steep walled but ecosystem ponds usually do. For my pond I plan to try using shelves. I would like to keep fish though as well and have some plans to improve the downsides of using shelves in my pond. 
+
+When using shelves in a pond there are a few guidelines as to what height/size they should be (that vary depending on who you ask). Following is a list of things to consider (and more detail about specific depths that seem to vary between depending on who you ask):
 
 * Shelve widths smaller than 30cm are difficult to seat rocks on, may collapse (depending on depth) and do not provide much space for planting
 * Shelves near waterfall need larger width to support the weight and size of large character boulders (45cm+ width)
@@ -519,7 +593,8 @@ Given all the above variations, I decided that I would like to do the following:
 * Minimal shelf width of 30cm, with 15-20cm rocks (even round) gives 10-15cm planting space
 * Shelf under waterfall >= 45cm
 * 2x planting pockets >= 45cm
-* Drop to 30cm at both approach points (not full bottom depth)
+* Drop to 30cm at approach points (not full bottom depth)
+* The 30cm shelf max depth around perimeter of pond was chosen to be in the spirit of the local safety regulations for pools. Pools less than 30cm deep do not require safety fences (this rule doesn't apply to ponds), but my assumption here is that a 30cm depth if a child does fall in is better than say a 45cm shelf. So I intend to have a 15cm shelf the majority of the perimeter and a 30cm shelf where we will be feeding the fish.
 
 
 
@@ -549,15 +624,15 @@ Expert tip: If you do go with a rubber liner, Leidner recommends buying a few ba
 
 ## Rocks on bottom or not
 
-Most ecosystem ponds have rocks on the bottom they look great and it is beneficial for smaller fish, insects and other aquatic animals like frogs. Most koi ponds have bare liner all the way and are deep from the start as the koi produce huge amounts of waste and this prevents the yearly maintantence of emptying the pond by maintaining cleaner water all the time. 
+Most ecosystem ponds have rocks on the bottom they look great and it is beneficial for smaller fish, insects and other aquatic animals like frogs. Most koi ponds have bare liner all the way and are deep from the start as the koi produce huge amounts of waste and this prevents the yearly maintenance of emptying the pond by maintaining cleaner water all the time. 
 
-Using the pond for aquaponics we would probably be mor elike a koi pond, however I want to try and acheive the best of both worlds. 
+Using the pond for aquaponics we would probably be more like a koi pond, however I want to try and achieve the best of both worlds. 
 
-The rocks and planting pockets make the ecosystem pond more suitable for other aquatic creatures, insects and small fish, and also serve as a way for trapped animals to escape if necessary. I am actually considering rocked bottom and planting pockets in the shallows and bare exposed liner and erated bottom drain for the deeper shelves. 
+The rocks and planting pockets make the ecosystem pond more suitable for other aquatic creatures, insects and small fish, and also serve as a way for trapped animals to escape if necessary. I am actually considering rocked bottom and planting pockets in the shallows and bare exposed liner and aerated bottom drain for the deeper shelves. 
 
 My idea of using the pond for aquaponics means it is much more like a koi pond and the regular evacuation of fish waste is important. This will permit me the ability to not have to drain the pond every year I think to clean out the sludge forming under the rocks. We will see though. if all else fails I will then just do big rocks (not small) in the shallows with planted pots. But I think this isnt as good for other creatures.
 
-I have also considered adding under-gravel suction grid for the shallows to help. The goal would be every day to reverse this to ensure no detritus is lodged inbetween the rocks and flush it out. Not sure if this will work. I know if you dont do it regulary you should never do it as it will cause real issues dislodging the waste but doing it each day might be helpful and cause it to flush to the bottom drain.
+I have also considered adding under-gravel suction grid for the shallows to help. The goal would be every day to reverse this to ensure no detritus is lodged in-between the rocks and flush it out. Not sure if this will work. I know if you don't do it regularly you should never do it as it will cause real issues dislodging the waste but doing it each day might be helpful and cause it to flush to the bottom drain.
 
 However I also want it to be suitable for frogs, for small fish, insects and other aquatic creatures. To achieve this I need planting and gradual slopes near the edges with protected coves. For frogs my understanding is they want basically still shallow warm water with planted cover. So I may have a section like that which is effectively separated off from the rest of the pond with no real current flow to it. More detail later.
 
@@ -567,7 +642,7 @@ My thinking is the larger fish will not spend much time in the shallows and it w
 
 
 ## Rock choice
-Rock types, toxicisity and suitability
+Rock types, toxicity and suitability
 Angular vs smooth
 Size and selection (what to put where as well)
 
@@ -579,22 +654,34 @@ Planting pockets, types of plans and shelf depth etc
 
 ## Maintenance
 
+TODO: Write this section
+
+I am expecting the following maintenance tasks:
+* Daily: Feeding fish (Long term will consider an automatic feeder)
+* Weekly: Cleaning out skimmer or intake bay (Long term will consider skimming into a drum filter with auto cleaning hopefully changing this to monthly)
+* Weekly: Cleaning out the waterfall and solids filter (Long term will consider drum filter and aquaponic grow-bed for bio-filtration and avoid clogging the bio sponge in waterfall)
+* Weekly: Water top-ups (Long term considering auto top-up)
+* Weekly: Water test (Long term will consider auto-test, maybe make chromatic with peristaltic pump like we see on some pools but using pond reagents)
+* Yearly: Pruning and cleaning out aquatic plants
+* Bi-Yearly: Drain and clean pond (Will like to try and avoid this one through design, will see how ideas work out)
+
+
 ## Pump location
 
-Discuss head, efficieny and piping etc
+Discuss head, efficiency and piping etc
 
 * Pump in skimmer box
 	This is the Aquascape way. They typically have a skimmer and nothing ese.
 
-* External pump bottom of pond
-	This seems uncommon these days. 
+* Pump bottom of pond
+	This seems uncommon these days as is pumping the water with low oxygen content. 
 
-* Underwater pumps
-	?Efficiency?
+* Underwater pumps vs External pumps
+	Efficiency?
 
-* External pumps?
-	?Efficiency?
-	?Maintenance?
+* External pumps
+	Efficiency?
+	Maintenance?
 
 
 
@@ -643,7 +730,7 @@ With that said, I plan to address the safety aspect of the pond in the design th
 
 # History
 
-Throughout the process I have worked on a few different pond designs based on where they were situated. This page documents prior stages in the pond design so I can keep a record of major changes and thoughts.
+Throughout the process I have created a few different pond designs based on where they were situated. This page documents prior stages in the pond design so I can keep a record of major changes and thoughts.
 
 This page is largely for my benefit and is probably of little use for others.
 

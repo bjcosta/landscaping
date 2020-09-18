@@ -20,6 +20,8 @@ This is largely because we don't normally consume that fruit and I don't know if
 
 That said, if the goal isn't production OR I want to achieve something else by planting them then there are other good causes to do so. Lilli-Pillies for example may contribute in other ways than production of useful fruit and we need to decide what tradeoffs to make.
 
+TODO: found this which is saying much of what I am thinking: https://youtu.be/mbee-Mv33QE
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177071585-1"></script>

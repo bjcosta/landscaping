@@ -18,10 +18,6 @@ I want my backyard to be:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1Z0dSOvgFRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Existing  |  Proposed
-:---:|:---:
-![history/stage_8/existing.png](history/stage_8/existing.png)  |  <a href="history/stage_6/perspective.3.png">![history/stage_6/perspective.3.png](history/stage_6/perspective.3.png)</a>
-
 
 # Contents
 {:.no_toc}
@@ -39,6 +35,12 @@ I love gardening, love eating food I have grown, want to make my yard look good,
 My approach is very design oriented, largely because as an engineer that's just how I like to do things (regularly to the rolling eyes of my wife) :-) 
 
 On this page you can expect to find the various aspects I have considered in the design of my garden and how they work together to hopefully result in a beautiful and productive backyard. This page is place to store my thoughts (so I don't forget things). Maybe someday I will be able to reduce it down to something useful for others to use but you are welcome to take it as it is and use any ideas in your own backyard.
+
+Existing  |  Proposed
+:---:|:---:
+![history/stage_8/existing.png](history/stage_8/existing.png)  |  <a href="history/stage_6/perspective.3.png">![history/stage_6/perspective.3.png](history/stage_6/perspective.3.png)</a>
+
+TODO: Add overview diagram showing where everything is placed, flow of resources through the system (food, waste, water, sun, electricity, pruning's)
 
 ## Goal statement
 
@@ -125,10 +127,9 @@ Overall, we have made use of a few things to achieve these goals:
 
 There are various tools that can be used to model the sunlight and shading for a project like this. I have documented more information about this on the separate page on [Thoughtful Solar Design](sun/README.md)
 
-# Water management
+# Water flow
 
 There is a lot of literature on this and it is a big focus in many permaculture designs. It is very important to think about in the current Australian climate when we regularly have water restrictions with hot dry summers. The idea is to consider the flow of water through the property from all sources, to slow the movement of the water down and direct it to achieve better passive water retention and provide water storage for dry times. 
-
 
 Below is a small diagram showing some of the water flow considerations I have made in my design so far, I wont be able to afford all of them to start with though:
 
@@ -166,10 +167,18 @@ TODO Add to this list
 Good info about swales:
 * [Constructing Urban Swales with Weeping Tile & Mulch](<https://www.youtube.com/watch?v=c0DedomHqVs&ab_channel=VergePermaculture>)
 
-
 ## Evaporation
 
 By completely mulching the garden area and adding trees to provide a shade canopy with layered shrubs etc, we are planning to design such that the property does its best to retain water where it is needed and has no directly exposed soil. 
+
+## Retention
+
+In addition to preventing water from running off using swales and evaporating using mulch, we also want to consider the water retention capabilities of our soil. Sandy soil doesn't retain water at all and acts like a strainer, clay soil causes water to pool stagnate like a bowl. But the goal here is to improve the soils water retention capabilities such that it acts more like a sponge. It stores water but along with air pockets.
+
+There are many ways of achieving this, the most commonly suggested way is by adding lots of composted organic matter to the soil. Another option I have seem some research on recently is using [biochar](#biochar). This is basically charcoal, usually produced by burning organic matter in an oxygen depleted environment. I have more information on this elsewhere, but the biochar ideally will be inoculated with nutrients and soil microorganisms before adding to the garden. 
+
+I plan to dig a significant amount of organic compost mixed with charged biochar into my garden. 
+
 
 ## Irrigation
 
@@ -224,7 +233,11 @@ Another comment was that the lead levels in the subsoil were quite high (though 
 
 Additionally I plan to not grow leafy greens and other highly impacted plants in the main garden, but instead use raised beds and aquaculture to grow these.
 
+TODO: Discuss adding organic matter
+TODO: Discuss using biochar on acidic soils, its nutrient and water retention capabilities while still permitting oxygenation
+
 I have a lot more information about this documented on the page about [Soil analysis and remediation](soil/README.md) where I will also discuss plants to improve the quality of the soil in a way that reduces maintenance over time.
+
 
 
 # Retaining wall
@@ -342,6 +355,17 @@ TODO:
 
 TODO
 
+# Biochar
+
+TODO: Some great references (discuss pros/cons, not always pro but can be useful for water and nutrient retention and soil addition for acidic soils):
+* <http://www.ithaka-journal.net/wege-zu-terra-preta-aktivierung-von-biokohle?lang=en>
+* <https://www.sgaonline.org.au/is-biochar-wonderstuff/>
+* <https://en.wikipedia.org/wiki/Biochar#Soil_amendment>
+
+# Chop-drop
+
+TODO: Deep rooted (Comfrey for example)
+
 # Symbiotic mycelium
 
 TODO Layer wood mulch on top of soil and inoculate with edible mushroom mycelium
@@ -449,6 +473,7 @@ It is not just reducing maintenance, but also permitting the system to work in e
 
 TODO: Good things about permaculture
 TODO: Aspects of permaculture I am not following and why
+Wow just found this. Fully agree: https://youtu.be/mbee-Mv33QE
 
 
 # Process
