@@ -28,6 +28,9 @@ I want my backyard to be:
 
 # Introduction
 
+
+TODO: This page is getting too large, I need to summarize things better and link to more detail elsewhere to make it more easily consumable
+
 **Why am I doing this?**
 
 I love gardening, love eating food I have grown, want to make my yard look good, married to a marine scientist (who likes conservation and understanding of ecosystems), and I want to make a positive impact on the world through reducing my external consumption. 
@@ -42,7 +45,7 @@ Existing  |  Proposed
 
 TODO: Add overview diagram showing where everything is placed, flow of resources through the system (food, waste, water, sun, electricity, pruning's)
 
-## Goal statement
+**Goal statement**
 
 The purpose of the goal statement is to help us imagine what the end result might be like and ensure that decisions made along the way contribute to the high level outcome instead of getting lost in the details of specific technologies (I can't help myself though I MUST have a pond and I focus on details too quickly).
 
@@ -110,6 +113,63 @@ Two examples of this in the design are:
 **Tree selection** : A good choice for trees in my area based on local ecosystems would likely be some kind of Eucalypt, or Lilli Pilli etc. But in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees which may require extra maintenance that a native would not. Lilli-Pilli trees is able to produce fruit that we may use, it is not fruit we will regularly use however and so the space would largely be wasted.
 
 
+# Construction Plan
+
+More information on: [Staged Garden Construction Plan](stages/README.md)
+
+It is not feasible to create an ecosystem like this all at once but the process can be accelerated so instead of taking 100 years it can take a few years (usually about 10 apparently for a stable ecosystem), but it needs to be planned well in such a confined space to avoid too many mistakes that are difficult to rectify. For example, swales should really be designed before starting planting (at least in my constrained space). 
+
+The idea of accelerating ecological succession is well covered in lots of the permaculture literature. I have more information where I describe my specific [Staged Garden Construction Plan](stages/README.md) and how I expect to achieve this. Unlike other gardens I often see in permaculture designs, I do expect my design will take more inputs and achieve less reuse as part of construction. There are various reasons for this including: aesthetics, space requirements and startup time. But the end goal is to reach a stable ecosystem that looks good in a short space of time but is very much like the other typical permaculture ecosystems once established, reducing inputs by using natural cycles in the long run.
+
+Below is a summary of the main processes I expect I will be following to start with.
+
+**Base infrastructure**
+
+These are the key items I feel I should complete up front early as many other things will depend on this work.
+
+* Construction of structural elements
+  * Retaining wall for aesthetics, drainage, light penetration and space usability
+  * Swales, and plumbing for water flow and management
+  * Pond as it will be difficult to create later and will start to setup a keystone of the ecosystem
+    * I will need to make this a self sustaining planted ecosystem pond with maybe a few small fish to start with. The extra ideas improving density/stocking rates, aquaponics, fish diversity, improved filtration, intake bays can all be done later.
+* Subsoil preparation to help accelerate setup of the ecosystem
+  * Ensuring sufficient drainage around retaining wall to prevent stagnant pooling of water above it
+  * Ripping clay subsoil where necessary
+  * Adding charged biochar for raising pH and increasing water and nutrient retention
+  * *Maybe* adding lime and/or clay-breaker to subsoil/topsoil if necessary for initial application
+* Top soil preparation to help accelerate setup of the ecosystem
+  * Add bacterial rich organic matter in the form of compost or manure on top of soil first
+  * Add cardboard weed barrier layer
+  * Add 10cm thick nutrient dense layer (compost or manure, or maybe fungal dominant would be better here)
+  * Add 15cm thick woody layer (Full tree wood chips)
+* Add any irrigation planned to nurture plants early in the process
+  * Hopefully swales and house roof run-off/capture are sufficient long term for most watering (once ecosystem is established)
+  * Likely we will occasionally still need to irrigate during summer from stored water sources because of space limitations and our dry hot environment
+  * During the pioneer stage we plan to also plant out some non-pioneer trees, they will need nurturing in the early years until the ecosystem is established
+* Plant out pioneer plants and trees
+  * Add larger non-pioneer trees as they need time to grow (nurturing them with irrigation, artificial shade and some inputs as necessary like fertilizations etc.) 
+  * Add strong tap root plants to help break up the clay subsoil and raise nutrients like comfrey
+  * Add nitrogen fixers and ground covers like clover
+  * Add sacrificial fast growing trees (like acacia and bananas) to nurse other plants earlier before the larger trees are established
+  * Add hardy flowers to help attract pollinators
+  * Maybe grow a phytoremediation crop like sunflowers (if necessary) and discard it, though will set back our ecosystem a bit
+
+**Incremental changes**
+
+After the above foundational work is done, the work listed below that follows can be much more incremental and ordering is less important.
+
+* Chooks (Want early for composting and food)
+* Shrub layer when pioneers are sufficient to nurse them
+* Edible mycelium once sufficient shaded areas (probably on second round of wood chips)
+* Shelters for beneficial predators like bat boxes
+* Pond aquaponics
+* Plant out desired shrubs, ground covers flowers herbs etc.
+* Underground water storage (under proposed seating area using aqua blocks)
+* Hardscaping and seating area near pond
+
+There are many more things I will consider as you can see in the below categories. But I expect those to be added incrementally. As I try different things, observe the outcomes and iterate. I will try and continue to document the technologies I am trialing and my experiences.
+
+
 # Sunlight
 
 More information on: [Thoughtful Solar Design](sun/README.md)
@@ -126,6 +186,8 @@ Overall, we have made use of a few things to achieve these goals:
 * Make use of artificial risers like trellises/arbors to raise creeping plants higher and get more sunlight (Make more use of vertical space)
 
 There are various tools that can be used to model the sunlight and shading for a project like this. I have documented more information about this on the separate page on [Thoughtful Solar Design](sun/README.md)
+
+There are other technologies related to this I may consider if necessary if I think they will be helpful down the track. Including solar absorption and thermal storage for maintaining a more consistent temperature through winter in some areas (that are shaded in summer). Or adding solar reflectors in key locations to make better use of the light otherwise wasted (might be a bit unsightly depending on where they are located unless say on roof or other hardscape areas).
 
 # Water flow
 
@@ -377,6 +439,77 @@ TODO Layer wood mulch on top of soil and inoculate with edible mushroom mycelium
 Honey/Native
 TODO Will see if possible for native, might be a bit cold for them but less space required (but no honey really this far south), honey bees more difficult as they need significant space for flight path I don't think I have. Also both need positions with early morning sun and shelter from midday heat in summer. Under a tree on western side is best
 
+# Pests
+
+The philosophy I plan to take with pest management is to create an ecosystem that is suitable to a diverse range of animals and plants and that will provide sufficient habitat for different predators to keep the pests under control. So rather than manually spraying, trapping, baiting pests all the time, we instead ensure there is habitat for predators of those pests and wait for those predators to move in.
+
+One video I found informative and describes the process and experience of someone from Canada using this method to manage pests can be seen at <https://youtu.be/8SGEkQ9vFec>. In his experience when you start spraying pests, you become the predator and from that point on you will need to continue to spray to keep the pests in check. If however you promote an environment which is ideal for the natrual predators to live in and you leave the pests alone to provide a food source, the natural predators will arrive to eat the pests and hopefully stay or regularly return to keep the pests in check.
+
+There are many different types of predators that exist for different problems. Observation becomes important here. You can plan for issues you can anticipate but things will arise that you failed to anticipate and need to reconsider. Creating as diverse an ecosystem as possible you are ensuring there is habitat for many different species and are less likely to find specific pests getting out of control.
+
+It is important to understand that a few pests are NOT a problem as you will always need to ensure there is sufficient food source for the predators or they will just leave. 
+
+Some examples of specific actions I plan to take to encourage specific predators in our garden include:
+
+* Suitable fish stocked in the pond to eat mosquito larvae (non invasive species though)
+* Microbat boxes to encourage native bats to colonize and manage mosquitos and other insects (Idea from: <https://youtu.be/WOeTdUqAOWY>)
+* Rockery around pond to encourage lizards
+* A pond with shallow planted sections to encourage frogs
+
+It may also make sense in some cases to occasionally attract pests to the garden to provide food sources for predators and encourage their presence or event to consider the pests as an input to the system for feeding say chickens and fish. 
+
+As an example, I would like to consider adding a solar powered floating UV or white/blue light that turns on automatically early evening floating on the surface of the pond. The goal here is to *attract* insects that otherwise might be dispersed elsewhere which may land on the surface of the pond and be eaten by the fish and the concentration of insects may also attract microbats. By doing this we may be able to direct the insects to areas that are less bothersome to us and attract predators that will keep them under check.
+
+There are pests which I expect to be taken care of by the ecosystem we are going to create almost automatically like aphids and lady beetles to prey on them. I am not going to address these specifically unless I observe specific problems.
+
+On the other end of the spectrum, I also have noticed some pests already in our back yard and want to think through these early on to consider how they might be managed.
+
+*European paper wasps*
+
+We currently have *LOTS* of these around and apparently not much except the occasional unsuspecting frog will eat them. A few  close relatives and friends are highly allergic to the wasp stings and they are very aggressive which is a bad combination.
+
+If they were not so aggressive and dangerous to people we know, then these wasps would themselves be very useful predators in the garden. In fact we also have some solitary wasps that are quite good at keeping other insects under control and not at all aggressive.
+
+One specific issue I have observed with the paper wasps is that when we use of our pool and splash water around the edges, the wasps come down to consume the water splashed onto the pavers and can easily be trodden on causing a nasty sting. My current plan to mitigate this problem is that I expect the pond and especially around the waterfall will instead become a regular source of water for them making the transient pool water a less desirable source and moving them away from our common usage areas. I am not sure if this will however make the environment more favorable for them, which I hope is not the case.
+
+*Snakes*
+
+Many snakes are good predators for the garden, keeping rodents under control. However we do get some dangerous species here in NSW Australia. I think the best option is to manage the environment so if snakes do arrive, we will be able to easily see them and not accidentally step on them or that available hiding locations for the snakes are in locations that we do not typically visit.
+
+For example, placing the rockeries for the pond largely on the remote side of the pond that is not easily accessible means any snakes will likely be separated from us by the body of water. Also I expect most frequently used paths in our yard to not be overgrown but be lawn so snakes would be easily visible if they do arrive.
+
+Other things to consider, are properly enclosing any chicken roost and nesting boxes to snake proof them (not as easy as it sounds) so they don't have access to eggs. 
+
+
+*Spiders*
+
+Most spiders are beneficial to have in our garden and all but my youngest son will welcome them :-)
+
+We do occasionally get some dangerous spiders though.
+
+Red back spiders are not very aggressive and are very sedentary so bites can be easily avoided through care when gardening.
+
+Funnel web spiders though can be quite dangerous and we will want to mitigate this somehow. Funnel webs usually desire very specific locations for nesting where they can create their characteristic funnel web. Apparently they like damp places so it is possible we may see some more of them.
+
+Apparently centipedes are common predators for funnel webs and like similar habitats.
+
+
+*Rodents*
+
+I know rodents are high on the minds of people in my neighborhood as they were raised as a concern for a local community garden project. The key to managing this (without bringing in predators for rodents like cats, which will also kill snakes but also other beneficial animals like frogs, lizards, bats) is to reduce their access to food sources like compost bins and chicken food scraps. This can be managed using well designed chicken feeders and compost bins. Instead of composting, I am considering composting worm tubes which if designed properly can limit access to the scraps.
+
+
+# Diseases
+
+TODO: More detail 
+
+The plan to avoid disease are a few fold:
+* Promote healthy plants through a healthy environment (soil, sun access, water access, aeration, drainage etc)
+* Place species in the design in locations they are most suited
+* Plant a diverse range of plants and observe what thrives in different locations
+* Replace plants that fail to thrive with better suited species
+* Ensure sufficient light and aeration (fungal disease is common)
+
 
 # Aquaponics
 
@@ -468,12 +601,18 @@ As a engineer, I enjoy creating small device to help me out. I hope as time goes
 
 It is not just reducing maintenance, but also permitting the system to work in extended absences like when we go on holidays for a few weeks. No automated system is fool-proof, but with sufficient feedback and notification events we can ideally know if manual intervention is required and call up a friend to come and help if we are in dire need and are remote.
 
+# Other ideas
+
+* Thermal regulation (cooling + auto watering) or heating <https://youtu.be/nOYxVKcCfVY?list=WL&t=353>
+* Pond advantages in permaculture <https://youtu.be/x9v2u9qiRsM>
+
 
 # Permaculture
 
-TODO: Good things about permaculture
-TODO: Aspects of permaculture I am not following and why
-Wow just found this. Fully agree: https://youtu.be/mbee-Mv33QE
+* The 12 Principles of Permaculture <https://en.wikipedia.org/wiki/Permaculture#Twelve_design_principles>
+* TODO: Good things about permaculture
+* TODO: Aspects of permaculture I am not following and why
+* Just found this and I agree with his philosophy : <https://youtu.be/mbee-Mv33QE>
 
 
 # Process
