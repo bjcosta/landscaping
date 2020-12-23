@@ -69,6 +69,9 @@ References:
 
 # Good references
 
+* GROW LOCAL Illawarra Edible Garden Guide : <https://www.shellharbour.nsw.gov.au/sites/default/files/documents/general-information/sustainability-home/growlocalillawarraediblegardenguide.pdf>
+  * Fantastic reference for my particular region (Illawarra)
+* Edible Street and Park Trees for the Illawarra : <http://static1.1.sqspcdn.com/static/f/145447/1828701/1219056388693/Fruiting+Park+and+Street+List+for+the+Illawarra.pdf>
 * Growing fruit trees in the back-yard : <https://www.davewilson.com/home-gardens/backyard-orchard-culture>
   * One key idea is going multiple trees together in the one planting hole, to get a spread of fruit times.
 
@@ -128,6 +131,7 @@ There are a few key locations that have specific requirements, these are mostly 
   * Nectarine (Prunus)
   * Peach (Prunus)
   * Sweet Cherry
+  * Japanese Chestnut (https://en.wikipedia.org/wiki/Castanea_crenata) good size
   * TODO Other nut trees might be suitable as well?
 
   Purposes of tree at this location:
@@ -140,6 +144,20 @@ There are a few key locations that have specific requirements, these are mostly 
   * Proximity to pond and toxicity for fish
   * Shape and proximity of branches to pool fence (for pool safety, there are regulations, but probably far enough away)
   * Size is important for impact on the sunlight to plants on south boundary fence
+
+TODO Document fish toxicity either here or under pond section:
+* https://sciencenotes.org/yes-apple-seeds-and-cherry-pits-contain-cyanide/
+* 100g seeds has 70mg HCN : https://monicawilde.com/chemicals-in-plants-%EF%BB%BFcyanide/
+* Maybe relevant: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3793392/
+* https://www.sciencedirect.com/science/article/pii/S1110492914000198: >20ug per liter is toxic to fish
+https://monicawilde.com/chemicals-in-plants-%EF%BB%BFcyanide/
+https://www.researchgate.net/profile/Caroline_Orfila/publication/259514245_Amygdalin_content_of_seeds_kernels_and_food_products_commercially-available_in_the_UK/links/5b33b48eaca2720785eac5a4/Amygdalin-content-of-seeds-kernels-and-food-products-commercially-available-in-the-UK.pdf 1mg/g per cherry seed
+
+
+TODO: https://www.youtube.com/user/stephenlegaree14 This channel is amazing. He tests various garden hypothesis
+TODO: Look at https://puyallup.wsu.edu/lcs/ for gardening myths and very well researched information. References publications etc
+
+
 
 ## Smaller evergreen trees
 
@@ -867,6 +885,9 @@ Hortulan Plum
 
 
 Tamarind 15,24 decid
+
+Consider Jujube (Chinese date palm, tastes like apple or when dried like dates apparently: http://www.eatingwell.com/article/2052310/heres-everything-you-need-to-know-about-jujube-fruit/)
+
 
 
 TODO: Consider Gunnera plant it looks like will provide good shade for the pond : https://www.youtube.com/watch?v=n2Wgaimzs40

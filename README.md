@@ -7,16 +7,16 @@
 
 This is the challenge:
 
-> Can I turn a my typical suburban backyard into something that is both beautiful and productive?
+> Can I turn a my typical urban backyard into something that is both beautiful and productive?
 
 I want my backyard to be:
-* **Aesthetically pleasing** : Most permaculture and aquaponic systems I see are ugly, with a bit of planning and cost I think there is no need for them to be
-* **Productive** : Creating food for us to consume including fruit, vegetables, eggs and fish
+* **Aesthetically pleasing** : Many permaculture and aquaponic systems I see are ugly, with a bit of planning and cost I think there is no need for them to be
+* **Productive** : Creating an abundance of food for us to consume including fruit, vegetables, eggs and fish
 * **Efficient/Sustainable** : Setting up as many natural cycles as possible, reusing our waste and working with nature instead of against it
 * **Low maintenance** : Through automation and good up-front design
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1Z0dSOvgFRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="703" height="506" src="https://www.youtube.com/embed/pTOdPWPuT4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Contents
@@ -29,7 +29,16 @@ I want my backyard to be:
 # Introduction
 
 
+
+
+TODO: Method
+
+The goal of this is to setup passive, self sustaining ecosystems that provide habitat for a diverse range of pants, animals and insects. The key is to understand that just bringing things into the garden is not sufficient. Instead we want to attract them to the garden by creating suitable habitat.
+
+
+
 TODO: This page is getting too large, I need to summarize things better and link to more detail elsewhere to make it more easily consumable
+TODO: Discuss introducing life vs creating an environment for life. Including fungi, bacteria, predators of pests, etc. It seems in many cases introducing things is pointless unless also creating the environment for them (they will die or leave) and often if you create the environment they will come anyway. Least work is about creating habitats for the beneficial things you care about. Artificial inputs typically require inputs to be provided forever
 
 **Why am I doing this?**
 
@@ -41,7 +50,7 @@ On this page you can expect to find the various aspects I have considered in the
 
 Existing  |  Proposed
 :---:|:---:
-![history/stage_8/existing.png](history/stage_8/existing.png)  |  <a href="history/stage_6/perspective.3.png">![history/stage_6/perspective.3.png](history/stage_6/perspective.3.png)</a>
+![history/stage_8/existing.png](history/stage_8/existing.png)  |  <a href="history/stage_10/perspective.png">![history/stage_10/perspective.png](history/stage_10/perspective.png)</a>
 
 TODO: Add overview diagram showing where everything is placed, flow of resources through the system (food, waste, water, sun, electricity, pruning's)
 
@@ -49,11 +58,40 @@ TODO: Add overview diagram showing where everything is placed, flow of resources
 
 The purpose of the goal statement is to help us imagine what the end result might be like and ensure that decisions made along the way contribute to the high level outcome instead of getting lost in the details of specific technologies (I can't help myself though I MUST have a pond and I focus on details too quickly).
 
-> Our small suburban back yard is productive and beautiful. With a focus on sustainable closed loop ecosystems, it provides us with some edible food and a habitat for local wildlife while reducing our detrimental impact on the environment.
+> Our small urban back yard is productive and beautiful. With a focus on sustainable closed loop ecosystems, it provides us with some edible food and a habitat for local wildlife while reducing our detrimental impact on the environment.
 > 
 > Providing shade in the summer and open to sunlight in the winter, it is a perfect space to entertain a few guests in a calming and peaceful environment.
 
 I used this guide to create the goal statement: <https://www.milkwood.net/2015/10/26/permaculture-design-process-1-writing-a-goal-statement/>
+
+
+# The ecosystem
+
+**Polyculture/Diversity**
+
+An ecosystem with diversity is typically more resilient than one without. This includes diversity in habitat, plants, animals, birds and insects. Many of the design aspects considered on this website will contribute to diversity in one way or another. 
+
+The goal I have is to provide multiple zones in the garden each with different habitat characteristics that may encourage a diverse range of life to my garden.
+
+The pond is a significant part of this and will on its own will in my opinion introduce more diversity than almost any other aspect of this garden. The rocks surrounding the pond will provide habitat for lizards, the planted shallow areas of the pond will provide habitat for frogs and various insects, the availability of water will attract birds and other animals not to mention the fish I plan to stock in the pond. Additionally the areas surrounding the pond will have a more stable temperature and the moisture content in the air will create a different micro-climate than other zones in the yard.
+
+Although we will have a bias towards plants for human consumption which may cause some imbalance in the system, I will adjust this as necessary after identifying specific issues once it is established. I expect to include different types of plants. This includes flowers, fruit, vegetables, herbs, fungi and other non-edible support plants. 
+
+
+**Creating artificial ecosystems**
+
+More information on: [Sustainability and Artificial vs Native Ecosystems](ecosystems/README.md)
+
+In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resilient and least maintenance. However this design, although learning where possible from local ecosystems, will instead attempt to artificially create non-native ecosystems in the backyard that better meet the goal of productivity.
+
+I have written more about my thinking on this in the page on [Sustainability and Artificial vs Native Ecosystems](ecosystems/README.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce food for us to consume. 
+
+Two examples of this in the design are:
+
+*Adding a pond* : A pond is not a natural feature in my backyard, and will require maintenance and some electricity to sustain it. However its my opinion that the benefits this will add in attracting diversity into the ecosystem (birds, lizards, insects), and the ability to produce leafy greens and fish to consume with minimal input and its beauty far outweigh the drawbacks.
+
+*Tree selection* : A good choice for trees in my area based on local ecosystems would likely be some kind of Eucalypt, or Lilli Pilli etc. But in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees which may require extra maintenance that a native would not. Lilli-Pilli trees is able to produce fruit that we may use, it is not fruit we will regularly use however and so the space would largely be wasted.
+
 
 
 # Aesthetics
@@ -88,86 +126,6 @@ One of the better edible landscape examples I have seen is:
 <a href="https://www.youtube.com/watch?v=l294zaoLgoA">
   <img alt="Small Urban Edible Forest" src="aesthetics/photos/small_urban_edible_forest.png" width="400">
 </a>
-
-
-# Polyculture/Diversity
-
-A diverse ecosystem is typically more resilient than one that lacks diversity. This includes diversity in plants animals and insects. Many of the design aspects identified on this page contribute to diversity in one way or another. 
-
-I expect to plant various different species of plants. This includes flowers, fruit, vegetables, herbs and other non-edible support plants that help define the ecosystem. 
-
-We will have a bias towards plants for human consumption which may cause some imbalance in the system, however I will adjust this as necessary after identifying specific issues.
-
-# Creating artificial ecosystems
-
-More information on: [Sustainability and Artificial vs Native Ecosystems](ecosystems/README.md)
-
-In an ideal world, I would base this entire design on local native ecosystems for the area in which I live. These are well adapted for the environment and would likely be the most resilient and least maintenance. However this design, although learning where possible from local ecosystems, will instead attempt to artificially create non-native ecosystems in the backyard that better meet the goal of productivity.
-
-I have written more about my thinking on this in the page on [Sustainability and Artificial vs Native Ecosystems](ecosystems/README.md). However in summary, in order to achieve the goals of productivity and sustainability in a small area of my backyard I think we need to focus on ecosystems that are tuned to produce food for us to consume. 
-
-Two examples of this in the design are:
-
-**Adding a pond** : A pond is not a natural feature in my backyard, and will require maintenance and some electricity to sustain it. However its my opinion that the benefits this will add in attracting diversity into the ecosystem (birds, lizards, insects), and the ability to produce leafy greens and fish to consume with minimal input and its beauty far outweigh the drawbacks.
-
-**Tree selection** : A good choice for trees in my area based on local ecosystems would likely be some kind of Eucalypt, or Lilli Pilli etc. But in order to achieve the productivity and density for the backyard I will be selecting various kinds of fruit and nut trees which may require extra maintenance that a native would not. Lilli-Pilli trees is able to produce fruit that we may use, it is not fruit we will regularly use however and so the space would largely be wasted.
-
-
-# Construction Plan
-
-More information on: [Staged Garden Construction Plan](stages/README.md)
-
-It is not feasible to create an ecosystem like this all at once but the process can be accelerated so instead of taking 100 years it can take a few years (usually about 10 apparently for a stable ecosystem), but it needs to be planned well in such a confined space to avoid too many mistakes that are difficult to rectify. For example, swales should really be designed before starting planting (at least in my constrained space). 
-
-The idea of accelerating ecological succession is well covered in lots of the permaculture literature. I have more information where I describe my specific [Staged Garden Construction Plan](stages/README.md) and how I expect to achieve this. Unlike other gardens I often see in permaculture designs, I do expect my design will take more inputs and achieve less reuse as part of construction. There are various reasons for this including: aesthetics, space requirements and startup time. But the end goal is to reach a stable ecosystem that looks good in a short space of time but is very much like the other typical permaculture ecosystems once established, reducing inputs by using natural cycles in the long run.
-
-Below is a summary of the main processes I expect I will be following to start with.
-
-**Base infrastructure**
-
-These are the key items I feel I should complete up front early as many other things will depend on this work.
-
-* Construction of structural elements
-  * Retaining wall for aesthetics, drainage, light penetration and space usability
-  * Swales, and plumbing for water flow and management
-  * Pond as it will be difficult to create later and will start to setup a keystone of the ecosystem
-    * I will need to make this a self sustaining planted ecosystem pond with maybe a few small fish to start with. The extra ideas improving density/stocking rates, aquaponics, fish diversity, improved filtration, intake bays can all be done later.
-* Subsoil preparation to help accelerate setup of the ecosystem
-  * Ensuring sufficient drainage around retaining wall to prevent stagnant pooling of water above it
-  * Ripping clay subsoil where necessary
-  * Adding charged biochar for raising pH and increasing water and nutrient retention
-  * *Maybe* adding lime and/or clay-breaker to subsoil/topsoil if necessary for initial application
-* Top soil preparation to help accelerate setup of the ecosystem
-  * Add bacterial rich organic matter in the form of compost or manure on top of soil first
-  * Add cardboard weed barrier layer
-  * Add 10cm thick nutrient dense layer (compost or manure, or maybe fungal dominant would be better here)
-  * Add 15cm thick woody layer (Full tree wood chips)
-* Add any irrigation planned to nurture plants early in the process
-  * Hopefully swales and house roof run-off/capture are sufficient long term for most watering (once ecosystem is established)
-  * Likely we will occasionally still need to irrigate during summer from stored water sources because of space limitations and our dry hot environment
-  * During the pioneer stage we plan to also plant out some non-pioneer trees, they will need nurturing in the early years until the ecosystem is established
-* Plant out pioneer plants and trees
-  * Add larger non-pioneer trees as they need time to grow (nurturing them with irrigation, artificial shade and some inputs as necessary like fertilizations etc.) 
-  * Add strong tap root plants to help break up the clay subsoil and raise nutrients like comfrey
-  * Add nitrogen fixers and ground covers like clover
-  * Add sacrificial fast growing trees (like acacia and bananas) to nurse other plants earlier before the larger trees are established
-  * Add hardy flowers to help attract pollinators
-  * Maybe grow a phytoremediation crop like sunflowers (if necessary) and discard it, though will set back our ecosystem a bit
-
-**Incremental changes**
-
-After the above foundational work is done, the work listed below that follows can be much more incremental and ordering is less important.
-
-* Chooks (Want early for composting and food)
-* Shrub layer when pioneers are sufficient to nurse them
-* Edible mycelium once sufficient shaded areas (probably on second round of wood chips)
-* Shelters for beneficial predators like bat boxes
-* Pond aquaponics
-* Plant out desired shrubs, ground covers flowers herbs etc.
-* Underground water storage (under proposed seating area using aqua blocks)
-* Hardscaping and seating area near pond
-
-There are many more things I will consider as you can see in the below categories. But I expect those to be added incrementally. As I try different things, observe the outcomes and iterate. I will try and continue to document the technologies I am trialing and my experiences.
 
 
 # Sunlight
@@ -214,6 +172,8 @@ You will notice that the water flow is linked across various aspects of the enti
 ## Swales 
 
 A common tool to help water retention are swales. These are usually depressions/trenches dug in the ground to hold water for a small period of time so it can infiltrate the soil better instead of running off the top. 
+
+A great description and information on swales I found is <https://youtu.be/lAKLUmoASyc>
 
 ![photos/swales.png](photos/swales.png)
 
@@ -283,9 +243,12 @@ More information on: [Soil analysis and remediation](soil/README.md)
 
 The type of soil available will have a large impact on the decisions made. In all cases soil can be built up and improved with a lot of effort. The two extremes are sandy soil and clay soil. Both can be improved through the ongoing addition of organic matter to the soil. 
 
-In my case we have a heavy clay subsoil. The topsoil is ok, but the subsoil is very solid clay and doesn't drain very well. It is important to get a proper soil test to have a better understanding of the local conditions. In some places it is free (various universities in Australia I believe offer free soil reports).
+In my case we have a heavy clay subsoil. The topsoil is ok, but the subsoil is very solid clay and doesn't drain well. It is important to get a proper soil test to have a better understanding of the local conditions. In some places it is free (various universities in Australia I believe offer free soil reports).
 
-The drainage is just one aspect to be considered though. The chemical balance is also quite important as incorrectly balanced soil prevents uptake of various nutrients by plans etc.
+The drainage is just one aspect of the soil to be considered though. There 
+
+
+The chemical balance and microbial life are also quite important as incorrectly balanced soil prevents uptake of various nutrients by plants etc.
 
 For me I know we had heavy clay soil. But the soil test also showed low concentration of calcium and high concentration of sodium and magnesium. What this means is that I needed to be careful about any lime applications to ensure it was calcium carbonate and not dolomitic lime which also includes magnesium. 
 
@@ -297,6 +260,13 @@ Additionally I plan to not grow leafy greens and other highly impacted plants in
 
 TODO: Discuss adding organic matter
 TODO: Discuss using biochar on acidic soils, its nutrient and water retention capabilities while still permitting oxygenation
+
+TODO: Discuss microbial life, look at KNF: https://en.wikipedia.org/wiki/Korean_natural_farming https://naturalfarminghawaii.net/ also lots of permaculture sites focus a lot on the microbial life, humus and organic matter and less on the chemistry of the soil
+TODO: Bacterial supplements for fungal control EM1: https://www.emnz.com/article/using-em-for-disease-protection
+Effective Micro Organisms: https://www.permaculturenews.org/2016/01/19/what-are-effective-microorganisms/
+
+
+Discuss amendments biochar, mulch, KNF, compost, ...
 
 I have a lot more information about this documented on the page about [Soil analysis and remediation](soil/README.md) where I will also discuss plants to improve the quality of the soil in a way that reduces maintenance over time.
 
@@ -377,7 +347,7 @@ This is a large topic, I have documented a lot more information about it on the 
 
 # Fowl (Chickens)
 
-Using chickens or pheasants as part of a suburban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
+Using chickens or pheasants as part of a urban ecosystem is hugely beneficial. They perform multiple different duties that help in the recycling of waste and health of the overall garden.
 
 Most likely we will include some bantam chickens (because they are smaller and require less space), however if we are unable to do that due to various constraints, I will consider using spotted pheasants or other form of fowl. They are good at:
 * Recycling human waste converting to manure that is good fertilizer for the garden
@@ -415,11 +385,21 @@ TODO:
 
 # Composting
 
-TODO
+TODO: Lots of methods to do composting maybe go in more detail
+TODO: If using cheap plastic compost bins which we have at the moment, use a cork-screw turner like https://www.bunnings.com.au/tumbleweed-compost-mate-tool_p3363916 also if using food scraps and no issues with rodents, we leave lid off to attract birds that keep the bugs under control and introduces birds to the yard
+
 
 # Biochar
 
-TODO: Some great references (discuss pros/cons, not always pro but can be useful for water and nutrient retention and soil addition for acidic soils):
+[Biochar](<https://en.wikipedia.org/wiki/Biochar>) is a form of charcoal that can be added to the soil to increase its ability to retain water and water-soluble nutrients. It has been documented as a very old technique used to create [terra preta](<https://en.wikipedia.org/wiki/Terra_preta>) which is a fertile dark soil created thousands of years ago in the amazon. There has been a lot of new research recently on using biochar as a means of improving soil but also for other uses such as carbon sequestration. It is the popular kid on the block at the moment so make sure to evaluate everything you read (including this page).
+
+There are a lot of resources on creating and using biochar, but one thing that was not overly clear to me at the beginning of my research on this is that not all biochar is created equal, and just using charcoal is not the same thing. I even saw some people suggesting using ash is the same as biochar. So be prepared for lots of incorrect information.
+
+Some things to note:
+* Usually adding biochar will raise the pH of the soil so be careful adding to high pH soils or near plants that require acidic soils
+* If the biochar is not inoculated with water and nutrients before adding to the ground it will absorb them for a while inhibiting availability of them for plants
+
+Some links I found good about biochar:
 * <http://www.ithaka-journal.net/wege-zu-terra-preta-aktivierung-von-biokohle?lang=en>
 * <https://www.sgaonline.org.au/is-biochar-wonderstuff/>
 * <https://en.wikipedia.org/wiki/Biochar#Soil_amendment>
@@ -430,7 +410,20 @@ TODO: Deep rooted (Comfrey for example)
 
 # Symbiotic mycelium
 
-TODO Layer wood mulch on top of soil and inoculate with edible mushroom mycelium
+Adding certain fungi to the garden breaks down the cellulose and lignin in woody material that is otherwise difficult for bacteria to break into usable nutrients for plants. By inoculating wood chips with specific varieties of fungi that are edible we can bolster the ecosystem with some diversity while also providing us with more food and improving the health of our other plants.
+
+This website describes three types of fungi <http://www.soilquality.org.au/factsheets/soil-bacteria-and-fungi-nsw>:
+* Decomposers: are essential for breaking down woody organic matter, they play an important role in immobilizing and retaining nutrients in the soil. The organic acids they produce help create soil organic matter that is resistant to degradation.
+* Mutualists: develop mutually beneficial relationships with plants. Mycorrhizal fungi are the best known ... increases the plant’s contact with the soil, improving access to water and nutrients, while their mass of hyphae protects roots from pests and pathogens.
+* Pathogens: penetrate the plant and decompose the living tissue, leading to weakened or dead plants.
+
+Ideally in the garden we want a primary/secondary decomposers like King Stropharia mushroom to break down the cellulose and lignin in the wood chips into nutrients that are available for the plants. King Stropharia is a good choice for this purpose as it is very hardy, edible and is a good decomposer. Additionally it is easy for me to identify so I don't accidentally eat toxic mushrooms.
+
+There is a lot of information online about growing mushrooms, one good example showing a few different methods of growing mushrooms in the garden can be seen in this video: <https://youtu.be/QJuh7-05ilo>. In my garden I will start with King Stropharia mushrooms inoculated in the woodchips in the first step. 
+
+In addition, it would also be beneficial to curate some mutualists in the garden, the most common of which are [mycorrhizal fungi](<https://en.wikipedia.org/wiki/Mycorrhiza>). Choosing mutualists is a little more difficult as they typically attach to roots of specific species of plant and are often more difficult to grow. There is again a lot of information available on this, one reference showing a few different species of edible mycorrhizal fungi I might be able to use is: <https://www.uky.edu/ccd/sites/www.uky.edu.ccd/files/truffles.pdf> 
+
+My plan is to try and identify a few species that will work with the different larger trees in the garden and then add spawn for them and see if anything takes off. Ideally it would be great to use an edible variety but it may not be feasible.
 
 
 # Beneficial instects and fauna
@@ -642,6 +635,65 @@ For each thing I add to the garden, I would like it to have more than one purpos
 
 # Design Zones
 TODO Identify zones in design and key points of the micro-climates / ecosystems in those zones
+
+
+# Construction Plan
+
+More information on: [Staged Garden Construction Plan](stages/README.md)
+
+It is not feasible to create an ecosystem like this all at once but the process can be accelerated so instead of taking 100 years it can take a few years (usually about 10 apparently for a stable ecosystem), but it needs to be planned well in such a confined space to avoid too many mistakes that are difficult to rectify. For example, swales should really be designed before starting planting (at least in my constrained space). 
+
+The idea of accelerating ecological succession is well covered in lots of the permaculture literature. I have more information where I describe my specific [Staged Garden Construction Plan](stages/README.md) and how I expect to achieve this. Unlike other gardens I often see in permaculture designs, I do expect my design will take more inputs and achieve less reuse as part of construction. There are various reasons for this including: aesthetics, space requirements and startup time. But the end goal is to reach a stable ecosystem that looks good in a short space of time but is very much like the other typical permaculture ecosystems once established, reducing inputs by using natural cycles in the long run.
+
+Below is a summary of the main processes I expect I will be following to start with.
+
+**Base infrastructure**
+
+These are the key items I feel I should complete up front early as many other things will depend on this work.
+
+* Construction of structural elements
+  * Retaining wall for aesthetics, drainage, light penetration and space usability
+  * Swales, and plumbing for water flow and management
+  * Pond as it will be difficult to create later and will start to setup a keystone of the ecosystem
+    * I will need to make this a self sustaining planted ecosystem pond with maybe a few small fish to start with. The extra ideas improving density/stocking rates, aquaponics, fish diversity, improved filtration, intake bays can all be done later.
+* Subsoil preparation to help accelerate setup of the ecosystem
+  * Ensuring sufficient drainage around retaining wall to prevent stagnant pooling of water above it
+  * Ripping clay subsoil where necessary
+  * Adding charged biochar for raising pH and increasing water and nutrient retention
+  * *Maybe* adding lime and/or clay-breaker to subsoil/topsoil if necessary for initial application
+* Top soil preparation to help accelerate setup of the ecosystem
+  * Add bacterial rich organic matter in the form of compost or manure on top of soil first
+  * Add cardboard weed barrier layer
+  * Add 10cm thick nutrient dense layer (compost or manure, or maybe fungal dominant would be better here)
+  * Add 15cm thick woody layer (Full tree wood chips)
+* Add any irrigation planned to nurture plants early in the process
+  * Hopefully swales and house roof run-off/capture are sufficient long term for most watering (once ecosystem is established)
+  * Likely we will occasionally still need to irrigate during summer from stored water sources because of space limitations and our dry hot environment
+  * During the pioneer stage we plan to also plant out some non-pioneer trees, they will need nurturing in the early years until the ecosystem is established
+* Plant out pioneer plants and trees
+  * Add larger non-pioneer trees as they need time to grow (nurturing them with irrigation, artificial shade and some inputs as necessary like fertilizations etc.) 
+  * Add strong tap root plants to help break up the clay subsoil and raise nutrients like comfrey
+  * Add nitrogen fixers and ground covers like clover
+  * Add sacrificial fast growing trees (like acacia and bananas) to nurse other plants earlier before the larger trees are established
+  * Add hardy flowers to help attract pollinators
+  * Maybe grow a phytoremediation crop like sunflowers (if necessary) and discard it, though will set back our ecosystem a bit
+
+**Incremental changes**
+
+After the above foundational work is done, the work listed below that follows can be much more incremental and ordering is less important.
+
+* Chooks (Want early for composting and food)
+* Shrub layer when pioneers are sufficient to nurse them
+* Edible mycelium once sufficient shaded areas (probably on second round of wood chips)
+* Shelters for beneficial predators like bat boxes
+* Pond aquaponics
+* Plant out desired shrubs, ground covers flowers herbs etc.
+* Underground water storage (under proposed seating area using aqua blocks)
+* Hardscaping and seating area near pond
+
+There are many more things I will consider as you can see in the below categories. But I expect those to be added incrementally. As I try different things, observe the outcomes and iterate. I will try and continue to document the technologies I am trialing and my experiences.
+
+
 
 # Old Designs
 
